@@ -5,131 +5,61 @@ import json
 import pandas
 import matplotlib
 import pymongo
+from pymongo import MongoClient
 
-
-def save_to_txt(custom_object, filename):
-    file = filename
-    with open(file, "a+") as f:
-        line = ""
-        for value in custom_object.items():
-            line+= (str(value[1].encode("utf-8"))[2:])[:-1]
-            line+= "\t"
-        f.write(line+"\n")
-
-def save_to_json(custom_object, filename):
-    file = filename
+def save_to_mongo(collection_name,custom_object):
     try:
-        with open(file) as f:
-            data = json.load(f)
-            for ob in custom_object:
-                data.append(ob)
-            f.close()
+        client = MongoClient('localhost:27017')
+        db = client['TwitterData']
+        collection = db[collection_name]
 
-        with open(file, 'w') as f:
-            json.dump(data, f, indent=2)
-            f.close()
-    except (Exception):
-        print("failed to save an entry!")
+        result = collection.insert_one(custom_object).inserted_id
+        print("Saved successfully.")
+    except pymongo.errors.ConnectionFailure as e:
+        print("Could not connect to MongoDB: %s" % e)
 
 
-def get_user_tweets(user_id, api, filename):
-    data = {}
-    data['tweets'] = []
+
+
+def get_user_tweets(user_id, api):
+    statuses = []
     progress = 0
 
-    for tweet in tweepy.Cursor(api.user_timeline, id=user_id).items():
-        data['tweets'].append(tweet)
-        progress += 1
-        print("Fetched "+str(progress)+" out of all timeline items")
+    for status in tweepy.Cursor(api.user_timeline, id=user_id).items(200):
+        statuses.append(status)
+        progress+=1
+        #print("Fetched "+str(progress)+" out of all timeline items")
 
-    print("Storing tweets...")
-    storing_tweets(data['tweets'], filename)
-    print("Downloaded {0} tweets".format(progress))
-
-    return data['tweets']
+    return statuses
 
 
-
-def extract_three_most_rt_tweets(tweets, filename):
+def extract_three_most_rt_tweets(tweets):
     max1 = max2 = max3 = tweets.pop(0)
     count  = 0
     for tw in tweets:
         count += 1
-        if (tw["retweet_count"] >= max1["retweet_count"]):
+        if (tw._json["retweet_count"] >= max1._json["retweet_count"]):
             max3 = max2
             max2 = max1
             max1 = tw
-        elif (tw['retweet_count'] >= max2["retweet_count"]):
+        elif (tw._json['retweet_count'] >= max2._json["retweet_count"]):
             max3 = max2
             max2 = tw
-        elif (tw["retweet_count"] >= max3["retweet_count"]):
+        elif (tw._json["retweet_count"] >= max3._json["retweet_count"]):
             max3 = tw
 
     print("Count: "+ str(count))
 
     most_rt_tweets = []
-    most_rt_tweets.append(max1)
-    most_rt_tweets.append(max2)
-    most_rt_tweets.append(max3)
+    most_rt_tweets.append(max1._json)
+    most_rt_tweets.append(max2._json)
+    most_rt_tweets.append(max3._json)
 
-    with open(filename, 'w+') as f:
-        json.dump(most_rt_tweets, f, indent=2)
-        f.close()
-
-    print("Max1: %s" % max1["retweet_count"])
-    print("Max2: %s" % max2["retweet_count"])
-    print("Max3: %s" % max3["retweet_count"])
+    print("Max1: %s" % max1._json["retweet_count"])
+    print("Max2: %s" % max2._json["retweet_count"])
+    print("Max3: %s" % max3._json["retweet_count"])
 
     return most_rt_tweets
-
-
-def storing_tweets(tweets, filename):
-    print("Writing to files the tweets...")
-    tweet_list = []
-    for tweet in tweets:
-        custom_object = {
-            "id": tweet._json["id"],
-            "id_str": tweet._json["id_str"],
-            "created_at": tweet._json["created_at"],
-            "text": tweet._json["text"],
-            "by_user": tweet._json["user"],
-            "retweeted": tweet._json["retweeted"],
-            "retweet_count": tweet._json["retweet_count"]
-        }
-        tweet_list.append(custom_object)
-    save_to_json(tweet_list, filename)
-    #save_to_txt(custom_object, filename)
-
-
-
-def collecting_tweets(user_id, user_name, api, filename):
-    tweetCount = 0
-    maxTweets = 1000000
-    data = {}
-    data['tweets'] = []
-
-    while tweetCount < maxTweets:
-        print(api.rate_limit_status()['resources']['search'])
-        try:
-            # Write the JSON format to the text file, and add one to the number of tweets we've collected
-            for tweet in tweepy.Cursor(api.user_timeline, id=user_id).items(10):
-                data['tweets'].append(tweet)
-                tweetCount += 1
-
-            print("Storing tweets...")
-            storing_tweets(data['tweets'], filename)
-            data['tweets'] = []
-
-            # Display how many tweets we have collected
-            print("Downloaded {0} tweets".format(tweetCount))
-        except tweepy.TweepError as e:
-            print("some error : " + str(e))
-
-    print("Downloaded {0} tweets, Saved to {1}".format(tweetCount, filename))
-
-
-
-
 
 def initialize():
     # connect with twitter
@@ -150,35 +80,36 @@ def initialize():
 def main():
     api = initialize()
 
+
+
     # user[0] -> Fake news,  user[1] -> Real news
     user_id = ["525815006", "335455570"]
     user_name = ["FolksRtalking", "ReutersWorld"]
 
-    with open('fake.json', mode='w', encoding='utf-8') as f:
-        json.dump([], f)
-    with open('real.json', mode='w', encoding='utf-8') as f:
-        json.dump([], f)
+    most_rt_statuses = []
 
-    #collecting_tweets(user_id[0], user_name[0], api, 'fake.json')
-    #collecting_tweets(user_id[1], user_name[1], api, 'real.json')
+    most_rt_statuses.append(extract_three_most_rt_tweets(get_user_tweets(user_id[0], api)))
+    most_rt_statuses.append(extract_three_most_rt_tweets(get_user_tweets(user_id[1], api)))
 
+    for tweet in most_rt_statuses[0]:
+        save_to_mongo("RetweetedFake", tweet)
+        for tweets in api.retweets(tweet['id'], count=100):
+            save_to_mongo("Fake_" + str(tweet['id']), tweets._json)
 
-    get_user_tweets(user_id[0], api, 'fake.json')
-    get_user_tweets(user_id[1], api, 'real.json')
+    for tweet in most_rt_statuses[1]:
+        save_to_mongo("RetweetedReal", tweet)
+        for tweets in api.retweets(tweet['id'], count=100):
+            save_to_mongo("Real_" + str(tweet['id']), tweets._json)
 
-    print("Extracting three most retweeted tweets of %s ..." % user_name[0])
-    with open('fake.json', mode='r', encoding='utf-8') as f:
-        fake_tweets = json.load(f)
-    most_rt_fake_tweets = extract_three_most_rt_tweets(fake_tweets, 'most_rt_fake_tweets.json')
-
-
-    print("Extracting three most retweeted tweets of %s ..." % user_name[1])
-    with open('real.json', mode='r', encoding='utf-8') as f:
-        real_tweets = json.load(f)
-    most_rt_real_tweets = extract_three_most_rt_tweets(real_tweets, 'most_rt_real_tweets.json')
+    #collection = db['RetweetedFake']
+    #for document in collection.find():
 
 
-    print("Extraction of tweets completed!")
+    #collection = db['RetweetedReal']
+    #for document in collection.find():
+
+
+
 
 
 
