@@ -26,7 +26,7 @@ def get_user_tweets(user_id, api):
     statuses_as_json = []
     progress = 0
 
-    for status in tweepy.Cursor(api.user_timeline, id=user_id).items(20):
+    for status in tweepy.Cursor(api.user_timeline, id=user_id).items(200):
         #print("Status: " + str(status._json))
         statuses_as_json.append(status._json)
         progress += 1
@@ -44,8 +44,12 @@ def sort_by_key(status_obj):
 
 
 def extract_three_most_rt_tweets(tweets):
-    return sorted(tweets, key=sort_by_key, reverse=False)[:3]
+    sorted_lst = sorted(tweets, key=sort_by_key, reverse=True)[:3]
 
+    for item in sorted_lst:
+        print("Retweet_count: " + str(item["retweet_count"]))
+
+    return sorted_lst
     # max1 = max2 = max3 = tweets.pop(0)
     # count  = 0
     # for tw in tweets:
