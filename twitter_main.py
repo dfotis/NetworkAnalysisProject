@@ -49,25 +49,30 @@ def sort_by_key(status_obj):
         return 0
 
 
-def extract_three_most_rt_tweets(tweets):
-    #sorted_lst = sorted(tweets, key=sort_by_key, reverse=True)[:3]
-    '''
-    To solve a problem with the fake account
-    '''
-    sorted_lst = sorted(tweets, key=sort_by_key, reverse=True)[5:15]
-    '''
-    Fake_572439843332100097 retweets: 1860
-    Fake_571481175627329536 retweets: 967
-    Fake_575387925992570881 retweets: 970
-    '''
-    list = []
-    ids = [572439843332100097, 571481175627329536, 575387925992570881]
-    for item in sorted_lst:
-        if item._json['id'] in ids:
-            list.append(item)
+def extract_three_most_rt_tweets(tweets, type):
+    if(type == 'real'):
+        sorted_lst = sorted(tweets, key=sort_by_key, reverse=True)[:3]
+        for item in sorted_lst:
             print("Retweet_count: " + str(item._json["retweet_count"]))
 
-    return list
+        return sorted_lst
+    else:
+        #To solve a problem with the fake account
+
+        sorted_lst = sorted(tweets, key=sort_by_key, reverse=True)[5:15]
+
+        #Fake_572439843332100097 retweets: 1860
+        #Fake_571481175627329536 retweets: 967
+        #Fake_575387925992570881 retweets: 970
+
+        list = []
+        ids = [572439843332100097, 571481175627329536, 575387925992570881]
+        for item in sorted_lst:
+            if item._json['id'] in ids:
+                list.append(item)
+                print("Retweet_count: " + str(item._json["retweet_count"]))
+
+        return list
 
 
 def get_user_tweets(user_id, api):
@@ -124,12 +129,12 @@ def fisrt_step(user_id, api):
     print("Collecting tweets from the fake user's timelime...")
     fake_timeline_tweets = get_user_tweets(user_id[0], api)
     print("Calculating the three most retweeted...")
-    most_rted_fake_tweets = extract_three_most_rt_tweets(fake_timeline_tweets)
+    most_rted_fake_tweets = extract_three_most_rt_tweets(fake_timeline_tweets, 'fake')
 
     print("\nCollecting tweets from the real user's timelime...")
     real_timeline_tweets = get_user_tweets(user_id[1], api)
     print("Calculating the three most retweeted...")
-    most_rted_real_tweets = extract_three_most_rt_tweets(real_timeline_tweets)
+    most_rted_real_tweets = extract_three_most_rt_tweets(real_timeline_tweets, 'real')
 
     print("Collecting fake retweets...")
     collect_retweets(most_rted_fake_tweets, api, "Fake")
