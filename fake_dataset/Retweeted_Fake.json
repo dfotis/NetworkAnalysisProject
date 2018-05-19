@@ -1,0 +1,1170 @@
+{ 
+    "_id" : ObjectId("5afe8e0e9954de14d0acfc4a"), 
+    "created_at" : "Mon Mar 02 16:54:28 +0000 2015", 
+    "id" : NumberLong(572439843332100097), 
+    "id_str" : "572439843332100097", 
+    "text" : "@FloydMayweather Cancels Fight After Pacquiao Fails 1st Random Drug Test #MayweatherPacquiao \nhttp://t.co/n7kEQqDLLA http://t.co/Ta1y1ilPwg", 
+    "truncated" : false, 
+    "entities" : {
+        "hashtags" : [
+            {
+                "text" : "MayweatherPacquiao", 
+                "indices" : [
+                    NumberInt(73), 
+                    NumberInt(92)
+                ]
+            }
+        ], 
+        "symbols" : [
+
+        ], 
+        "user_mentions" : [
+            {
+                "screen_name" : "FloydMayweather", 
+                "name" : "Floyd Mayweather", 
+                "id" : NumberInt(42519612), 
+                "id_str" : "42519612", 
+                "indices" : [
+                    NumberInt(0), 
+                    NumberInt(16)
+                ]
+            }
+        ], 
+        "urls" : [
+            {
+                "url" : "http://t.co/n7kEQqDLLA", 
+                "expanded_url" : "http://goo.gl/FNO75V", 
+                "display_url" : "goo.gl/FNO75V", 
+                "indices" : [
+                    NumberInt(94), 
+                    NumberInt(116)
+                ]
+            }
+        ], 
+        "media" : [
+            {
+                "id" : NumberLong(572439841222336513), 
+                "id_str" : "572439841222336513", 
+                "indices" : [
+                    NumberInt(117), 
+                    NumberInt(139)
+                ], 
+                "media_url" : "http://pbs.twimg.com/media/B_G3AK9WoAEW4IA.jpg", 
+                "media_url_https" : "https://pbs.twimg.com/media/B_G3AK9WoAEW4IA.jpg", 
+                "url" : "http://t.co/Ta1y1ilPwg", 
+                "display_url" : "pic.twitter.com/Ta1y1ilPwg", 
+                "expanded_url" : "https://twitter.com/folksrtalking/status/572439843332100097/photo/1", 
+                "type" : "photo", 
+                "sizes" : {
+                    "thumb" : {
+                        "w" : NumberInt(150), 
+                        "h" : NumberInt(150), 
+                        "resize" : "crop"
+                    }, 
+                    "medium" : {
+                        "w" : NumberInt(639), 
+                        "h" : NumberInt(419), 
+                        "resize" : "fit"
+                    }, 
+                    "small" : {
+                        "w" : NumberInt(639), 
+                        "h" : NumberInt(419), 
+                        "resize" : "fit"
+                    }, 
+                    "large" : {
+                        "w" : NumberInt(639), 
+                        "h" : NumberInt(419), 
+                        "resize" : "fit"
+                    }
+                }
+            }
+        ]
+    }, 
+    "extended_entities" : {
+        "media" : [
+            {
+                "id" : NumberLong(572439841222336513), 
+                "id_str" : "572439841222336513", 
+                "indices" : [
+                    NumberInt(117), 
+                    NumberInt(139)
+                ], 
+                "media_url" : "http://pbs.twimg.com/media/B_G3AK9WoAEW4IA.jpg", 
+                "media_url_https" : "https://pbs.twimg.com/media/B_G3AK9WoAEW4IA.jpg", 
+                "url" : "http://t.co/Ta1y1ilPwg", 
+                "display_url" : "pic.twitter.com/Ta1y1ilPwg", 
+                "expanded_url" : "https://twitter.com/folksrtalking/status/572439843332100097/photo/1", 
+                "type" : "photo", 
+                "sizes" : {
+                    "thumb" : {
+                        "w" : NumberInt(150), 
+                        "h" : NumberInt(150), 
+                        "resize" : "crop"
+                    }, 
+                    "medium" : {
+                        "w" : NumberInt(639), 
+                        "h" : NumberInt(419), 
+                        "resize" : "fit"
+                    }, 
+                    "small" : {
+                        "w" : NumberInt(639), 
+                        "h" : NumberInt(419), 
+                        "resize" : "fit"
+                    }, 
+                    "large" : {
+                        "w" : NumberInt(639), 
+                        "h" : NumberInt(419), 
+                        "resize" : "fit"
+                    }
+                }
+            }
+        ]
+    }, 
+    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "in_reply_to_status_id" : null, 
+    "in_reply_to_status_id_str" : null, 
+    "in_reply_to_user_id" : NumberInt(42519612), 
+    "in_reply_to_user_id_str" : "42519612", 
+    "in_reply_to_screen_name" : "FloydMayweather", 
+    "user" : {
+        "id" : NumberInt(525815006), 
+        "id_str" : "525815006", 
+        "name" : "THE GOD KING", 
+        "screen_name" : "FolksRtalking", 
+        "location" : "Subscribe▶️", 
+        "description" : "Folks don't want to be INFORMED they want to be ENTERTAINED. IG: FolksRtalking #InfoTainment News at its Finest! #NYC", 
+        "url" : "https://t.co/c7A2tBqlVH", 
+        "entities" : {
+            "url" : {
+                "urls" : [
+                    {
+                        "url" : "https://t.co/c7A2tBqlVH", 
+                        "expanded_url" : "http://instagram.com/folksrtalking", 
+                        "display_url" : "instagram.com/folksrtalking", 
+                        "indices" : [
+                            NumberInt(0), 
+                            NumberInt(23)
+                        ]
+                    }
+                ]
+            }, 
+            "description" : {
+                "urls" : [
+
+                ]
+            }
+        }, 
+        "protected" : false, 
+        "followers_count" : NumberInt(33086), 
+        "friends_count" : NumberInt(41), 
+        "listed_count" : NumberInt(10), 
+        "created_at" : "Thu Mar 15 22:39:07 +0000 2012", 
+        "favourites_count" : NumberInt(757), 
+        "utc_offset" : NumberInt(-14400), 
+        "time_zone" : "Eastern Time (US & Canada)", 
+        "geo_enabled" : false, 
+        "verified" : false, 
+        "statuses_count" : NumberInt(4590), 
+        "lang" : "en", 
+        "contributors_enabled" : false, 
+        "is_translator" : false, 
+        "is_translation_enabled" : false, 
+        "profile_background_color" : "C0DEED", 
+        "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/378800000082620129/1f754865a5d8a1c893ddd25d9aae426f.jpeg", 
+        "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/378800000082620129/1f754865a5d8a1c893ddd25d9aae426f.jpeg", 
+        "profile_background_tile" : false, 
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/701100144087982082/PnVM1j4t_normal.jpg", 
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/701100144087982082/PnVM1j4t_normal.jpg", 
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/525815006/1428304892", 
+        "profile_link_color" : "0084B4", 
+        "profile_sidebar_border_color" : "FFFFFF", 
+        "profile_sidebar_fill_color" : "DDEEF6", 
+        "profile_text_color" : "333333", 
+        "profile_use_background_image" : true, 
+        "has_extended_profile" : false, 
+        "default_profile" : false, 
+        "default_profile_image" : false, 
+        "following" : false, 
+        "follow_request_sent" : false, 
+        "notifications" : false, 
+        "translator_type" : "none"
+    }, 
+    "geo" : null, 
+    "coordinates" : null, 
+    "place" : null, 
+    "contributors" : null, 
+    "is_quote_status" : false, 
+    "retweet_count" : NumberInt(2404), 
+    "favorite_count" : NumberInt(1052), 
+    "favorited" : false, 
+    "retweeted" : false, 
+    "possibly_sensitive" : false, 
+    "lang" : "en"
+}
+{ 
+    "_id" : ObjectId("5afe8e2f9954de14d0ad0ae4"), 
+    "created_at" : "Sat Feb 28 01:25:04 +0000 2015", 
+    "id" : NumberLong(571481175627329536), 
+    "id_str" : "571481175627329536", 
+    "text" : "P Diddy Sues Empire TV Show \"They Stole My Life Story\"👇👇\nhttp://t.co/uCmSUwY8Mg http://t.co/JxCXfyXW7n", 
+    "truncated" : false, 
+    "entities" : {
+        "hashtags" : [
+
+        ], 
+        "symbols" : [
+
+        ], 
+        "user_mentions" : [
+
+        ], 
+        "urls" : [
+            {
+                "url" : "http://t.co/uCmSUwY8Mg", 
+                "expanded_url" : "http://goo.gl/AquG6K", 
+                "display_url" : "goo.gl/AquG6K", 
+                "indices" : [
+                    NumberInt(57), 
+                    NumberInt(79)
+                ]
+            }
+        ], 
+        "media" : [
+            {
+                "id" : NumberLong(571481170916978688), 
+                "id_str" : "571481170916978688", 
+                "indices" : [
+                    NumberInt(80), 
+                    NumberInt(102)
+                ], 
+                "media_url" : "http://pbs.twimg.com/media/B-5PGNxUsAAszUY.jpg", 
+                "media_url_https" : "https://pbs.twimg.com/media/B-5PGNxUsAAszUY.jpg", 
+                "url" : "http://t.co/JxCXfyXW7n", 
+                "display_url" : "pic.twitter.com/JxCXfyXW7n", 
+                "expanded_url" : "https://twitter.com/folksrtalking/status/571481175627329536/photo/1", 
+                "type" : "photo", 
+                "sizes" : {
+                    "thumb" : {
+                        "w" : NumberInt(150), 
+                        "h" : NumberInt(150), 
+                        "resize" : "crop"
+                    }, 
+                    "medium" : {
+                        "w" : NumberInt(640), 
+                        "h" : NumberInt(640), 
+                        "resize" : "fit"
+                    }, 
+                    "large" : {
+                        "w" : NumberInt(640), 
+                        "h" : NumberInt(640), 
+                        "resize" : "fit"
+                    }, 
+                    "small" : {
+                        "w" : NumberInt(640), 
+                        "h" : NumberInt(640), 
+                        "resize" : "fit"
+                    }
+                }
+            }
+        ]
+    }, 
+    "extended_entities" : {
+        "media" : [
+            {
+                "id" : NumberLong(571481170916978688), 
+                "id_str" : "571481170916978688", 
+                "indices" : [
+                    NumberInt(80), 
+                    NumberInt(102)
+                ], 
+                "media_url" : "http://pbs.twimg.com/media/B-5PGNxUsAAszUY.jpg", 
+                "media_url_https" : "https://pbs.twimg.com/media/B-5PGNxUsAAszUY.jpg", 
+                "url" : "http://t.co/JxCXfyXW7n", 
+                "display_url" : "pic.twitter.com/JxCXfyXW7n", 
+                "expanded_url" : "https://twitter.com/folksrtalking/status/571481175627329536/photo/1", 
+                "type" : "photo", 
+                "sizes" : {
+                    "thumb" : {
+                        "w" : NumberInt(150), 
+                        "h" : NumberInt(150), 
+                        "resize" : "crop"
+                    }, 
+                    "medium" : {
+                        "w" : NumberInt(640), 
+                        "h" : NumberInt(640), 
+                        "resize" : "fit"
+                    }, 
+                    "large" : {
+                        "w" : NumberInt(640), 
+                        "h" : NumberInt(640), 
+                        "resize" : "fit"
+                    }, 
+                    "small" : {
+                        "w" : NumberInt(640), 
+                        "h" : NumberInt(640), 
+                        "resize" : "fit"
+                    }
+                }
+            }
+        ]
+    }, 
+    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "in_reply_to_status_id" : null, 
+    "in_reply_to_status_id_str" : null, 
+    "in_reply_to_user_id" : null, 
+    "in_reply_to_user_id_str" : null, 
+    "in_reply_to_screen_name" : null, 
+    "user" : {
+        "id" : NumberInt(525815006), 
+        "id_str" : "525815006", 
+        "name" : "THE GOD KING", 
+        "screen_name" : "FolksRtalking", 
+        "location" : "Subscribe▶️", 
+        "description" : "Folks don't want to be INFORMED they want to be ENTERTAINED. IG: FolksRtalking #InfoTainment News at its Finest! #NYC", 
+        "url" : "https://t.co/c7A2tBqlVH", 
+        "entities" : {
+            "url" : {
+                "urls" : [
+                    {
+                        "url" : "https://t.co/c7A2tBqlVH", 
+                        "expanded_url" : "http://instagram.com/folksrtalking", 
+                        "display_url" : "instagram.com/folksrtalking", 
+                        "indices" : [
+                            NumberInt(0), 
+                            NumberInt(23)
+                        ]
+                    }
+                ]
+            }, 
+            "description" : {
+                "urls" : [
+
+                ]
+            }
+        }, 
+        "protected" : false, 
+        "followers_count" : NumberInt(33086), 
+        "friends_count" : NumberInt(41), 
+        "listed_count" : NumberInt(10), 
+        "created_at" : "Thu Mar 15 22:39:07 +0000 2012", 
+        "favourites_count" : NumberInt(757), 
+        "utc_offset" : NumberInt(-14400), 
+        "time_zone" : "Eastern Time (US & Canada)", 
+        "geo_enabled" : false, 
+        "verified" : false, 
+        "statuses_count" : NumberInt(4590), 
+        "lang" : "en", 
+        "contributors_enabled" : false, 
+        "is_translator" : false, 
+        "is_translation_enabled" : false, 
+        "profile_background_color" : "C0DEED", 
+        "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/378800000082620129/1f754865a5d8a1c893ddd25d9aae426f.jpeg", 
+        "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/378800000082620129/1f754865a5d8a1c893ddd25d9aae426f.jpeg", 
+        "profile_background_tile" : false, 
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/701100144087982082/PnVM1j4t_normal.jpg", 
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/701100144087982082/PnVM1j4t_normal.jpg", 
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/525815006/1428304892", 
+        "profile_link_color" : "0084B4", 
+        "profile_sidebar_border_color" : "FFFFFF", 
+        "profile_sidebar_fill_color" : "DDEEF6", 
+        "profile_text_color" : "333333", 
+        "profile_use_background_image" : true, 
+        "has_extended_profile" : false, 
+        "default_profile" : false, 
+        "default_profile_image" : false, 
+        "following" : false, 
+        "follow_request_sent" : false, 
+        "notifications" : false, 
+        "translator_type" : "none"
+    }, 
+    "geo" : null, 
+    "coordinates" : null, 
+    "place" : null, 
+    "contributors" : null, 
+    "is_quote_status" : false, 
+    "retweet_count" : NumberInt(1143), 
+    "favorite_count" : NumberInt(152), 
+    "favorited" : false, 
+    "retweeted" : false, 
+    "possibly_sensitive" : false, 
+    "lang" : "en"
+}
+{ 
+    "_id" : ObjectId("5afe910d9954de14d0ad1274"), 
+    "created_at" : "Tue Mar 10 20:09:06 +0000 2015", 
+    "id" : NumberLong(575387925992570881), 
+    "id_str" : "575387925992570881", 
+    "text" : "Mayweather on Pacquiao Fight \"I Promise a Knockout in 5 Rounds or less. #MayweatherPacquiao 👇\nhttp://t.co/TwsWUBsbZ2 http://t.co/re5Qa86RuO", 
+    "truncated" : false, 
+    "entities" : {
+        "hashtags" : [
+            {
+                "text" : "MayweatherPacquiao", 
+                "indices" : [
+                    NumberInt(72), 
+                    NumberInt(91)
+                ]
+            }
+        ], 
+        "symbols" : [
+
+        ], 
+        "user_mentions" : [
+
+        ], 
+        "urls" : [
+            {
+                "url" : "http://t.co/TwsWUBsbZ2", 
+                "expanded_url" : "http://www.celebtricity.com/mayweather-on-pacquiao-fight-i-promise-a-knockout-in-5-rounds-or-less/", 
+                "display_url" : "celebtricity.com/mayweather-on-…", 
+                "indices" : [
+                    NumberInt(94), 
+                    NumberInt(116)
+                ]
+            }
+        ], 
+        "media" : [
+            {
+                "id" : NumberLong(575387919843729408), 
+                "id_str" : "575387919843729408", 
+                "indices" : [
+                    NumberInt(117), 
+                    NumberInt(139)
+                ], 
+                "media_url" : "http://pbs.twimg.com/media/B_wwQ7pWIAA1EMZ.jpg", 
+                "media_url_https" : "https://pbs.twimg.com/media/B_wwQ7pWIAA1EMZ.jpg", 
+                "url" : "http://t.co/re5Qa86RuO", 
+                "display_url" : "pic.twitter.com/re5Qa86RuO", 
+                "expanded_url" : "https://twitter.com/FolksRtalking/status/575387925992570881/photo/1", 
+                "type" : "photo", 
+                "sizes" : {
+                    "thumb" : {
+                        "w" : NumberInt(150), 
+                        "h" : NumberInt(150), 
+                        "resize" : "crop"
+                    }, 
+                    "small" : {
+                        "w" : NumberInt(639), 
+                        "h" : NumberInt(572), 
+                        "resize" : "fit"
+                    }, 
+                    "large" : {
+                        "w" : NumberInt(639), 
+                        "h" : NumberInt(572), 
+                        "resize" : "fit"
+                    }, 
+                    "medium" : {
+                        "w" : NumberInt(639), 
+                        "h" : NumberInt(572), 
+                        "resize" : "fit"
+                    }
+                }
+            }
+        ]
+    }, 
+    "extended_entities" : {
+        "media" : [
+            {
+                "id" : NumberLong(575387919843729408), 
+                "id_str" : "575387919843729408", 
+                "indices" : [
+                    NumberInt(117), 
+                    NumberInt(139)
+                ], 
+                "media_url" : "http://pbs.twimg.com/media/B_wwQ7pWIAA1EMZ.jpg", 
+                "media_url_https" : "https://pbs.twimg.com/media/B_wwQ7pWIAA1EMZ.jpg", 
+                "url" : "http://t.co/re5Qa86RuO", 
+                "display_url" : "pic.twitter.com/re5Qa86RuO", 
+                "expanded_url" : "https://twitter.com/FolksRtalking/status/575387925992570881/photo/1", 
+                "type" : "photo", 
+                "sizes" : {
+                    "thumb" : {
+                        "w" : NumberInt(150), 
+                        "h" : NumberInt(150), 
+                        "resize" : "crop"
+                    }, 
+                    "small" : {
+                        "w" : NumberInt(639), 
+                        "h" : NumberInt(572), 
+                        "resize" : "fit"
+                    }, 
+                    "large" : {
+                        "w" : NumberInt(639), 
+                        "h" : NumberInt(572), 
+                        "resize" : "fit"
+                    }, 
+                    "medium" : {
+                        "w" : NumberInt(639), 
+                        "h" : NumberInt(572), 
+                        "resize" : "fit"
+                    }
+                }
+            }
+        ]
+    }, 
+    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "in_reply_to_status_id" : null, 
+    "in_reply_to_status_id_str" : null, 
+    "in_reply_to_user_id" : null, 
+    "in_reply_to_user_id_str" : null, 
+    "in_reply_to_screen_name" : null, 
+    "user" : {
+        "id" : NumberInt(525815006), 
+        "id_str" : "525815006", 
+        "name" : "THE GOD KING", 
+        "screen_name" : "FolksRtalking", 
+        "location" : "Subscribe▶️", 
+        "description" : "Folks don't want to be INFORMED they want to be ENTERTAINED. IG: FolksRtalking #InfoTainment News at its Finest! #NYC", 
+        "url" : "https://t.co/c7A2tBqlVH", 
+        "entities" : {
+            "url" : {
+                "urls" : [
+                    {
+                        "url" : "https://t.co/c7A2tBqlVH", 
+                        "expanded_url" : "http://instagram.com/folksrtalking", 
+                        "display_url" : "instagram.com/folksrtalking", 
+                        "indices" : [
+                            NumberInt(0), 
+                            NumberInt(23)
+                        ]
+                    }
+                ]
+            }, 
+            "description" : {
+                "urls" : [
+
+                ]
+            }
+        }, 
+        "protected" : false, 
+        "followers_count" : NumberInt(33086), 
+        "friends_count" : NumberInt(41), 
+        "listed_count" : NumberInt(10), 
+        "created_at" : "Thu Mar 15 22:39:07 +0000 2012", 
+        "favourites_count" : NumberInt(757), 
+        "utc_offset" : NumberInt(-14400), 
+        "time_zone" : "Eastern Time (US & Canada)", 
+        "geo_enabled" : false, 
+        "verified" : false, 
+        "statuses_count" : NumberInt(4590), 
+        "lang" : "en", 
+        "contributors_enabled" : false, 
+        "is_translator" : false, 
+        "is_translation_enabled" : false, 
+        "profile_background_color" : "C0DEED", 
+        "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/378800000082620129/1f754865a5d8a1c893ddd25d9aae426f.jpeg", 
+        "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/378800000082620129/1f754865a5d8a1c893ddd25d9aae426f.jpeg", 
+        "profile_background_tile" : false, 
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/701100144087982082/PnVM1j4t_normal.jpg", 
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/701100144087982082/PnVM1j4t_normal.jpg", 
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/525815006/1428304892", 
+        "profile_link_color" : "0084B4", 
+        "profile_sidebar_border_color" : "FFFFFF", 
+        "profile_sidebar_fill_color" : "DDEEF6", 
+        "profile_text_color" : "333333", 
+        "profile_use_background_image" : true, 
+        "has_extended_profile" : false, 
+        "default_profile" : false, 
+        "default_profile_image" : false, 
+        "following" : false, 
+        "follow_request_sent" : false, 
+        "notifications" : false, 
+        "translator_type" : "none"
+    }, 
+    "geo" : null, 
+    "coordinates" : null, 
+    "place" : null, 
+    "contributors" : null, 
+    "is_quote_status" : false, 
+    "retweet_count" : NumberInt(1117), 
+    "favorite_count" : NumberInt(197), 
+    "favorited" : false, 
+    "retweeted" : false, 
+    "possibly_sensitive" : false, 
+    "lang" : "en"
+}
+{ 
+    "_id" : ObjectId("5afe9ce09954de1e09cf110d"), 
+    "created_at" : "Mon Mar 02 16:54:28 +0000 2015", 
+    "id" : NumberLong(572439843332100097), 
+    "id_str" : "572439843332100097", 
+    "text" : "@FloydMayweather Cancels Fight After Pacquiao Fails 1st Random Drug Test #MayweatherPacquiao \nhttp://t.co/n7kEQqDLLA http://t.co/Ta1y1ilPwg", 
+    "truncated" : false, 
+    "entities" : {
+        "hashtags" : [
+            {
+                "text" : "MayweatherPacquiao", 
+                "indices" : [
+                    NumberInt(73), 
+                    NumberInt(92)
+                ]
+            }
+        ], 
+        "symbols" : [
+
+        ], 
+        "user_mentions" : [
+            {
+                "screen_name" : "FloydMayweather", 
+                "name" : "Floyd Mayweather", 
+                "id" : NumberInt(42519612), 
+                "id_str" : "42519612", 
+                "indices" : [
+                    NumberInt(0), 
+                    NumberInt(16)
+                ]
+            }
+        ], 
+        "urls" : [
+            {
+                "url" : "http://t.co/n7kEQqDLLA", 
+                "expanded_url" : "http://goo.gl/FNO75V", 
+                "display_url" : "goo.gl/FNO75V", 
+                "indices" : [
+                    NumberInt(94), 
+                    NumberInt(116)
+                ]
+            }
+        ], 
+        "media" : [
+            {
+                "id" : NumberLong(572439841222336513), 
+                "id_str" : "572439841222336513", 
+                "indices" : [
+                    NumberInt(117), 
+                    NumberInt(139)
+                ], 
+                "media_url" : "http://pbs.twimg.com/media/B_G3AK9WoAEW4IA.jpg", 
+                "media_url_https" : "https://pbs.twimg.com/media/B_G3AK9WoAEW4IA.jpg", 
+                "url" : "http://t.co/Ta1y1ilPwg", 
+                "display_url" : "pic.twitter.com/Ta1y1ilPwg", 
+                "expanded_url" : "https://twitter.com/folksrtalking/status/572439843332100097/photo/1", 
+                "type" : "photo", 
+                "sizes" : {
+                    "thumb" : {
+                        "w" : NumberInt(150), 
+                        "h" : NumberInt(150), 
+                        "resize" : "crop"
+                    }, 
+                    "medium" : {
+                        "w" : NumberInt(639), 
+                        "h" : NumberInt(419), 
+                        "resize" : "fit"
+                    }, 
+                    "small" : {
+                        "w" : NumberInt(639), 
+                        "h" : NumberInt(419), 
+                        "resize" : "fit"
+                    }, 
+                    "large" : {
+                        "w" : NumberInt(639), 
+                        "h" : NumberInt(419), 
+                        "resize" : "fit"
+                    }
+                }
+            }
+        ]
+    }, 
+    "extended_entities" : {
+        "media" : [
+            {
+                "id" : NumberLong(572439841222336513), 
+                "id_str" : "572439841222336513", 
+                "indices" : [
+                    NumberInt(117), 
+                    NumberInt(139)
+                ], 
+                "media_url" : "http://pbs.twimg.com/media/B_G3AK9WoAEW4IA.jpg", 
+                "media_url_https" : "https://pbs.twimg.com/media/B_G3AK9WoAEW4IA.jpg", 
+                "url" : "http://t.co/Ta1y1ilPwg", 
+                "display_url" : "pic.twitter.com/Ta1y1ilPwg", 
+                "expanded_url" : "https://twitter.com/folksrtalking/status/572439843332100097/photo/1", 
+                "type" : "photo", 
+                "sizes" : {
+                    "thumb" : {
+                        "w" : NumberInt(150), 
+                        "h" : NumberInt(150), 
+                        "resize" : "crop"
+                    }, 
+                    "medium" : {
+                        "w" : NumberInt(639), 
+                        "h" : NumberInt(419), 
+                        "resize" : "fit"
+                    }, 
+                    "small" : {
+                        "w" : NumberInt(639), 
+                        "h" : NumberInt(419), 
+                        "resize" : "fit"
+                    }, 
+                    "large" : {
+                        "w" : NumberInt(639), 
+                        "h" : NumberInt(419), 
+                        "resize" : "fit"
+                    }
+                }
+            }
+        ]
+    }, 
+    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "in_reply_to_status_id" : null, 
+    "in_reply_to_status_id_str" : null, 
+    "in_reply_to_user_id" : NumberInt(42519612), 
+    "in_reply_to_user_id_str" : "42519612", 
+    "in_reply_to_screen_name" : "FloydMayweather", 
+    "user" : {
+        "id" : NumberInt(525815006), 
+        "id_str" : "525815006", 
+        "name" : "THE GOD KING", 
+        "screen_name" : "FolksRtalking", 
+        "location" : "Subscribe▶️", 
+        "description" : "Folks don't want to be INFORMED they want to be ENTERTAINED. IG: FolksRtalking #InfoTainment News at its Finest! #NYC", 
+        "url" : "https://t.co/c7A2tBqlVH", 
+        "entities" : {
+            "url" : {
+                "urls" : [
+                    {
+                        "url" : "https://t.co/c7A2tBqlVH", 
+                        "expanded_url" : "http://instagram.com/folksrtalking", 
+                        "display_url" : "instagram.com/folksrtalking", 
+                        "indices" : [
+                            NumberInt(0), 
+                            NumberInt(23)
+                        ]
+                    }
+                ]
+            }, 
+            "description" : {
+                "urls" : [
+
+                ]
+            }
+        }, 
+        "protected" : false, 
+        "followers_count" : NumberInt(33086), 
+        "friends_count" : NumberInt(41), 
+        "listed_count" : NumberInt(10), 
+        "created_at" : "Thu Mar 15 22:39:07 +0000 2012", 
+        "favourites_count" : NumberInt(757), 
+        "utc_offset" : NumberInt(-14400), 
+        "time_zone" : "Eastern Time (US & Canada)", 
+        "geo_enabled" : false, 
+        "verified" : false, 
+        "statuses_count" : NumberInt(4590), 
+        "lang" : "en", 
+        "contributors_enabled" : false, 
+        "is_translator" : false, 
+        "is_translation_enabled" : false, 
+        "profile_background_color" : "C0DEED", 
+        "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/378800000082620129/1f754865a5d8a1c893ddd25d9aae426f.jpeg", 
+        "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/378800000082620129/1f754865a5d8a1c893ddd25d9aae426f.jpeg", 
+        "profile_background_tile" : false, 
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/701100144087982082/PnVM1j4t_normal.jpg", 
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/701100144087982082/PnVM1j4t_normal.jpg", 
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/525815006/1428304892", 
+        "profile_link_color" : "0084B4", 
+        "profile_sidebar_border_color" : "FFFFFF", 
+        "profile_sidebar_fill_color" : "DDEEF6", 
+        "profile_text_color" : "333333", 
+        "profile_use_background_image" : true, 
+        "has_extended_profile" : false, 
+        "default_profile" : false, 
+        "default_profile_image" : false, 
+        "following" : false, 
+        "follow_request_sent" : false, 
+        "notifications" : false, 
+        "translator_type" : "none"
+    }, 
+    "geo" : null, 
+    "coordinates" : null, 
+    "place" : null, 
+    "contributors" : null, 
+    "is_quote_status" : false, 
+    "retweet_count" : NumberInt(2404), 
+    "favorite_count" : NumberInt(1052), 
+    "favorited" : false, 
+    "retweeted" : false, 
+    "possibly_sensitive" : false, 
+    "lang" : "en"
+}
+{ 
+    "_id" : ObjectId("5afe9cfd9954de1e09cf1f97"), 
+    "created_at" : "Sat Feb 28 01:25:04 +0000 2015", 
+    "id" : NumberLong(571481175627329536), 
+    "id_str" : "571481175627329536", 
+    "text" : "P Diddy Sues Empire TV Show \"They Stole My Life Story\"👇👇\nhttp://t.co/uCmSUwY8Mg http://t.co/JxCXfyXW7n", 
+    "truncated" : false, 
+    "entities" : {
+        "hashtags" : [
+
+        ], 
+        "symbols" : [
+
+        ], 
+        "user_mentions" : [
+
+        ], 
+        "urls" : [
+            {
+                "url" : "http://t.co/uCmSUwY8Mg", 
+                "expanded_url" : "http://goo.gl/AquG6K", 
+                "display_url" : "goo.gl/AquG6K", 
+                "indices" : [
+                    NumberInt(57), 
+                    NumberInt(79)
+                ]
+            }
+        ], 
+        "media" : [
+            {
+                "id" : NumberLong(571481170916978688), 
+                "id_str" : "571481170916978688", 
+                "indices" : [
+                    NumberInt(80), 
+                    NumberInt(102)
+                ], 
+                "media_url" : "http://pbs.twimg.com/media/B-5PGNxUsAAszUY.jpg", 
+                "media_url_https" : "https://pbs.twimg.com/media/B-5PGNxUsAAszUY.jpg", 
+                "url" : "http://t.co/JxCXfyXW7n", 
+                "display_url" : "pic.twitter.com/JxCXfyXW7n", 
+                "expanded_url" : "https://twitter.com/folksrtalking/status/571481175627329536/photo/1", 
+                "type" : "photo", 
+                "sizes" : {
+                    "thumb" : {
+                        "w" : NumberInt(150), 
+                        "h" : NumberInt(150), 
+                        "resize" : "crop"
+                    }, 
+                    "medium" : {
+                        "w" : NumberInt(640), 
+                        "h" : NumberInt(640), 
+                        "resize" : "fit"
+                    }, 
+                    "large" : {
+                        "w" : NumberInt(640), 
+                        "h" : NumberInt(640), 
+                        "resize" : "fit"
+                    }, 
+                    "small" : {
+                        "w" : NumberInt(640), 
+                        "h" : NumberInt(640), 
+                        "resize" : "fit"
+                    }
+                }
+            }
+        ]
+    }, 
+    "extended_entities" : {
+        "media" : [
+            {
+                "id" : NumberLong(571481170916978688), 
+                "id_str" : "571481170916978688", 
+                "indices" : [
+                    NumberInt(80), 
+                    NumberInt(102)
+                ], 
+                "media_url" : "http://pbs.twimg.com/media/B-5PGNxUsAAszUY.jpg", 
+                "media_url_https" : "https://pbs.twimg.com/media/B-5PGNxUsAAszUY.jpg", 
+                "url" : "http://t.co/JxCXfyXW7n", 
+                "display_url" : "pic.twitter.com/JxCXfyXW7n", 
+                "expanded_url" : "https://twitter.com/folksrtalking/status/571481175627329536/photo/1", 
+                "type" : "photo", 
+                "sizes" : {
+                    "thumb" : {
+                        "w" : NumberInt(150), 
+                        "h" : NumberInt(150), 
+                        "resize" : "crop"
+                    }, 
+                    "medium" : {
+                        "w" : NumberInt(640), 
+                        "h" : NumberInt(640), 
+                        "resize" : "fit"
+                    }, 
+                    "large" : {
+                        "w" : NumberInt(640), 
+                        "h" : NumberInt(640), 
+                        "resize" : "fit"
+                    }, 
+                    "small" : {
+                        "w" : NumberInt(640), 
+                        "h" : NumberInt(640), 
+                        "resize" : "fit"
+                    }
+                }
+            }
+        ]
+    }, 
+    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "in_reply_to_status_id" : null, 
+    "in_reply_to_status_id_str" : null, 
+    "in_reply_to_user_id" : null, 
+    "in_reply_to_user_id_str" : null, 
+    "in_reply_to_screen_name" : null, 
+    "user" : {
+        "id" : NumberInt(525815006), 
+        "id_str" : "525815006", 
+        "name" : "THE GOD KING", 
+        "screen_name" : "FolksRtalking", 
+        "location" : "Subscribe▶️", 
+        "description" : "Folks don't want to be INFORMED they want to be ENTERTAINED. IG: FolksRtalking #InfoTainment News at its Finest! #NYC", 
+        "url" : "https://t.co/c7A2tBqlVH", 
+        "entities" : {
+            "url" : {
+                "urls" : [
+                    {
+                        "url" : "https://t.co/c7A2tBqlVH", 
+                        "expanded_url" : "http://instagram.com/folksrtalking", 
+                        "display_url" : "instagram.com/folksrtalking", 
+                        "indices" : [
+                            NumberInt(0), 
+                            NumberInt(23)
+                        ]
+                    }
+                ]
+            }, 
+            "description" : {
+                "urls" : [
+
+                ]
+            }
+        }, 
+        "protected" : false, 
+        "followers_count" : NumberInt(33086), 
+        "friends_count" : NumberInt(41), 
+        "listed_count" : NumberInt(10), 
+        "created_at" : "Thu Mar 15 22:39:07 +0000 2012", 
+        "favourites_count" : NumberInt(757), 
+        "utc_offset" : NumberInt(-14400), 
+        "time_zone" : "Eastern Time (US & Canada)", 
+        "geo_enabled" : false, 
+        "verified" : false, 
+        "statuses_count" : NumberInt(4590), 
+        "lang" : "en", 
+        "contributors_enabled" : false, 
+        "is_translator" : false, 
+        "is_translation_enabled" : false, 
+        "profile_background_color" : "C0DEED", 
+        "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/378800000082620129/1f754865a5d8a1c893ddd25d9aae426f.jpeg", 
+        "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/378800000082620129/1f754865a5d8a1c893ddd25d9aae426f.jpeg", 
+        "profile_background_tile" : false, 
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/701100144087982082/PnVM1j4t_normal.jpg", 
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/701100144087982082/PnVM1j4t_normal.jpg", 
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/525815006/1428304892", 
+        "profile_link_color" : "0084B4", 
+        "profile_sidebar_border_color" : "FFFFFF", 
+        "profile_sidebar_fill_color" : "DDEEF6", 
+        "profile_text_color" : "333333", 
+        "profile_use_background_image" : true, 
+        "has_extended_profile" : false, 
+        "default_profile" : false, 
+        "default_profile_image" : false, 
+        "following" : false, 
+        "follow_request_sent" : false, 
+        "notifications" : false, 
+        "translator_type" : "none"
+    }, 
+    "geo" : null, 
+    "coordinates" : null, 
+    "place" : null, 
+    "contributors" : null, 
+    "is_quote_status" : false, 
+    "retweet_count" : NumberInt(1143), 
+    "favorite_count" : NumberInt(152), 
+    "favorited" : false, 
+    "retweeted" : false, 
+    "possibly_sensitive" : false, 
+    "lang" : "en"
+}
+{ 
+    "_id" : ObjectId("5afe9d0c9954de1e09cf2727"), 
+    "created_at" : "Tue Mar 10 20:09:06 +0000 2015", 
+    "id" : NumberLong(575387925992570881), 
+    "id_str" : "575387925992570881", 
+    "text" : "Mayweather on Pacquiao Fight \"I Promise a Knockout in 5 Rounds or less. #MayweatherPacquiao 👇\nhttp://t.co/TwsWUBsbZ2 http://t.co/re5Qa86RuO", 
+    "truncated" : false, 
+    "entities" : {
+        "hashtags" : [
+            {
+                "text" : "MayweatherPacquiao", 
+                "indices" : [
+                    NumberInt(72), 
+                    NumberInt(91)
+                ]
+            }
+        ], 
+        "symbols" : [
+
+        ], 
+        "user_mentions" : [
+
+        ], 
+        "urls" : [
+            {
+                "url" : "http://t.co/TwsWUBsbZ2", 
+                "expanded_url" : "http://www.celebtricity.com/mayweather-on-pacquiao-fight-i-promise-a-knockout-in-5-rounds-or-less/", 
+                "display_url" : "celebtricity.com/mayweather-on-…", 
+                "indices" : [
+                    NumberInt(94), 
+                    NumberInt(116)
+                ]
+            }
+        ], 
+        "media" : [
+            {
+                "id" : NumberLong(575387919843729408), 
+                "id_str" : "575387919843729408", 
+                "indices" : [
+                    NumberInt(117), 
+                    NumberInt(139)
+                ], 
+                "media_url" : "http://pbs.twimg.com/media/B_wwQ7pWIAA1EMZ.jpg", 
+                "media_url_https" : "https://pbs.twimg.com/media/B_wwQ7pWIAA1EMZ.jpg", 
+                "url" : "http://t.co/re5Qa86RuO", 
+                "display_url" : "pic.twitter.com/re5Qa86RuO", 
+                "expanded_url" : "https://twitter.com/FolksRtalking/status/575387925992570881/photo/1", 
+                "type" : "photo", 
+                "sizes" : {
+                    "thumb" : {
+                        "w" : NumberInt(150), 
+                        "h" : NumberInt(150), 
+                        "resize" : "crop"
+                    }, 
+                    "small" : {
+                        "w" : NumberInt(639), 
+                        "h" : NumberInt(572), 
+                        "resize" : "fit"
+                    }, 
+                    "large" : {
+                        "w" : NumberInt(639), 
+                        "h" : NumberInt(572), 
+                        "resize" : "fit"
+                    }, 
+                    "medium" : {
+                        "w" : NumberInt(639), 
+                        "h" : NumberInt(572), 
+                        "resize" : "fit"
+                    }
+                }
+            }
+        ]
+    }, 
+    "extended_entities" : {
+        "media" : [
+            {
+                "id" : NumberLong(575387919843729408), 
+                "id_str" : "575387919843729408", 
+                "indices" : [
+                    NumberInt(117), 
+                    NumberInt(139)
+                ], 
+                "media_url" : "http://pbs.twimg.com/media/B_wwQ7pWIAA1EMZ.jpg", 
+                "media_url_https" : "https://pbs.twimg.com/media/B_wwQ7pWIAA1EMZ.jpg", 
+                "url" : "http://t.co/re5Qa86RuO", 
+                "display_url" : "pic.twitter.com/re5Qa86RuO", 
+                "expanded_url" : "https://twitter.com/FolksRtalking/status/575387925992570881/photo/1", 
+                "type" : "photo", 
+                "sizes" : {
+                    "thumb" : {
+                        "w" : NumberInt(150), 
+                        "h" : NumberInt(150), 
+                        "resize" : "crop"
+                    }, 
+                    "small" : {
+                        "w" : NumberInt(639), 
+                        "h" : NumberInt(572), 
+                        "resize" : "fit"
+                    }, 
+                    "large" : {
+                        "w" : NumberInt(639), 
+                        "h" : NumberInt(572), 
+                        "resize" : "fit"
+                    }, 
+                    "medium" : {
+                        "w" : NumberInt(639), 
+                        "h" : NumberInt(572), 
+                        "resize" : "fit"
+                    }
+                }
+            }
+        ]
+    }, 
+    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "in_reply_to_status_id" : null, 
+    "in_reply_to_status_id_str" : null, 
+    "in_reply_to_user_id" : null, 
+    "in_reply_to_user_id_str" : null, 
+    "in_reply_to_screen_name" : null, 
+    "user" : {
+        "id" : NumberInt(525815006), 
+        "id_str" : "525815006", 
+        "name" : "THE GOD KING", 
+        "screen_name" : "FolksRtalking", 
+        "location" : "Subscribe▶️", 
+        "description" : "Folks don't want to be INFORMED they want to be ENTERTAINED. IG: FolksRtalking #InfoTainment News at its Finest! #NYC", 
+        "url" : "https://t.co/c7A2tBqlVH", 
+        "entities" : {
+            "url" : {
+                "urls" : [
+                    {
+                        "url" : "https://t.co/c7A2tBqlVH", 
+                        "expanded_url" : "http://instagram.com/folksrtalking", 
+                        "display_url" : "instagram.com/folksrtalking", 
+                        "indices" : [
+                            NumberInt(0), 
+                            NumberInt(23)
+                        ]
+                    }
+                ]
+            }, 
+            "description" : {
+                "urls" : [
+
+                ]
+            }
+        }, 
+        "protected" : false, 
+        "followers_count" : NumberInt(33086), 
+        "friends_count" : NumberInt(41), 
+        "listed_count" : NumberInt(10), 
+        "created_at" : "Thu Mar 15 22:39:07 +0000 2012", 
+        "favourites_count" : NumberInt(757), 
+        "utc_offset" : NumberInt(-14400), 
+        "time_zone" : "Eastern Time (US & Canada)", 
+        "geo_enabled" : false, 
+        "verified" : false, 
+        "statuses_count" : NumberInt(4590), 
+        "lang" : "en", 
+        "contributors_enabled" : false, 
+        "is_translator" : false, 
+        "is_translation_enabled" : false, 
+        "profile_background_color" : "C0DEED", 
+        "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/378800000082620129/1f754865a5d8a1c893ddd25d9aae426f.jpeg", 
+        "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/378800000082620129/1f754865a5d8a1c893ddd25d9aae426f.jpeg", 
+        "profile_background_tile" : false, 
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/701100144087982082/PnVM1j4t_normal.jpg", 
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/701100144087982082/PnVM1j4t_normal.jpg", 
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/525815006/1428304892", 
+        "profile_link_color" : "0084B4", 
+        "profile_sidebar_border_color" : "FFFFFF", 
+        "profile_sidebar_fill_color" : "DDEEF6", 
+        "profile_text_color" : "333333", 
+        "profile_use_background_image" : true, 
+        "has_extended_profile" : false, 
+        "default_profile" : false, 
+        "default_profile_image" : false, 
+        "following" : false, 
+        "follow_request_sent" : false, 
+        "notifications" : false, 
+        "translator_type" : "none"
+    }, 
+    "geo" : null, 
+    "coordinates" : null, 
+    "place" : null, 
+    "contributors" : null, 
+    "is_quote_status" : false, 
+    "retweet_count" : NumberInt(1117), 
+    "favorite_count" : NumberInt(197), 
+    "favorited" : false, 
+    "retweeted" : false, 
+    "possibly_sensitive" : false, 
+    "lang" : "en"
+}

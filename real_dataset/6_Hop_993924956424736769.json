@@ -1,0 +1,12 @@
+{ 
+    "_id" : ObjectId("5afe654e9954de0ebb9afd06"), 
+    "hop" : "6_hop", 
+    "source" : NumberLong(2497225081), 
+    "target" : NumberInt(45574526)
+}
+{ 
+    "_id" : ObjectId("5afe68d09954de0ebb9afd09"), 
+    "hop" : "6_hop", 
+    "source" : NumberLong(965386029287927808), 
+    "target" : NumberInt(16207549)
+}

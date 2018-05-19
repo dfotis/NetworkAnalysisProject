@@ -1,0 +1,777 @@
+{ 
+    "_id" : ObjectId("5aff632a9954de126e0fd408"), 
+    "id" : NumberLong(3058248256), 
+    "id_str" : "3058248256", 
+    "name" : "Switchitovermagazine", 
+    "screen_name" : "switchitovermag", 
+    "location" : "New york city ", 
+    "profile_location" : null, 
+    "description" : "EMAIL: switchitovermagazine@gmail.com \n\nNEW UPCOMING MAGAZINE SUPPORT ALL UPCOMING ENTERTAINER & PROMOTE THEIR WORK. ASK HOW TO BECOME A SWITCHITOVER MODELS", 
+    "url" : null, 
+    "entities" : {
+        "description" : {
+            "urls" : [
+
+            ]
+        }
+    }, 
+    "protected" : false, 
+    "followers_count" : NumberInt(272), 
+    "friends_count" : NumberInt(870), 
+    "listed_count" : NumberInt(6), 
+    "created_at" : "Tue Feb 24 05:53:49 +0000 2015", 
+    "favourites_count" : NumberInt(5), 
+    "utc_offset" : null, 
+    "time_zone" : null, 
+    "geo_enabled" : false, 
+    "verified" : false, 
+    "statuses_count" : NumberInt(81), 
+    "lang" : "en", 
+    "status" : {
+        "created_at" : "Sun Jul 10 22:41:52 +0000 2016", 
+        "id" : NumberLong(752271651354447872), 
+        "id_str" : "752271651354447872", 
+        "text" : "I'm raising money for PLZ HELP SUPPORT RODRIGUEZ FAMILY. Click to Donate:  https://t.co/8i4TxbTHji via @gofundme", 
+        "truncated" : false, 
+        "entities" : {
+            "hashtags" : [
+
+            ], 
+            "symbols" : [
+
+            ], 
+            "user_mentions" : [
+                {
+                    "screen_name" : "gofundme", 
+                    "name" : "GoFundMe", 
+                    "id" : NumberInt(112897540), 
+                    "id_str" : "112897540", 
+                    "indices" : [
+                        NumberInt(103), 
+                        NumberInt(112)
+                    ]
+                }
+            ], 
+            "urls" : [
+                {
+                    "url" : "https://t.co/8i4TxbTHji", 
+                    "expanded_url" : "https://gofund.me/2dqv56jb?pc=tw_co_share_w&rcid=7919cbce46ef11e6aa85bc764e065880", 
+                    "display_url" : "gofund.me/2dqv56jb?pc=tw…", 
+                    "indices" : [
+                        NumberInt(75), 
+                        NumberInt(98)
+                    ]
+                }
+            ]
+        }, 
+        "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "in_reply_to_status_id" : null, 
+        "in_reply_to_status_id_str" : null, 
+        "in_reply_to_user_id" : null, 
+        "in_reply_to_user_id_str" : null, 
+        "in_reply_to_screen_name" : null, 
+        "geo" : null, 
+        "coordinates" : null, 
+        "place" : null, 
+        "contributors" : null, 
+        "is_quote_status" : false, 
+        "retweet_count" : NumberInt(8), 
+        "favorite_count" : NumberInt(1), 
+        "favorited" : false, 
+        "retweeted" : false, 
+        "possibly_sensitive" : false, 
+        "lang" : "en"
+    }, 
+    "contributors_enabled" : false, 
+    "is_translator" : false, 
+    "is_translation_enabled" : false, 
+    "profile_background_color" : "C0DEED", 
+    "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_tile" : false, 
+    "profile_image_url" : "http://pbs.twimg.com/profile_images/570099519834202112/RRHU3wzS_normal.jpeg", 
+    "profile_image_url_https" : "https://pbs.twimg.com/profile_images/570099519834202112/RRHU3wzS_normal.jpeg", 
+    "profile_banner_url" : "https://pbs.twimg.com/profile_banners/3058248256/1424823784", 
+    "profile_link_color" : "1DA1F2", 
+    "profile_sidebar_border_color" : "C0DEED", 
+    "profile_sidebar_fill_color" : "DDEEF6", 
+    "profile_text_color" : "333333", 
+    "profile_use_background_image" : true, 
+    "has_extended_profile" : false, 
+    "default_profile" : true, 
+    "default_profile_image" : false, 
+    "following" : false, 
+    "follow_request_sent" : false, 
+    "notifications" : false, 
+    "translator_type" : "none"
+}
+{ 
+    "_id" : ObjectId("5aff63409954de126e0fd40a"), 
+    "id" : NumberLong(2796758523), 
+    "id_str" : "2796758523", 
+    "name" : "Luxury Living", 
+    "screen_name" : "billionairevibe", 
+    "location" : "", 
+    "profile_location" : null, 
+    "description" : "", 
+    "url" : null, 
+    "entities" : {
+        "description" : {
+            "urls" : [
+
+            ]
+        }
+    }, 
+    "protected" : false, 
+    "followers_count" : NumberInt(262), 
+    "friends_count" : NumberInt(1820), 
+    "listed_count" : NumberInt(16), 
+    "created_at" : "Wed Oct 01 00:19:06 +0000 2014", 
+    "favourites_count" : NumberInt(12051), 
+    "utc_offset" : null, 
+    "time_zone" : null, 
+    "geo_enabled" : false, 
+    "verified" : false, 
+    "statuses_count" : NumberInt(7391), 
+    "lang" : "en", 
+    "status" : {
+        "created_at" : "Fri Jul 03 22:09:04 +0000 2015", 
+        "id" : NumberLong(617092721099079680), 
+        "id_str" : "617092721099079680", 
+        "text" : "RT @EnterTheArena: NXT TAKEOVER ON AUGUST 22ND AT BARCLAY CENTER!! #NXT #wwe #raw  https://t.co/X6tHMTXVtZ", 
+        "truncated" : false, 
+        "entities" : {
+            "hashtags" : [
+                {
+                    "text" : "NXT", 
+                    "indices" : [
+                        NumberInt(67), 
+                        NumberInt(71)
+                    ]
+                }, 
+                {
+                    "text" : "wwe", 
+                    "indices" : [
+                        NumberInt(72), 
+                        NumberInt(76)
+                    ]
+                }, 
+                {
+                    "text" : "raw", 
+                    "indices" : [
+                        NumberInt(77), 
+                        NumberInt(81)
+                    ]
+                }
+            ], 
+            "symbols" : [
+
+            ], 
+            "user_mentions" : [
+                {
+                    "screen_name" : "EnterTheArena", 
+                    "name" : "EnterTheArena", 
+                    "id" : NumberLong(2797630777), 
+                    "id_str" : "2797630777", 
+                    "indices" : [
+                        NumberInt(3), 
+                        NumberInt(17)
+                    ]
+                }
+            ], 
+            "urls" : [
+                {
+                    "url" : "https://t.co/X6tHMTXVtZ", 
+                    "expanded_url" : "https://youtu.be/QKGTsvXRsF0", 
+                    "display_url" : "youtu.be/QKGTsvXRsF0", 
+                    "indices" : [
+                        NumberInt(83), 
+                        NumberInt(106)
+                    ]
+                }
+            ]
+        }, 
+        "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "in_reply_to_status_id" : null, 
+        "in_reply_to_status_id_str" : null, 
+        "in_reply_to_user_id" : null, 
+        "in_reply_to_user_id_str" : null, 
+        "in_reply_to_screen_name" : null, 
+        "geo" : null, 
+        "coordinates" : null, 
+        "place" : null, 
+        "contributors" : null, 
+        "retweeted_status" : {
+            "created_at" : "Fri Jul 03 21:44:47 +0000 2015", 
+            "id" : NumberLong(617086608731435008), 
+            "id_str" : "617086608731435008", 
+            "text" : "NXT TAKEOVER ON AUGUST 22ND AT BARCLAY CENTER!! #NXT #wwe #raw  https://t.co/X6tHMTXVtZ", 
+            "truncated" : false, 
+            "entities" : {
+                "hashtags" : [
+                    {
+                        "text" : "NXT", 
+                        "indices" : [
+                            NumberInt(48), 
+                            NumberInt(52)
+                        ]
+                    }, 
+                    {
+                        "text" : "wwe", 
+                        "indices" : [
+                            NumberInt(53), 
+                            NumberInt(57)
+                        ]
+                    }, 
+                    {
+                        "text" : "raw", 
+                        "indices" : [
+                            NumberInt(58), 
+                            NumberInt(62)
+                        ]
+                    }
+                ], 
+                "symbols" : [
+
+                ], 
+                "user_mentions" : [
+
+                ], 
+                "urls" : [
+                    {
+                        "url" : "https://t.co/X6tHMTXVtZ", 
+                        "expanded_url" : "https://youtu.be/QKGTsvXRsF0", 
+                        "display_url" : "youtu.be/QKGTsvXRsF0", 
+                        "indices" : [
+                            NumberInt(64), 
+                            NumberInt(87)
+                        ]
+                    }
+                ]
+            }, 
+            "source" : "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>", 
+            "in_reply_to_status_id" : null, 
+            "in_reply_to_status_id_str" : null, 
+            "in_reply_to_user_id" : null, 
+            "in_reply_to_user_id_str" : null, 
+            "in_reply_to_screen_name" : null, 
+            "geo" : null, 
+            "coordinates" : null, 
+            "place" : null, 
+            "contributors" : null, 
+            "is_quote_status" : false, 
+            "retweet_count" : NumberInt(42), 
+            "favorite_count" : NumberInt(2), 
+            "favorited" : false, 
+            "retweeted" : false, 
+            "possibly_sensitive" : false, 
+            "lang" : "en"
+        }, 
+        "is_quote_status" : false, 
+        "retweet_count" : NumberInt(42), 
+        "favorite_count" : NumberInt(0), 
+        "favorited" : false, 
+        "retweeted" : false, 
+        "possibly_sensitive" : false, 
+        "lang" : "en"
+    }, 
+    "contributors_enabled" : false, 
+    "is_translator" : false, 
+    "is_translation_enabled" : false, 
+    "profile_background_color" : "C0DEED", 
+    "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_tile" : false, 
+    "profile_image_url" : "http://pbs.twimg.com/profile_images/517106762139570176/8uDvPlIi_normal.jpeg", 
+    "profile_image_url_https" : "https://pbs.twimg.com/profile_images/517106762139570176/8uDvPlIi_normal.jpeg", 
+    "profile_banner_url" : "https://pbs.twimg.com/profile_banners/2796758523/1412122834", 
+    "profile_link_color" : "1DA1F2", 
+    "profile_sidebar_border_color" : "C0DEED", 
+    "profile_sidebar_fill_color" : "DDEEF6", 
+    "profile_text_color" : "333333", 
+    "profile_use_background_image" : true, 
+    "has_extended_profile" : false, 
+    "default_profile" : true, 
+    "default_profile_image" : false, 
+    "following" : false, 
+    "follow_request_sent" : false, 
+    "notifications" : false, 
+    "translator_type" : "none"
+}
+{ 
+    "_id" : ObjectId("5aff667b9954de126e0fd40c"), 
+    "id" : NumberInt(74349387), 
+    "id_str" : "74349387", 
+    "name" : "david young", 
+    "screen_name" : "rockstar11111", 
+    "location" : "Arkansas", 
+    "profile_location" : null, 
+    "description" : "Sometimes I just want to give it all up and become a handsome billionaire.", 
+    "url" : "http://t.co/n0ZlLmOv", 
+    "entities" : {
+        "url" : {
+            "urls" : [
+                {
+                    "url" : "http://t.co/n0ZlLmOv", 
+                    "expanded_url" : "http://BBB.org", 
+                    "display_url" : "BBB.org", 
+                    "indices" : [
+                        NumberInt(0), 
+                        NumberInt(20)
+                    ]
+                }
+            ]
+        }, 
+        "description" : {
+            "urls" : [
+
+            ]
+        }
+    }, 
+    "protected" : false, 
+    "followers_count" : NumberInt(2), 
+    "friends_count" : NumberInt(238), 
+    "listed_count" : NumberInt(3), 
+    "created_at" : "Tue Sep 15 03:07:57 +0000 2009", 
+    "favourites_count" : NumberInt(341), 
+    "utc_offset" : null, 
+    "time_zone" : null, 
+    "geo_enabled" : false, 
+    "verified" : false, 
+    "statuses_count" : NumberInt(1122), 
+    "lang" : "en", 
+    "status" : {
+        "created_at" : "Sun Apr 05 04:54:09 +0000 2015", 
+        "id" : NumberLong(584579755841875969), 
+        "id_str" : "584579755841875969", 
+        "text" : "RT @Quiethits: Business pays $72 plus per customer on #Yelp, vs. $1 on Google. Are some business owners stupid?  http://t.co/G3gNHkHCP2", 
+        "truncated" : false, 
+        "entities" : {
+            "hashtags" : [
+                {
+                    "text" : "Yelp", 
+                    "indices" : [
+                        NumberInt(54), 
+                        NumberInt(59)
+                    ]
+                }
+            ], 
+            "symbols" : [
+
+            ], 
+            "user_mentions" : [
+                {
+                    "screen_name" : "Quiethits", 
+                    "name" : "Traffic Generator", 
+                    "id" : NumberInt(86868839), 
+                    "id_str" : "86868839", 
+                    "indices" : [
+                        NumberInt(3), 
+                        NumberInt(13)
+                    ]
+                }
+            ], 
+            "urls" : [
+                {
+                    "url" : "http://t.co/G3gNHkHCP2", 
+                    "expanded_url" : "http://bit.ly/GH7jQb", 
+                    "display_url" : "bit.ly/GH7jQb", 
+                    "indices" : [
+                        NumberInt(113), 
+                        NumberInt(135)
+                    ]
+                }
+            ]
+        }, 
+        "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "in_reply_to_status_id" : null, 
+        "in_reply_to_status_id_str" : null, 
+        "in_reply_to_user_id" : null, 
+        "in_reply_to_user_id_str" : null, 
+        "in_reply_to_screen_name" : null, 
+        "geo" : null, 
+        "coordinates" : null, 
+        "place" : null, 
+        "contributors" : null, 
+        "retweeted_status" : {
+            "created_at" : "Sat Apr 04 15:47:23 +0000 2015", 
+            "id" : NumberLong(584381759367684096), 
+            "id_str" : "584381759367684096", 
+            "text" : "Business pays $72 plus per customer on #Yelp, vs. $1 on Google. Are some business owners stupid?  http://t.co/G3gNHkHCP2", 
+            "truncated" : false, 
+            "entities" : {
+                "hashtags" : [
+                    {
+                        "text" : "Yelp", 
+                        "indices" : [
+                            NumberInt(39), 
+                            NumberInt(44)
+                        ]
+                    }
+                ], 
+                "symbols" : [
+
+                ], 
+                "user_mentions" : [
+
+                ], 
+                "urls" : [
+                    {
+                        "url" : "http://t.co/G3gNHkHCP2", 
+                        "expanded_url" : "http://bit.ly/GH7jQb", 
+                        "display_url" : "bit.ly/GH7jQb", 
+                        "indices" : [
+                            NumberInt(98), 
+                            NumberInt(120)
+                        ]
+                    }
+                ]
+            }, 
+            "source" : "<a href=\"http://tweetadder.com\" rel=\"nofollow\">TweetAdder v4</a>", 
+            "in_reply_to_status_id" : null, 
+            "in_reply_to_status_id_str" : null, 
+            "in_reply_to_user_id" : null, 
+            "in_reply_to_user_id_str" : null, 
+            "in_reply_to_screen_name" : null, 
+            "geo" : null, 
+            "coordinates" : null, 
+            "place" : null, 
+            "contributors" : null, 
+            "is_quote_status" : false, 
+            "retweet_count" : NumberInt(1396), 
+            "favorite_count" : NumberInt(450), 
+            "favorited" : false, 
+            "retweeted" : false, 
+            "possibly_sensitive" : false, 
+            "lang" : "en"
+        }, 
+        "is_quote_status" : false, 
+        "retweet_count" : NumberInt(1396), 
+        "favorite_count" : NumberInt(0), 
+        "favorited" : false, 
+        "retweeted" : false, 
+        "possibly_sensitive" : false, 
+        "lang" : "en"
+    }, 
+    "contributors_enabled" : false, 
+    "is_translator" : false, 
+    "is_translation_enabled" : false, 
+    "profile_background_color" : "C0DEED", 
+    "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_tile" : false, 
+    "profile_image_url" : "http://pbs.twimg.com/profile_images/3123479102/31d1815c52ff1ffd23f329a9c60cf03a_normal.jpeg", 
+    "profile_image_url_https" : "https://pbs.twimg.com/profile_images/3123479102/31d1815c52ff1ffd23f329a9c60cf03a_normal.jpeg", 
+    "profile_link_color" : "1DA1F2", 
+    "profile_sidebar_border_color" : "C0DEED", 
+    "profile_sidebar_fill_color" : "DDEEF6", 
+    "profile_text_color" : "333333", 
+    "profile_use_background_image" : true, 
+    "has_extended_profile" : false, 
+    "default_profile" : true, 
+    "default_profile_image" : false, 
+    "following" : false, 
+    "follow_request_sent" : false, 
+    "notifications" : false, 
+    "translator_type" : "none"
+}
+{ 
+    "_id" : ObjectId("5aff66c09954de126e0fd40e"), 
+    "id" : NumberInt(408675384), 
+    "id_str" : "408675384", 
+    "name" : "hadil sammouri", 
+    "screen_name" : "HadilSammouri", 
+    "location" : "lebanon", 
+    "profile_location" : null, 
+    "description" : "works at SAB Méditerranée", 
+    "url" : null, 
+    "entities" : {
+        "description" : {
+            "urls" : [
+
+            ]
+        }
+    }, 
+    "protected" : false, 
+    "followers_count" : NumberInt(37), 
+    "friends_count" : NumberInt(1773), 
+    "listed_count" : NumberInt(6), 
+    "created_at" : "Wed Nov 09 18:55:53 +0000 2011", 
+    "favourites_count" : NumberInt(95), 
+    "utc_offset" : NumberInt(-7200), 
+    "time_zone" : "Greenland", 
+    "geo_enabled" : true, 
+    "verified" : false, 
+    "statuses_count" : NumberInt(1206), 
+    "lang" : "en", 
+    "status" : {
+        "created_at" : "Sun Apr 05 04:50:01 +0000 2015", 
+        "id" : NumberLong(584578715826401280), 
+        "id_str" : "584578715826401280", 
+        "text" : "RT @Quiethits: Business pays $72 plus per customer on #Yelp, vs. $1 on Google. Are some business owners stupid?  http://t.co/G3gNHkHCP2", 
+        "truncated" : false, 
+        "entities" : {
+            "hashtags" : [
+                {
+                    "text" : "Yelp", 
+                    "indices" : [
+                        NumberInt(54), 
+                        NumberInt(59)
+                    ]
+                }
+            ], 
+            "symbols" : [
+
+            ], 
+            "user_mentions" : [
+                {
+                    "screen_name" : "Quiethits", 
+                    "name" : "Traffic Generator", 
+                    "id" : NumberInt(86868839), 
+                    "id_str" : "86868839", 
+                    "indices" : [
+                        NumberInt(3), 
+                        NumberInt(13)
+                    ]
+                }
+            ], 
+            "urls" : [
+                {
+                    "url" : "http://t.co/G3gNHkHCP2", 
+                    "expanded_url" : "http://bit.ly/GH7jQb", 
+                    "display_url" : "bit.ly/GH7jQb", 
+                    "indices" : [
+                        NumberInt(113), 
+                        NumberInt(135)
+                    ]
+                }
+            ]
+        }, 
+        "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "in_reply_to_status_id" : null, 
+        "in_reply_to_status_id_str" : null, 
+        "in_reply_to_user_id" : null, 
+        "in_reply_to_user_id_str" : null, 
+        "in_reply_to_screen_name" : null, 
+        "geo" : null, 
+        "coordinates" : null, 
+        "place" : null, 
+        "contributors" : null, 
+        "retweeted_status" : {
+            "created_at" : "Sat Apr 04 15:47:23 +0000 2015", 
+            "id" : NumberLong(584381759367684096), 
+            "id_str" : "584381759367684096", 
+            "text" : "Business pays $72 plus per customer on #Yelp, vs. $1 on Google. Are some business owners stupid?  http://t.co/G3gNHkHCP2", 
+            "truncated" : false, 
+            "entities" : {
+                "hashtags" : [
+                    {
+                        "text" : "Yelp", 
+                        "indices" : [
+                            NumberInt(39), 
+                            NumberInt(44)
+                        ]
+                    }
+                ], 
+                "symbols" : [
+
+                ], 
+                "user_mentions" : [
+
+                ], 
+                "urls" : [
+                    {
+                        "url" : "http://t.co/G3gNHkHCP2", 
+                        "expanded_url" : "http://bit.ly/GH7jQb", 
+                        "display_url" : "bit.ly/GH7jQb", 
+                        "indices" : [
+                            NumberInt(98), 
+                            NumberInt(120)
+                        ]
+                    }
+                ]
+            }, 
+            "source" : "<a href=\"http://tweetadder.com\" rel=\"nofollow\">TweetAdder v4</a>", 
+            "in_reply_to_status_id" : null, 
+            "in_reply_to_status_id_str" : null, 
+            "in_reply_to_user_id" : null, 
+            "in_reply_to_user_id_str" : null, 
+            "in_reply_to_screen_name" : null, 
+            "geo" : null, 
+            "coordinates" : null, 
+            "place" : null, 
+            "contributors" : null, 
+            "is_quote_status" : false, 
+            "retweet_count" : NumberInt(1396), 
+            "favorite_count" : NumberInt(450), 
+            "favorited" : false, 
+            "retweeted" : false, 
+            "possibly_sensitive" : false, 
+            "lang" : "en"
+        }, 
+        "is_quote_status" : false, 
+        "retweet_count" : NumberInt(1396), 
+        "favorite_count" : NumberInt(0), 
+        "favorited" : false, 
+        "retweeted" : false, 
+        "possibly_sensitive" : false, 
+        "lang" : "en"
+    }, 
+    "contributors_enabled" : false, 
+    "is_translator" : false, 
+    "is_translation_enabled" : false, 
+    "profile_background_color" : "BADFCD", 
+    "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme12/bg.gif", 
+    "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme12/bg.gif", 
+    "profile_background_tile" : false, 
+    "profile_image_url" : "http://pbs.twimg.com/profile_images/378800000783174195/21d56550cd0381d8acd7266c70f92477_normal.jpeg", 
+    "profile_image_url_https" : "https://pbs.twimg.com/profile_images/378800000783174195/21d56550cd0381d8acd7266c70f92477_normal.jpeg", 
+    "profile_banner_url" : "https://pbs.twimg.com/profile_banners/408675384/1385286020", 
+    "profile_link_color" : "FF0000", 
+    "profile_sidebar_border_color" : "F2E195", 
+    "profile_sidebar_fill_color" : "FFF7CC", 
+    "profile_text_color" : "0C3E53", 
+    "profile_use_background_image" : true, 
+    "has_extended_profile" : false, 
+    "default_profile" : false, 
+    "default_profile_image" : false, 
+    "following" : false, 
+    "follow_request_sent" : false, 
+    "notifications" : false, 
+    "translator_type" : "none"
+}
+{ 
+    "_id" : ObjectId("5aff74a89954de126e0fd410"), 
+    "id" : NumberLong(2869949028), 
+    "id_str" : "2869949028", 
+    "name" : "luxdeluxe", 
+    "screen_name" : "whatcanmoney", 
+    "location" : "", 
+    "profile_location" : null, 
+    "description" : "insight to the luxury world", 
+    "url" : null, 
+    "entities" : {
+        "description" : {
+            "urls" : [
+
+            ]
+        }
+    }, 
+    "protected" : false, 
+    "followers_count" : NumberInt(157), 
+    "friends_count" : NumberInt(1773), 
+    "listed_count" : NumberInt(9), 
+    "created_at" : "Wed Oct 22 02:34:28 +0000 2014", 
+    "favourites_count" : NumberInt(7403), 
+    "utc_offset" : null, 
+    "time_zone" : null, 
+    "geo_enabled" : false, 
+    "verified" : false, 
+    "statuses_count" : NumberInt(4819), 
+    "lang" : "en", 
+    "status" : {
+        "created_at" : "Fri Jul 03 22:03:16 +0000 2015", 
+        "id" : NumberLong(617091261149892608), 
+        "id_str" : "617091261149892608", 
+        "text" : "RT @TheRayCook: @LordeLeem the fireworks thing", 
+        "truncated" : false, 
+        "entities" : {
+            "hashtags" : [
+
+            ], 
+            "symbols" : [
+
+            ], 
+            "user_mentions" : [
+                {
+                    "screen_name" : "TheRayCook", 
+                    "name" : "Ray Cook", 
+                    "id" : NumberInt(33049081), 
+                    "id_str" : "33049081", 
+                    "indices" : [
+                        NumberInt(3), 
+                        NumberInt(14)
+                    ]
+                }
+            ], 
+            "urls" : [
+
+            ]
+        }, 
+        "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "in_reply_to_status_id" : null, 
+        "in_reply_to_status_id_str" : null, 
+        "in_reply_to_user_id" : null, 
+        "in_reply_to_user_id_str" : null, 
+        "in_reply_to_screen_name" : null, 
+        "geo" : null, 
+        "coordinates" : null, 
+        "place" : null, 
+        "contributors" : null, 
+        "retweeted_status" : {
+            "created_at" : "Fri Jul 03 21:59:36 +0000 2015", 
+            "id" : NumberLong(617090341116772352), 
+            "id_str" : "617090341116772352", 
+            "text" : "@LordeLeem the fireworks thing", 
+            "truncated" : false, 
+            "entities" : {
+                "hashtags" : [
+
+                ], 
+                "symbols" : [
+
+                ], 
+                "user_mentions" : [
+
+                ], 
+                "urls" : [
+
+                ]
+            }, 
+            "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "in_reply_to_status_id" : NumberLong(617089533952155648), 
+            "in_reply_to_status_id_str" : "617089533952155648", 
+            "in_reply_to_user_id" : NumberInt(632595642), 
+            "in_reply_to_user_id_str" : "632595642", 
+            "in_reply_to_screen_name" : "LlordeTIME", 
+            "geo" : null, 
+            "coordinates" : null, 
+            "place" : null, 
+            "contributors" : null, 
+            "is_quote_status" : false, 
+            "retweet_count" : NumberInt(5), 
+            "favorite_count" : NumberInt(3), 
+            "favorited" : false, 
+            "retweeted" : false, 
+            "lang" : "en"
+        }, 
+        "is_quote_status" : false, 
+        "retweet_count" : NumberInt(5), 
+        "favorite_count" : NumberInt(0), 
+        "favorited" : false, 
+        "retweeted" : false, 
+        "lang" : "en"
+    }, 
+    "contributors_enabled" : false, 
+    "is_translator" : false, 
+    "is_translation_enabled" : false, 
+    "profile_background_color" : "C0DEED", 
+    "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_tile" : false, 
+    "profile_image_url" : "http://pbs.twimg.com/profile_images/532020310577799168/JrWsbIf9_normal.jpeg", 
+    "profile_image_url_https" : "https://pbs.twimg.com/profile_images/532020310577799168/JrWsbIf9_normal.jpeg", 
+    "profile_banner_url" : "https://pbs.twimg.com/profile_banners/2869949028/1418020428", 
+    "profile_link_color" : "1DA1F2", 
+    "profile_sidebar_border_color" : "C0DEED", 
+    "profile_sidebar_fill_color" : "DDEEF6", 
+    "profile_text_color" : "333333", 
+    "profile_use_background_image" : true, 
+    "has_extended_profile" : false, 
+    "default_profile" : true, 
+    "default_profile_image" : false, 
+    "following" : false, 
+    "follow_request_sent" : false, 
+    "notifications" : false, 
+    "translator_type" : "none"
+}

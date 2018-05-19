@@ -1,0 +1,18 @@
+{ 
+    "_id" : ObjectId("5aff201c9954de0dd1230f3a"), 
+    "hop" : "10_hop", 
+    "source" : NumberInt(21993294), 
+    "target" : NumberLong(2852652593)
+}
+{ 
+    "_id" : ObjectId("5aff201c9954de0dd1230f3d"), 
+    "hop" : "10_hop", 
+    "source" : NumberInt(21993294), 
+    "target" : NumberLong(3410530498)
+}
+{ 
+    "_id" : ObjectId("5aff201d9954de0dd1230f40"), 
+    "hop" : "10_hop", 
+    "source" : NumberInt(625762744), 
+    "target" : NumberInt(126405637)
+}

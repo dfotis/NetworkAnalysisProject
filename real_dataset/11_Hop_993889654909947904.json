@@ -1,0 +1,24 @@
+{ 
+    "_id" : ObjectId("5aff20239954de0dd1230f43"), 
+    "hop" : "11_hop", 
+    "source" : NumberLong(2852652593), 
+    "target" : NumberLong(3950081506)
+}
+{ 
+    "_id" : ObjectId("5aff20249954de0dd1230f46"), 
+    "hop" : "11_hop", 
+    "source" : NumberLong(2852652593), 
+    "target" : NumberInt(1427285550)
+}
+{ 
+    "_id" : ObjectId("5aff23a39954de0dd1230f49"), 
+    "hop" : "11_hop", 
+    "source" : NumberInt(126405637), 
+    "target" : NumberInt(1957125536)
+}
+{ 
+    "_id" : ObjectId("5aff23a39954de0dd1230f4c"), 
+    "hop" : "11_hop", 
+    "source" : NumberInt(126405637), 
+    "target" : NumberInt(14175961)
+}

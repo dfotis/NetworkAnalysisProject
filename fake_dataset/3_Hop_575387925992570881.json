@@ -1,0 +1,96 @@
+{ 
+    "_id" : ObjectId("5aff75179954de1281fded0e"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2376012150), 
+    "target" : NumberLong(2438685781)
+}
+{ 
+    "_id" : ObjectId("5aff78979954de1281fded11"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(1040426869), 
+    "target" : NumberInt(798683665)
+}
+{ 
+    "_id" : ObjectId("5aff78989954de1281fded14"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(322457565), 
+    "target" : NumberInt(177077408)
+}
+{ 
+    "_id" : ObjectId("5aff78989954de1281fded17"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(322457565), 
+    "target" : NumberLong(2218519832)
+}
+{ 
+    "_id" : ObjectId("5aff78989954de1281fded1a"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(322457565), 
+    "target" : NumberLong(3053834914)
+}
+{ 
+    "_id" : ObjectId("5aff78989954de1281fded1d"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(322457565), 
+    "target" : NumberLong(2732396355)
+}
+{ 
+    "_id" : ObjectId("5aff78989954de1281fded20"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(322457565), 
+    "target" : NumberLong(2876604548)
+}
+{ 
+    "_id" : ObjectId("5aff78989954de1281fded23"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(322457565), 
+    "target" : NumberLong(3038243265)
+}
+{ 
+    "_id" : ObjectId("5aff78989954de1281fded26"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(322457565), 
+    "target" : NumberInt(1624626506)
+}
+{ 
+    "_id" : ObjectId("5aff78989954de1281fded29"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(322457565), 
+    "target" : NumberLong(2723188043)
+}
+{ 
+    "_id" : ObjectId("5aff78999954de1281fded2c"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(322457565), 
+    "target" : NumberLong(2429429322)
+}
+{ 
+    "_id" : ObjectId("5aff78999954de1281fded2f"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(322457565), 
+    "target" : NumberLong(3069355789)
+}
+{ 
+    "_id" : ObjectId("5aff78999954de1281fded32"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(322457565), 
+    "target" : NumberInt(968092526)
+}
+{ 
+    "_id" : ObjectId("5aff78999954de1281fded35"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(322457565), 
+    "target" : NumberLong(2839330635)
+}
+{ 
+    "_id" : ObjectId("5aff78999954de1281fded38"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(322457565), 
+    "target" : NumberLong(3082118578)
+}
+{ 
+    "_id" : ObjectId("5aff78999954de1281fded3b"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(322457565), 
+    "target" : NumberLong(3052996984)
+}

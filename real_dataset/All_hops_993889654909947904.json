@@ -1,0 +1,6948 @@
+{ 
+    "_id" : ObjectId("5afe01d89954de0dd12301db"), 
+    "hop" : "fisrt_hop", 
+    "source" : "335455570", 
+    "target" : NumberLong(901773828392534018)
+}
+{ 
+    "_id" : ObjectId("5afe01d89954de0dd12301dd"), 
+    "hop" : "fisrt_hop", 
+    "source" : "335455570", 
+    "target" : NumberInt(520057839)
+}
+{ 
+    "_id" : ObjectId("5afe01d89954de0dd12301df"), 
+    "hop" : "fisrt_hop", 
+    "source" : "335455570", 
+    "target" : NumberLong(707022079548387328)
+}
+{ 
+    "_id" : ObjectId("5afe01d89954de0dd12301e1"), 
+    "hop" : "fisrt_hop", 
+    "source" : "335455570", 
+    "target" : NumberInt(245688940)
+}
+{ 
+    "_id" : ObjectId("5afe01d89954de0dd12301e3"), 
+    "hop" : "fisrt_hop", 
+    "source" : "335455570", 
+    "target" : NumberInt(534633386)
+}
+{ 
+    "_id" : ObjectId("5afe01d89954de0dd12301e5"), 
+    "hop" : "fisrt_hop", 
+    "source" : "335455570", 
+    "target" : NumberLong(3033484755)
+}
+{ 
+    "_id" : ObjectId("5afe01d89954de0dd12301e7"), 
+    "hop" : "fisrt_hop", 
+    "source" : "335455570", 
+    "target" : NumberInt(307549219)
+}
+{ 
+    "_id" : ObjectId("5afe01d89954de0dd12301e9"), 
+    "hop" : "fisrt_hop", 
+    "source" : "335455570", 
+    "target" : NumberLong(945690467596931073)
+}
+{ 
+    "_id" : ObjectId("5afe01d89954de0dd12301eb"), 
+    "hop" : "fisrt_hop", 
+    "source" : "335455570", 
+    "target" : NumberInt(168609967)
+}
+{ 
+    "_id" : ObjectId("5afe01d89954de0dd12301ed"), 
+    "hop" : "fisrt_hop", 
+    "source" : "335455570", 
+    "target" : NumberLong(869317994412994560)
+}
+{ 
+    "_id" : ObjectId("5afe01d89954de0dd12301ef"), 
+    "hop" : "fisrt_hop", 
+    "source" : "335455570", 
+    "target" : NumberLong(2556950432)
+}
+{ 
+    "_id" : ObjectId("5afe01d89954de0dd12301f1"), 
+    "hop" : "fisrt_hop", 
+    "source" : "335455570", 
+    "target" : NumberInt(91312800)
+}
+{ 
+    "_id" : ObjectId("5afe01d89954de0dd12301f3"), 
+    "hop" : "fisrt_hop", 
+    "source" : "335455570", 
+    "target" : NumberLong(866207957113081856)
+}
+{ 
+    "_id" : ObjectId("5afe01d89954de0dd12301f5"), 
+    "hop" : "fisrt_hop", 
+    "source" : "335455570", 
+    "target" : NumberInt(702677222)
+}
+{ 
+    "_id" : ObjectId("5afe01d89954de0dd12301f7"), 
+    "hop" : "fisrt_hop", 
+    "source" : "335455570", 
+    "target" : NumberInt(65334828)
+}
+{ 
+    "_id" : ObjectId("5afe01d89954de0dd12301f9"), 
+    "hop" : "fisrt_hop", 
+    "source" : "335455570", 
+    "target" : NumberLong(768524124859863040)
+}
+{ 
+    "_id" : ObjectId("5afe01d89954de0dd12301fb"), 
+    "hop" : "fisrt_hop", 
+    "source" : "335455570", 
+    "target" : NumberLong(2427645507)
+}
+{ 
+    "_id" : ObjectId("5afe01d89954de0dd12301fd"), 
+    "hop" : "fisrt_hop", 
+    "source" : "335455570", 
+    "target" : NumberLong(873437677630230528)
+}
+{ 
+    "_id" : ObjectId("5afe01d89954de0dd12301ff"), 
+    "hop" : "fisrt_hop", 
+    "source" : "335455570", 
+    "target" : NumberInt(982854584)
+}
+{ 
+    "_id" : ObjectId("5afe01d99954de0dd1230201"), 
+    "hop" : "fisrt_hop", 
+    "source" : "335455570", 
+    "target" : NumberInt(536355231)
+}
+{ 
+    "_id" : ObjectId("5afe01d99954de0dd1230203"), 
+    "hop" : "fisrt_hop", 
+    "source" : "335455570", 
+    "target" : NumberLong(967278895841120261)
+}
+{ 
+    "_id" : ObjectId("5afe01d99954de0dd1230205"), 
+    "hop" : "fisrt_hop", 
+    "source" : "335455570", 
+    "target" : NumberInt(339254582)
+}
+{ 
+    "_id" : ObjectId("5afe01dc9954de0dd1230208"), 
+    "hop" : "2_hop", 
+    "source" : NumberLong(3033484755), 
+    "target" : NumberLong(793445946738827264)
+}
+{ 
+    "_id" : ObjectId("5afe01dc9954de0dd123020b"), 
+    "hop" : "2_hop", 
+    "source" : NumberLong(3033484755), 
+    "target" : NumberLong(748939714753863680)
+}
+{ 
+    "_id" : ObjectId("5afe01dc9954de0dd123020e"), 
+    "hop" : "2_hop", 
+    "source" : NumberLong(3033484755), 
+    "target" : NumberInt(253463908)
+}
+{ 
+    "_id" : ObjectId("5afe01dc9954de0dd1230211"), 
+    "hop" : "2_hop", 
+    "source" : NumberLong(3033484755), 
+    "target" : NumberLong(2992258251)
+}
+{ 
+    "_id" : ObjectId("5afe01dc9954de0dd1230214"), 
+    "hop" : "2_hop", 
+    "source" : NumberLong(3033484755), 
+    "target" : NumberInt(489825743)
+}
+{ 
+    "_id" : ObjectId("5afe01dc9954de0dd1230217"), 
+    "hop" : "2_hop", 
+    "source" : NumberLong(3033484755), 
+    "target" : NumberLong(2237694159)
+}
+{ 
+    "_id" : ObjectId("5afe01dc9954de0dd123021a"), 
+    "hop" : "2_hop", 
+    "source" : NumberLong(3033484755), 
+    "target" : NumberLong(2375469679)
+}
+{ 
+    "_id" : ObjectId("5afe01dc9954de0dd123021d"), 
+    "hop" : "2_hop", 
+    "source" : NumberLong(3033484755), 
+    "target" : NumberInt(61420820)
+}
+{ 
+    "_id" : ObjectId("5afe01dc9954de0dd1230220"), 
+    "hop" : "2_hop", 
+    "source" : NumberLong(3033484755), 
+    "target" : NumberInt(115503224)
+}
+{ 
+    "_id" : ObjectId("5afe01dc9954de0dd1230223"), 
+    "hop" : "2_hop", 
+    "source" : NumberLong(3033484755), 
+    "target" : NumberLong(2852389883)
+}
+{ 
+    "_id" : ObjectId("5afe01dc9954de0dd1230226"), 
+    "hop" : "2_hop", 
+    "source" : NumberLong(3033484755), 
+    "target" : NumberInt(129580191)
+}
+{ 
+    "_id" : ObjectId("5afe01dd9954de0dd1230229"), 
+    "hop" : "2_hop", 
+    "source" : NumberInt(307549219), 
+    "target" : NumberInt(131481944)
+}
+{ 
+    "_id" : ObjectId("5afe01dd9954de0dd123022c"), 
+    "hop" : "2_hop", 
+    "source" : NumberInt(307549219), 
+    "target" : NumberInt(84677988)
+}
+{ 
+    "_id" : ObjectId("5afe01dd9954de0dd123022f"), 
+    "hop" : "2_hop", 
+    "source" : NumberInt(307549219), 
+    "target" : NumberInt(597769317)
+}
+{ 
+    "_id" : ObjectId("5afe01dd9954de0dd1230232"), 
+    "hop" : "2_hop", 
+    "source" : NumberInt(307549219), 
+    "target" : NumberInt(324547756)
+}
+{ 
+    "_id" : ObjectId("5afe01dd9954de0dd1230235"), 
+    "hop" : "2_hop", 
+    "source" : NumberInt(307549219), 
+    "target" : NumberInt(1962422936)
+}
+{ 
+    "_id" : ObjectId("5afe01dd9954de0dd1230238"), 
+    "hop" : "2_hop", 
+    "source" : NumberInt(307549219), 
+    "target" : NumberInt(87691664)
+}
+{ 
+    "_id" : ObjectId("5afe01dd9954de0dd123023b"), 
+    "hop" : "2_hop", 
+    "source" : NumberInt(307549219), 
+    "target" : NumberLong(2189223509)
+}
+{ 
+    "_id" : ObjectId("5afe01dd9954de0dd123023e"), 
+    "hop" : "2_hop", 
+    "source" : NumberInt(307549219), 
+    "target" : NumberInt(99767638)
+}
+{ 
+    "_id" : ObjectId("5afe01dd9954de0dd1230241"), 
+    "hop" : "2_hop", 
+    "source" : NumberInt(307549219), 
+    "target" : NumberInt(330501528)
+}
+{ 
+    "_id" : ObjectId("5afe01dd9954de0dd1230244"), 
+    "hop" : "2_hop", 
+    "source" : NumberInt(307549219), 
+    "target" : NumberLong(2738948925)
+}
+{ 
+    "_id" : ObjectId("5afe01de9954de0dd1230247"), 
+    "hop" : "2_hop", 
+    "source" : NumberInt(168609967), 
+    "target" : NumberInt(109432658)
+}
+{ 
+    "_id" : ObjectId("5afe01de9954de0dd123024a"), 
+    "hop" : "2_hop", 
+    "source" : NumberLong(869317994412994560), 
+    "target" : NumberLong(767016632304697344)
+}
+{ 
+    "_id" : ObjectId("5afe01de9954de0dd123024d"), 
+    "hop" : "2_hop", 
+    "source" : NumberLong(869317994412994560), 
+    "target" : NumberLong(811674818307297280)
+}
+{ 
+    "_id" : ObjectId("5afe01de9954de0dd1230250"), 
+    "hop" : "2_hop", 
+    "source" : NumberLong(869317994412994560), 
+    "target" : NumberInt(89916210)
+}
+{ 
+    "_id" : ObjectId("5afe01de9954de0dd1230253"), 
+    "hop" : "2_hop", 
+    "source" : NumberLong(869317994412994560), 
+    "target" : NumberLong(805660236388466688)
+}
+{ 
+    "_id" : ObjectId("5afe01df9954de0dd1230256"), 
+    "hop" : "2_hop", 
+    "source" : NumberInt(91312800), 
+    "target" : NumberLong(731881391424720896)
+}
+{ 
+    "_id" : ObjectId("5afe01df9954de0dd1230259"), 
+    "hop" : "2_hop", 
+    "source" : NumberInt(91312800), 
+    "target" : NumberInt(108670610)
+}
+{ 
+    "_id" : ObjectId("5afe01df9954de0dd123025c"), 
+    "hop" : "2_hop", 
+    "source" : NumberInt(91312800), 
+    "target" : NumberInt(562872352)
+}
+{ 
+    "_id" : ObjectId("5afe01e09954de0dd123025f"), 
+    "hop" : "2_hop", 
+    "source" : NumberLong(866207957113081856), 
+    "target" : NumberLong(755850571081547776)
+}
+{ 
+    "_id" : ObjectId("5afe05619954de0dd1230262"), 
+    "hop" : "2_hop", 
+    "source" : NumberInt(65334828), 
+    "target" : NumberLong(2169222986)
+}
+{ 
+    "_id" : ObjectId("5afe05619954de0dd1230265"), 
+    "hop" : "2_hop", 
+    "source" : NumberInt(65334828), 
+    "target" : NumberInt(142791126)
+}
+{ 
+    "_id" : ObjectId("5afe05659954de0dd1230268"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberLong(873199852875911168)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd123026b"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberLong(756882358649950209)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd123026e"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberLong(969999737314271232)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd1230271"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberLong(809520159450865664)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd1230274"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberLong(884313453644701698)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd1230277"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberLong(756551861054963717)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd123027a"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberLong(988515412492083200)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd123027d"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberLong(993569956179660801)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd1230280"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberLong(2272373640)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd1230283"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberLong(903171780185133056)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd1230286"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberInt(454139146)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd1230289"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberInt(497336331)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd123028c"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberInt(124144011)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd123028f"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberLong(831869357240221697)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd1230292"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberInt(1158342798)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd1230295"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberLong(814894222901911552)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd1230298"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberLong(849560085722542081)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd123029b"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberLong(703238286496677892)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd123029e"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberLong(4829028250)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd12302a1"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberInt(802309531)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd12302a4"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberInt(484270753)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd12302a7"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberInt(74941480)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd12302aa"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberInt(295620778)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd12302ad"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberInt(481200173)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd12302b0"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberInt(295898930)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd12302b3"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberInt(261758647)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd12302b6"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberInt(480690232)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd12302b9"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberLong(3303585081)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd12302bc"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberLong(928557352160256000)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd12302bf"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberLong(3207854663)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd12302c2"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberInt(739510476)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd12302c5"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberLong(4640833996)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd12302c8"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberLong(3493304015)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd12302cb"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberInt(452067415)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd12302ce"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberInt(377309155)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd12302d1"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberLong(3107765095)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd12302d4"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberInt(513673709)
+}
+{ 
+    "_id" : ObjectId("5afe05669954de0dd12302d7"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(793445946738827264), 
+    "target" : NumberLong(2960338042)
+}
+{ 
+    "_id" : ObjectId("5afe05679954de0dd12302da"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(748939714753863680), 
+    "target" : NumberLong(785535120258240512)
+}
+{ 
+    "_id" : ObjectId("5afe05679954de0dd12302dd"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(748939714753863680), 
+    "target" : NumberLong(810557962154639361)
+}
+{ 
+    "_id" : ObjectId("5afe05679954de0dd12302e0"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(748939714753863680), 
+    "target" : NumberInt(346828962)
+}
+{ 
+    "_id" : ObjectId("5afe05679954de0dd12302e3"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(748939714753863680), 
+    "target" : NumberInt(1200284004)
+}
+{ 
+    "_id" : ObjectId("5afe05679954de0dd12302e6"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(748939714753863680), 
+    "target" : NumberInt(151105894)
+}
+{ 
+    "_id" : ObjectId("5afe05679954de0dd12302e9"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(748939714753863680), 
+    "target" : NumberLong(4767579435)
+}
+{ 
+    "_id" : ObjectId("5afe05679954de0dd12302ec"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(748939714753863680), 
+    "target" : NumberLong(2665538189)
+}
+{ 
+    "_id" : ObjectId("5afe05679954de0dd12302ef"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(748939714753863680), 
+    "target" : NumberLong(2766420144)
+}
+{ 
+    "_id" : ObjectId("5afe05679954de0dd12302f2"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(748939714753863680), 
+    "target" : NumberLong(2400210193)
+}
+{ 
+    "_id" : ObjectId("5afe05679954de0dd12302f5"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(748939714753863680), 
+    "target" : NumberInt(54862610)
+}
+{ 
+    "_id" : ObjectId("5afe05679954de0dd12302f8"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(748939714753863680), 
+    "target" : NumberLong(2729715901)
+}
+{ 
+    "_id" : ObjectId("5afe05689954de0dd12302fb"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(253463908), 
+    "target" : NumberInt(247681792)
+}
+{ 
+    "_id" : ObjectId("5afe05689954de0dd12302fe"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(253463908), 
+    "target" : NumberLong(826441445015945217)
+}
+{ 
+    "_id" : ObjectId("5afe05689954de0dd1230301"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(253463908), 
+    "target" : NumberInt(1475051904)
+}
+{ 
+    "_id" : ObjectId("5afe05689954de0dd1230304"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(253463908), 
+    "target" : NumberInt(96146503)
+}
+{ 
+    "_id" : ObjectId("5afe05689954de0dd1230307"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(253463908), 
+    "target" : NumberInt(67969416)
+}
+{ 
+    "_id" : ObjectId("5afe05689954de0dd123030a"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(253463908), 
+    "target" : NumberInt(1278356076)
+}
+{ 
+    "_id" : ObjectId("5afe05689954de0dd123030d"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(253463908), 
+    "target" : NumberInt(52141329)
+}
+{ 
+    "_id" : ObjectId("5afe05689954de0dd1230310"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(253463908), 
+    "target" : NumberInt(93517169)
+}
+{ 
+    "_id" : ObjectId("5afe05689954de0dd1230313"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(253463908), 
+    "target" : NumberInt(92738803)
+}
+{ 
+    "_id" : ObjectId("5afe05689954de0dd1230316"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(253463908), 
+    "target" : NumberInt(20867089)
+}
+{ 
+    "_id" : ObjectId("5afe05689954de0dd1230319"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(253463908), 
+    "target" : NumberInt(25183960)
+}
+{ 
+    "_id" : ObjectId("5afe05699954de0dd123031c"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2992258251), 
+    "target" : NumberLong(760203277338312704)
+}
+{ 
+    "_id" : ObjectId("5afe05699954de0dd123031f"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2992258251), 
+    "target" : NumberLong(766249066938368000)
+}
+{ 
+    "_id" : ObjectId("5afe05699954de0dd1230322"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2992258251), 
+    "target" : NumberInt(1228665763)
+}
+{ 
+    "_id" : ObjectId("5afe05699954de0dd1230325"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2992258251), 
+    "target" : NumberInt(82600516)
+}
+{ 
+    "_id" : ObjectId("5afe05699954de0dd1230328"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2992258251), 
+    "target" : NumberInt(598349543)
+}
+{ 
+    "_id" : ObjectId("5afe05699954de0dd123032b"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2992258251), 
+    "target" : NumberInt(293047496)
+}
+{ 
+    "_id" : ObjectId("5afe05699954de0dd123032e"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2992258251), 
+    "target" : NumberLong(4573089192)
+}
+{ 
+    "_id" : ObjectId("5afe05699954de0dd1230331"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2992258251), 
+    "target" : NumberLong(3290727764)
+}
+{ 
+    "_id" : ObjectId("5afe05699954de0dd1230334"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2992258251), 
+    "target" : NumberInt(1392358964)
+}
+{ 
+    "_id" : ObjectId("5afe05699954de0dd1230337"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2992258251), 
+    "target" : NumberInt(48107769)
+}
+{ 
+    "_id" : ObjectId("5afe05699954de0dd123033a"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2992258251), 
+    "target" : NumberLong(2279461086)
+}
+{ 
+    "_id" : ObjectId("5afe08e89954de0dd123033d"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(489825743), 
+    "target" : NumberInt(1665795008)
+}
+{ 
+    "_id" : ObjectId("5afe08e89954de0dd1230340"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(489825743), 
+    "target" : NumberLong(909311288781754368)
+}
+{ 
+    "_id" : ObjectId("5afe08e89954de0dd1230343"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(489825743), 
+    "target" : NumberInt(203252962)
+}
+{ 
+    "_id" : ObjectId("5afe08e89954de0dd1230346"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(489825743), 
+    "target" : NumberInt(95208037)
+}
+{ 
+    "_id" : ObjectId("5afe08e89954de0dd1230349"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(489825743), 
+    "target" : NumberInt(1491148266)
+}
+{ 
+    "_id" : ObjectId("5afe08e89954de0dd123034c"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(489825743), 
+    "target" : NumberInt(218077739)
+}
+{ 
+    "_id" : ObjectId("5afe08e89954de0dd123034f"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(489825743), 
+    "target" : NumberLong(3059146444)
+}
+{ 
+    "_id" : ObjectId("5afe08e89954de0dd1230352"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(489825743), 
+    "target" : NumberInt(1456948238)
+}
+{ 
+    "_id" : ObjectId("5afe08e89954de0dd1230355"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(489825743), 
+    "target" : NumberInt(1625665615)
+}
+{ 
+    "_id" : ObjectId("5afe08e89954de0dd1230358"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(489825743), 
+    "target" : NumberInt(99558801)
+}
+{ 
+    "_id" : ObjectId("5afe08e89954de0dd123035b"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(489825743), 
+    "target" : NumberInt(302024849)
+}
+{ 
+    "_id" : ObjectId("5afe08e89954de0dd123035e"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(489825743), 
+    "target" : NumberInt(130429139)
+}
+{ 
+    "_id" : ObjectId("5afe08e89954de0dd1230361"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(489825743), 
+    "target" : NumberInt(1215113844)
+}
+{ 
+    "_id" : ObjectId("5afe08e89954de0dd1230364"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(489825743), 
+    "target" : NumberInt(184175573)
+}
+{ 
+    "_id" : ObjectId("5afe08e89954de0dd1230367"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(489825743), 
+    "target" : NumberInt(227660756)
+}
+{ 
+    "_id" : ObjectId("5afe08e99954de0dd123036a"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(489825743), 
+    "target" : NumberInt(382560445)
+}
+{ 
+    "_id" : ObjectId("5afe08e99954de0dd123036d"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(489825743), 
+    "target" : NumberLong(2423475092)
+}
+{ 
+    "_id" : ObjectId("5afe08e99954de0dd1230370"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(489825743), 
+    "target" : NumberInt(254128058)
+}
+{ 
+    "_id" : ObjectId("5afe08e99954de0dd1230373"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(489825743), 
+    "target" : NumberInt(559856765)
+}
+{ 
+    "_id" : ObjectId("5afe08ea9954de0dd1230376"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2237694159), 
+    "target" : NumberInt(1479772380)
+}
+{ 
+    "_id" : ObjectId("5afe08ea9954de0dd1230379"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2237694159), 
+    "target" : NumberLong(2353165908)
+}
+{ 
+    "_id" : ObjectId("5afe08ea9954de0dd123037c"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2375469679), 
+    "target" : NumberInt(98862380)
+}
+{ 
+    "_id" : ObjectId("5afe08ea9954de0dd123037f"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2375469679), 
+    "target" : NumberInt(32407246)
+}
+{ 
+    "_id" : ObjectId("5afe08ea9954de0dd1230382"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2375469679), 
+    "target" : NumberInt(184776110)
+}
+{ 
+    "_id" : ObjectId("5afe08ea9954de0dd1230385"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2375469679), 
+    "target" : NumberLong(2970226895)
+}
+{ 
+    "_id" : ObjectId("5afe08ea9954de0dd1230388"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2375469679), 
+    "target" : NumberInt(228161976)
+}
+{ 
+    "_id" : ObjectId("5afe08eb9954de0dd123038b"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(61420820), 
+    "target" : NumberLong(2267839723)
+}
+{ 
+    "_id" : ObjectId("5afe08eb9954de0dd123038e"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(61420820), 
+    "target" : NumberInt(414387086)
+}
+{ 
+    "_id" : ObjectId("5afe08eb9954de0dd1230391"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(61420820), 
+    "target" : NumberLong(3335244815)
+}
+{ 
+    "_id" : ObjectId("5afe08eb9954de0dd1230394"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(61420820), 
+    "target" : NumberInt(55016436)
+}
+{ 
+    "_id" : ObjectId("5afe08eb9954de0dd1230397"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(61420820), 
+    "target" : NumberLong(2256351865)
+}
+{ 
+    "_id" : ObjectId("5afe08ed9954de0dd123039a"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(129580191), 
+    "target" : NumberInt(340358699)
+}
+{ 
+    "_id" : ObjectId("5afe08ed9954de0dd123039d"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(129580191), 
+    "target" : NumberInt(636391187)
+}
+{ 
+    "_id" : ObjectId("5afe08ed9954de0dd12303a0"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(129580191), 
+    "target" : NumberLong(2715966023)
+}
+{ 
+    "_id" : ObjectId("5afe08ef9954de0dd12303a3"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(84677988), 
+    "target" : NumberLong(835586770691637248)
+}
+{ 
+    "_id" : ObjectId("5afe08ef9954de0dd12303a6"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(84677988), 
+    "target" : NumberLong(802884632224079873)
+}
+{ 
+    "_id" : ObjectId("5afe08ef9954de0dd12303a9"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(84677988), 
+    "target" : NumberInt(248249984)
+}
+{ 
+    "_id" : ObjectId("5afe08ef9954de0dd12303ac"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(84677988), 
+    "target" : NumberLong(710942942823903232)
+}
+{ 
+    "_id" : ObjectId("5afe08ef9954de0dd12303af"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(84677988), 
+    "target" : NumberLong(805190927979581441)
+}
+{ 
+    "_id" : ObjectId("5afe08ef9954de0dd12303b2"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(84677988), 
+    "target" : NumberInt(192171909)
+}
+{ 
+    "_id" : ObjectId("5afe08ef9954de0dd12303b5"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(84677988), 
+    "target" : NumberInt(208414728)
+}
+{ 
+    "_id" : ObjectId("5afe08ef9954de0dd12303b8"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(84677988), 
+    "target" : NumberLong(2949242889)
+}
+{ 
+    "_id" : ObjectId("5afe08ef9954de0dd12303bb"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(84677988), 
+    "target" : NumberInt(179489676)
+}
+{ 
+    "_id" : ObjectId("5afe08ef9954de0dd12303be"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(84677988), 
+    "target" : NumberInt(109389840)
+}
+{ 
+    "_id" : ObjectId("5afe08ef9954de0dd12303c1"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(84677988), 
+    "target" : NumberInt(554284571)
+}
+{ 
+    "_id" : ObjectId("5afe08ef9954de0dd12303c4"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(84677988), 
+    "target" : NumberLong(2939631269)
+}
+{ 
+    "_id" : ObjectId("5afe08ef9954de0dd12303c7"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(84677988), 
+    "target" : NumberInt(111247911)
+}
+{ 
+    "_id" : ObjectId("5afe08ef9954de0dd12303ca"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(84677988), 
+    "target" : NumberInt(96230951)
+}
+{ 
+    "_id" : ObjectId("5afe08ef9954de0dd12303cd"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(84677988), 
+    "target" : NumberInt(347790512)
+}
+{ 
+    "_id" : ObjectId("5afe08ef9954de0dd12303d0"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(84677988), 
+    "target" : NumberInt(226583351)
+}
+{ 
+    "_id" : ObjectId("5afe08ef9954de0dd12303d3"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(84677988), 
+    "target" : NumberInt(283310912)
+}
+{ 
+    "_id" : ObjectId("5afe08ef9954de0dd12303d6"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(84677988), 
+    "target" : NumberInt(125965121)
+}
+{ 
+    "_id" : ObjectId("5afe08ef9954de0dd12303d9"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(84677988), 
+    "target" : NumberInt(288567638)
+}
+{ 
+    "_id" : ObjectId("5afe08ef9954de0dd12303dc"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(84677988), 
+    "target" : NumberInt(145201879)
+}
+{ 
+    "_id" : ObjectId("5afe08ef9954de0dd12303df"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(84677988), 
+    "target" : NumberInt(161194970)
+}
+{ 
+    "_id" : ObjectId("5afe08ef9954de0dd12303e2"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(84677988), 
+    "target" : NumberInt(1372942686)
+}
+{ 
+    "_id" : ObjectId("5afe08ef9954de0dd12303e5"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(84677988), 
+    "target" : NumberInt(123693547)
+}
+{ 
+    "_id" : ObjectId("5afe08ef9954de0dd12303e8"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(84677988), 
+    "target" : NumberInt(155839339)
+}
+{ 
+    "_id" : ObjectId("5afe08ef9954de0dd12303eb"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(84677988), 
+    "target" : NumberInt(67032556)
+}
+{ 
+    "_id" : ObjectId("5afe08ef9954de0dd12303ee"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(84677988), 
+    "target" : NumberInt(28875506)
+}
+{ 
+    "_id" : ObjectId("5afe08ef9954de0dd12303f1"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(84677988), 
+    "target" : NumberInt(714176508)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd12303f4"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberLong(948669257096851456)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd12303f7"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberLong(862666204938461184)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd12303fa"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberLong(760301741283749889)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd12303fd"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberLong(979592499722424320)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd1230400"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberLong(868004729707737090)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd1230403"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberLong(974692036233367552)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd1230406"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberLong(865522618551513089)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd1230409"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberLong(729324817694908416)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd123040c"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberLong(888408721017245696)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd123040f"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberInt(1016189833)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd1230412"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberLong(772709922526072832)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd1230415"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberLong(937512134816264193)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd1230418"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberLong(782607508833759233)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd123041b"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberLong(957169622951907329)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd123041e"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberLong(762405744289390592)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd1230421"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberLong(4034116757)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd1230424"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberInt(116774813)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd1230427"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberInt(356131381)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd123042a"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberLong(865563802728710144)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd123042d"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberLong(987178636599021568)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd1230430"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberLong(3346986881)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd1230433"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberLong(798960374376759296)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd1230436"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberLong(2326112462)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd1230439"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberLong(4829167311)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd123043c"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberInt(1578581329)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd123043f"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberInt(1378062428)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd1230442"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberLong(4084979182)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd1230445"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberLong(853002839102304256)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd1230448"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberLong(2391052028)
+}
+{ 
+    "_id" : ObjectId("5afe08f19954de0dd123044b"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(597769317), 
+    "target" : NumberLong(3207475839)
+}
+{ 
+    "_id" : ObjectId("5afe0c6f9954de0dd123044e"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(324547756), 
+    "target" : NumberLong(2759810666)
+}
+{ 
+    "_id" : ObjectId("5afe0c709954de0dd1230451"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(1962422936), 
+    "target" : NumberLong(958467908912500737)
+}
+{ 
+    "_id" : ObjectId("5afe0c709954de0dd1230454"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(1962422936), 
+    "target" : NumberLong(762487945840340993)
+}
+{ 
+    "_id" : ObjectId("5afe0c709954de0dd1230457"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(1962422936), 
+    "target" : NumberLong(955961031922278405)
+}
+{ 
+    "_id" : ObjectId("5afe0c709954de0dd123045a"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(1962422936), 
+    "target" : NumberInt(512976776)
+}
+{ 
+    "_id" : ObjectId("5afe0c709954de0dd123045d"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(1962422936), 
+    "target" : NumberInt(150983248)
+}
+{ 
+    "_id" : ObjectId("5afe0c709954de0dd1230460"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(1962422936), 
+    "target" : NumberLong(2434037905)
+}
+{ 
+    "_id" : ObjectId("5afe0c709954de0dd1230463"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(1962422936), 
+    "target" : NumberInt(27074457)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd1230466"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberLong(762793859474681856)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd1230469"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberLong(754779797662863360)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd123046c"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberLong(711564081195515904)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd123046f"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberLong(979310571165245440)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd1230472"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberLong(726046875934187524)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd1230475"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberLong(902224931496316928)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd1230478"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberInt(597601286)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd123047b"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberInt(49805184)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd123047e"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberLong(758050998862708738)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd1230481"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberLong(832861486955556869)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd1230484"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberLong(3353527821)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd1230487"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberLong(2725129743)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd123048a"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberInt(442925841)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd123048d"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberInt(494230546)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd1230490"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberLong(3154850069)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd1230493"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberInt(550938391)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd1230496"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberInt(797637018)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd1230499"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberLong(3007987757)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd123049c"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberLong(4338536501)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd123049f"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberInt(1584073525)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd12304a2"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberLong(2252557500)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd12304a5"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberInt(196507468)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd12304a8"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberInt(761832404)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd12304ab"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberInt(45086165)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd12304ae"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberInt(285134807)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd12304b1"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberInt(594523480)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd12304b4"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberLong(2854214872)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd12304b7"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberInt(20066522)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd12304ba"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberLong(2582660835)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd12304bd"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberInt(1578321768)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd12304c0"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberInt(81469165)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd12304c3"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberInt(544262639)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd12304c6"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberInt(302837234)
+}
+{ 
+    "_id" : ObjectId("5afe0c719954de0dd12304c9"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(87691664), 
+    "target" : NumberInt(729152628)
+}
+{ 
+    "_id" : ObjectId("5afe0c729954de0dd12304cc"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2189223509), 
+    "target" : NumberLong(822690525929213952)
+}
+{ 
+    "_id" : ObjectId("5afe0c729954de0dd12304cf"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2189223509), 
+    "target" : NumberInt(1523078346)
+}
+{ 
+    "_id" : ObjectId("5afe0c729954de0dd12304d2"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2189223509), 
+    "target" : NumberLong(2194735582)
+}
+{ 
+    "_id" : ObjectId("5afe0c729954de0dd12304d5"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(99767638), 
+    "target" : NumberInt(59234716)
+}
+{ 
+    "_id" : ObjectId("5afe0c739954de0dd12304d8"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(330501528), 
+    "target" : NumberLong(3241161184)
+}
+{ 
+    "_id" : ObjectId("5afe0c739954de0dd12304db"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(330501528), 
+    "target" : NumberInt(260334532)
+}
+{ 
+    "_id" : ObjectId("5afe0c739954de0dd12304de"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(330501528), 
+    "target" : NumberInt(162809736)
+}
+{ 
+    "_id" : ObjectId("5afe0c739954de0dd12304e1"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(330501528), 
+    "target" : NumberInt(614116243)
+}
+{ 
+    "_id" : ObjectId("5afe0c739954de0dd12304e4"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(330501528), 
+    "target" : NumberInt(18872888)
+}
+{ 
+    "_id" : ObjectId("5afe0c749954de0dd12304e7"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2738948925), 
+    "target" : NumberLong(955921771085094912)
+}
+{ 
+    "_id" : ObjectId("5afe0c749954de0dd12304ea"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2738948925), 
+    "target" : NumberLong(953408029831114753)
+}
+{ 
+    "_id" : ObjectId("5afe0c749954de0dd12304ed"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2738948925), 
+    "target" : NumberLong(705118596658282496)
+}
+{ 
+    "_id" : ObjectId("5afe0c749954de0dd12304f0"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2738948925), 
+    "target" : NumberLong(933121679559221249)
+}
+{ 
+    "_id" : ObjectId("5afe0c749954de0dd12304f3"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2738948925), 
+    "target" : NumberInt(331844452)
+}
+{ 
+    "_id" : ObjectId("5afe0c749954de0dd12304f6"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2738948925), 
+    "target" : NumberLong(830544462959013888)
+}
+{ 
+    "_id" : ObjectId("5afe0c749954de0dd12304f9"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2738948925), 
+    "target" : NumberLong(779805196704681985)
+}
+{ 
+    "_id" : ObjectId("5afe0c749954de0dd12304fc"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2738948925), 
+    "target" : NumberLong(768435150707458048)
+}
+{ 
+    "_id" : ObjectId("5afe0c749954de0dd12304ff"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2738948925), 
+    "target" : NumberLong(910587332935503872)
+}
+{ 
+    "_id" : ObjectId("5afe0c749954de0dd1230502"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2738948925), 
+    "target" : NumberInt(86734595)
+}
+{ 
+    "_id" : ObjectId("5afe0c749954de0dd1230505"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2738948925), 
+    "target" : NumberLong(904725174980923392)
+}
+{ 
+    "_id" : ObjectId("5afe0c749954de0dd1230508"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2738948925), 
+    "target" : NumberLong(937688144480210945)
+}
+{ 
+    "_id" : ObjectId("5afe0c749954de0dd123050b"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2738948925), 
+    "target" : NumberInt(380494757)
+}
+{ 
+    "_id" : ObjectId("5afe0c749954de0dd123050e"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2738948925), 
+    "target" : NumberInt(174813833)
+}
+{ 
+    "_id" : ObjectId("5afe0c749954de0dd1230511"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2738948925), 
+    "target" : NumberInt(1331102358)
+}
+{ 
+    "_id" : ObjectId("5afe0c749954de0dd1230514"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2738948925), 
+    "target" : NumberLong(3970357398)
+}
+{ 
+    "_id" : ObjectId("5afe0c749954de0dd1230517"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2738948925), 
+    "target" : NumberLong(2615903833)
+}
+{ 
+    "_id" : ObjectId("5afe0c749954de0dd123051a"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2738948925), 
+    "target" : NumberLong(2775067265)
+}
+{ 
+    "_id" : ObjectId("5afe0c749954de0dd123051d"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2738948925), 
+    "target" : NumberInt(507593498)
+}
+{ 
+    "_id" : ObjectId("5afe0c749954de0dd1230520"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2738948925), 
+    "target" : NumberLong(3095271741)
+}
+{ 
+    "_id" : ObjectId("5afe0c769954de0dd1230523"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(767016632304697344), 
+    "target" : NumberLong(870693417050820609)
+}
+{ 
+    "_id" : ObjectId("5afe0c779954de0dd1230526"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(89916210), 
+    "target" : NumberInt(1495478688)
+}
+{ 
+    "_id" : ObjectId("5afe0c779954de0dd1230529"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(805660236388466688), 
+    "target" : NumberInt(921223458)
+}
+{ 
+    "_id" : ObjectId("5afe0ff59954de0dd123052c"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(731881391424720896), 
+    "target" : NumberLong(982453510829637632)
+}
+{ 
+    "_id" : ObjectId("5afe0ff59954de0dd123052f"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(731881391424720896), 
+    "target" : NumberLong(984808360573849600)
+}
+{ 
+    "_id" : ObjectId("5afe0ff59954de0dd1230532"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(731881391424720896), 
+    "target" : NumberLong(976411775297118208)
+}
+{ 
+    "_id" : ObjectId("5afe0ff59954de0dd1230535"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(731881391424720896), 
+    "target" : NumberLong(3141952935)
+}
+{ 
+    "_id" : ObjectId("5afe0ff59954de0dd1230538"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(731881391424720896), 
+    "target" : NumberInt(196668374)
+}
+{ 
+    "_id" : ObjectId("5afe0ff59954de0dd123053b"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(731881391424720896), 
+    "target" : NumberLong(2760584572)
+}
+{ 
+    "_id" : ObjectId("5afe0ff59954de0dd123053e"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(731881391424720896), 
+    "target" : NumberLong(3011157215)
+}
+{ 
+    "_id" : ObjectId("5afe0ff69954de0dd1230541"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(108670610), 
+    "target" : NumberInt(388184430)
+}
+{ 
+    "_id" : ObjectId("5afe0ff79954de0dd1230544"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(755850571081547776), 
+    "target" : NumberLong(961592124302086144)
+}
+{ 
+    "_id" : ObjectId("5afe0ff79954de0dd1230547"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(755850571081547776), 
+    "target" : NumberLong(963475810152837121)
+}
+{ 
+    "_id" : ObjectId("5afe0ff79954de0dd123054a"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(755850571081547776), 
+    "target" : NumberLong(939210126715736065)
+}
+{ 
+    "_id" : ObjectId("5afe0ff79954de0dd123054d"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(755850571081547776), 
+    "target" : NumberLong(830054128432840705)
+}
+{ 
+    "_id" : ObjectId("5afe0ff79954de0dd1230550"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(755850571081547776), 
+    "target" : NumberInt(473175042)
+}
+{ 
+    "_id" : ObjectId("5afe0ff79954de0dd1230553"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(755850571081547776), 
+    "target" : NumberInt(857981029)
+}
+{ 
+    "_id" : ObjectId("5afe0ff79954de0dd1230556"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(755850571081547776), 
+    "target" : NumberLong(843547375281037318)
+}
+{ 
+    "_id" : ObjectId("5afe0ff79954de0dd1230559"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(755850571081547776), 
+    "target" : NumberLong(943199630745112583)
+}
+{ 
+    "_id" : ObjectId("5afe0ff79954de0dd123055c"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(755850571081547776), 
+    "target" : NumberLong(801483808910479362)
+}
+{ 
+    "_id" : ObjectId("5afe0ff79954de0dd123055f"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(755850571081547776), 
+    "target" : NumberLong(756612439123394565)
+}
+{ 
+    "_id" : ObjectId("5afe0ff79954de0dd1230562"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(755850571081547776), 
+    "target" : NumberLong(2990328682)
+}
+{ 
+    "_id" : ObjectId("5afe0ff79954de0dd1230565"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(755850571081547776), 
+    "target" : NumberLong(920350650445303808)
+}
+{ 
+    "_id" : ObjectId("5afe0ff79954de0dd1230568"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(755850571081547776), 
+    "target" : NumberLong(2358253969)
+}
+{ 
+    "_id" : ObjectId("5afe0ff79954de0dd123056b"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(755850571081547776), 
+    "target" : NumberInt(1522967834)
+}
+{ 
+    "_id" : ObjectId("5afe0ff79954de0dd123056e"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(755850571081547776), 
+    "target" : NumberInt(106669180)
+}
+{ 
+    "_id" : ObjectId("5afe0ff89954de0dd1230571"), 
+    "hop" : "3_hop", 
+    "source" : NumberLong(2169222986), 
+    "target" : NumberInt(65209056)
+}
+{ 
+    "_id" : ObjectId("5afe0ff99954de0dd1230574"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(142791126), 
+    "target" : NumberInt(239412816)
+}
+{ 
+    "_id" : ObjectId("5afe0ff99954de0dd1230577"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(142791126), 
+    "target" : NumberInt(310456740)
+}
+{ 
+    "_id" : ObjectId("5afe0ff99954de0dd123057a"), 
+    "hop" : "3_hop", 
+    "source" : NumberInt(142791126), 
+    "target" : NumberInt(201195941)
+}
+{ 
+    "_id" : ObjectId("5afe0ff99954de0dd123057d"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(873199852875911168), 
+    "target" : NumberInt(1195625689)
+}
+{ 
+    "_id" : ObjectId("5afe0ffb9954de0dd1230580"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(884313453644701698), 
+    "target" : NumberInt(186036216)
+}
+{ 
+    "_id" : ObjectId("5afe0ffb9954de0dd1230583"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(884313453644701698), 
+    "target" : NumberLong(823225600043319297)
+}
+{ 
+    "_id" : ObjectId("5afe0ffc9954de0dd1230586"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(756551861054963717), 
+    "target" : NumberInt(1610461796)
+}
+{ 
+    "_id" : ObjectId("5afe137b9954de0dd1230589"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2272373640), 
+    "target" : NumberInt(39451948)
+}
+{ 
+    "_id" : ObjectId("5afe137d9954de0dd123058c"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(497336331), 
+    "target" : NumberLong(836850615192027136)
+}
+{ 
+    "_id" : ObjectId("5afe137d9954de0dd123058f"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(124144011), 
+    "target" : NumberInt(272454932)
+}
+{ 
+    "_id" : ObjectId("5afe137d9954de0dd1230592"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(124144011), 
+    "target" : NumberInt(387321887)
+}
+{ 
+    "_id" : ObjectId("5afe137e9954de0dd1230595"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(831869357240221697), 
+    "target" : NumberInt(49566203)
+}
+{ 
+    "_id" : ObjectId("5afe137f9954de0dd1230598"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1158342798), 
+    "target" : NumberLong(709069154586923008)
+}
+{ 
+    "_id" : ObjectId("5afe137f9954de0dd123059b"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1158342798), 
+    "target" : NumberLong(969328769856167938)
+}
+{ 
+    "_id" : ObjectId("5afe137f9954de0dd123059e"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1158342798), 
+    "target" : NumberInt(121393955)
+}
+{ 
+    "_id" : ObjectId("5afe137f9954de0dd12305a1"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1158342798), 
+    "target" : NumberLong(986619105783549963)
+}
+{ 
+    "_id" : ObjectId("5afe137f9954de0dd12305a4"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1158342798), 
+    "target" : NumberLong(4858455887)
+}
+{ 
+    "_id" : ObjectId("5afe13809954de0dd12305a7"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(814894222901911552), 
+    "target" : NumberLong(899308266748080128)
+}
+{ 
+    "_id" : ObjectId("5afe13809954de0dd12305aa"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(849560085722542081), 
+    "target" : NumberInt(17758270)
+}
+{ 
+    "_id" : ObjectId("5afe13809954de0dd12305ad"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(849560085722542081), 
+    "target" : NumberLong(2415765711)
+}
+{ 
+    "_id" : ObjectId("5afe13819954de0dd12305b0"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(4829028250), 
+    "target" : NumberLong(3163937373)
+}
+{ 
+    "_id" : ObjectId("5afe13829954de0dd12305b3"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(802309531), 
+    "target" : NumberInt(460013949)
+}
+{ 
+    "_id" : ObjectId("5afe13839954de0dd12305b6"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(74941480), 
+    "target" : NumberInt(101542034)
+}
+{ 
+    "_id" : ObjectId("5afe13839954de0dd12305b9"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(74941480), 
+    "target" : NumberInt(333055199)
+}
+{ 
+    "_id" : ObjectId("5afe17049954de0dd12305bc"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(295898930), 
+    "target" : NumberLong(3871600515)
+}
+{ 
+    "_id" : ObjectId("5afe17059954de0dd12305bf"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(480690232), 
+    "target" : NumberLong(2238773896)
+}
+{ 
+    "_id" : ObjectId("5afe17059954de0dd12305c2"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(480690232), 
+    "target" : NumberInt(773043906)
+}
+{ 
+    "_id" : ObjectId("5afe17059954de0dd12305c5"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(480690232), 
+    "target" : NumberInt(491626547)
+}
+{ 
+    "_id" : ObjectId("5afe17059954de0dd12305c8"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(480690232), 
+    "target" : NumberInt(97764647)
+}
+{ 
+    "_id" : ObjectId("5afe17089954de0dd12305cb"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3493304015), 
+    "target" : NumberLong(989974843331371008)
+}
+{ 
+    "_id" : ObjectId("5afe17089954de0dd12305ce"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3493304015), 
+    "target" : NumberInt(299721857)
+}
+{ 
+    "_id" : ObjectId("5afe17089954de0dd12305d1"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3493304015), 
+    "target" : NumberInt(507876579)
+}
+{ 
+    "_id" : ObjectId("5afe17089954de0dd12305d4"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3493304015), 
+    "target" : NumberInt(371199726)
+}
+{ 
+    "_id" : ObjectId("5afe17089954de0dd12305d7"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3493304015), 
+    "target" : NumberInt(302553968)
+}
+{ 
+    "_id" : ObjectId("5afe17089954de0dd12305da"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3493304015), 
+    "target" : NumberLong(2919715606)
+}
+{ 
+    "_id" : ObjectId("5afe17089954de0dd12305dd"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3493304015), 
+    "target" : NumberLong(2459608283)
+}
+{ 
+    "_id" : ObjectId("5afe17089954de0dd12305e0"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3493304015), 
+    "target" : NumberInt(101840287)
+}
+{ 
+    "_id" : ObjectId("5afe17099954de0dd12305e3"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(452067415), 
+    "target" : NumberInt(227079699)
+}
+{ 
+    "_id" : ObjectId("5afe17099954de0dd12305e6"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(452067415), 
+    "target" : NumberInt(1366907406)
+}
+{ 
+    "_id" : ObjectId("5afe17099954de0dd12305e9"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(377309155), 
+    "target" : NumberInt(483034226)
+}
+{ 
+    "_id" : ObjectId("5afe170a9954de0dd12305ec"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3107765095), 
+    "target" : NumberInt(599950645)
+}
+{ 
+    "_id" : ObjectId("5afe170a9954de0dd12305ef"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3107765095), 
+    "target" : NumberLong(2325996295)
+}
+{ 
+    "_id" : ObjectId("5afe1a8a9954de0dd12305f2"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2960338042), 
+    "target" : NumberLong(2235475042)
+}
+{ 
+    "_id" : ObjectId("5afe1a8a9954de0dd12305f5"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2960338042), 
+    "target" : NumberInt(70984835)
+}
+{ 
+    "_id" : ObjectId("5afe1a8c9954de0dd12305f8"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(810557962154639361), 
+    "target" : NumberLong(980092503234940928)
+}
+{ 
+    "_id" : ObjectId("5afe1a8c9954de0dd12305fb"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(810557962154639361), 
+    "target" : NumberLong(979819622710104064)
+}
+{ 
+    "_id" : ObjectId("5afe1a8c9954de0dd12305fe"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(810557962154639361), 
+    "target" : NumberInt(429810813)
+}
+{ 
+    "_id" : ObjectId("5afe1a8c9954de0dd1230601"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(810557962154639361), 
+    "target" : NumberLong(2429335502)
+}
+{ 
+    "_id" : ObjectId("5afe1a8d9954de0dd1230604"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1200284004), 
+    "target" : NumberLong(749013237086187520)
+}
+{ 
+    "_id" : ObjectId("5afe1a8d9954de0dd1230607"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1200284004), 
+    "target" : NumberLong(702622206195572736)
+}
+{ 
+    "_id" : ObjectId("5afe1a8d9954de0dd123060a"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1200284004), 
+    "target" : NumberInt(1477769346)
+}
+{ 
+    "_id" : ObjectId("5afe1a8d9954de0dd123060d"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1200284004), 
+    "target" : NumberInt(917345126)
+}
+{ 
+    "_id" : ObjectId("5afe1a8d9954de0dd1230610"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1200284004), 
+    "target" : NumberInt(424165066)
+}
+{ 
+    "_id" : ObjectId("5afe1a8d9954de0dd1230613"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1200284004), 
+    "target" : NumberInt(1497994718)
+}
+{ 
+    "_id" : ObjectId("5afe1a8e9954de0dd1230616"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(151105894), 
+    "target" : NumberInt(147730252)
+}
+{ 
+    "_id" : ObjectId("5afe1a8e9954de0dd1230619"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(151105894), 
+    "target" : NumberInt(381995285)
+}
+{ 
+    "_id" : ObjectId("5afe1a8f9954de0dd123061c"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(4767579435), 
+    "target" : NumberLong(803290439692550146)
+}
+{ 
+    "_id" : ObjectId("5afe1a8f9954de0dd123061f"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(4767579435), 
+    "target" : NumberLong(3083469927)
+}
+{ 
+    "_id" : ObjectId("5afe1a909954de0dd1230622"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2665538189), 
+    "target" : NumberInt(274513993)
+}
+{ 
+    "_id" : ObjectId("5afe1a919954de0dd1230625"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2766420144), 
+    "target" : NumberLong(851405125436547072)
+}
+{ 
+    "_id" : ObjectId("5afe1a919954de0dd1230628"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2766420144), 
+    "target" : NumberLong(800072213588119552)
+}
+{ 
+    "_id" : ObjectId("5afe1a919954de0dd123062b"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2766420144), 
+    "target" : NumberInt(55156577)
+}
+{ 
+    "_id" : ObjectId("5afe1a919954de0dd123062e"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2766420144), 
+    "target" : NumberLong(959004258371883008)
+}
+{ 
+    "_id" : ObjectId("5afe1a919954de0dd1230631"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2766420144), 
+    "target" : NumberLong(988690626324652034)
+}
+{ 
+    "_id" : ObjectId("5afe1a919954de0dd1230634"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2766420144), 
+    "target" : NumberInt(1423590181)
+}
+{ 
+    "_id" : ObjectId("5afe1a919954de0dd1230637"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2766420144), 
+    "target" : NumberInt(220728454)
+}
+{ 
+    "_id" : ObjectId("5afe1a919954de0dd123063a"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2766420144), 
+    "target" : NumberLong(717117983085236230)
+}
+{ 
+    "_id" : ObjectId("5afe1a919954de0dd123063d"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2766420144), 
+    "target" : NumberLong(3926601255)
+}
+{ 
+    "_id" : ObjectId("5afe1a919954de0dd1230640"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2766420144), 
+    "target" : NumberInt(350396677)
+}
+{ 
+    "_id" : ObjectId("5afe1a919954de0dd1230643"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2766420144), 
+    "target" : NumberInt(241561894)
+}
+{ 
+    "_id" : ObjectId("5afe1a919954de0dd1230646"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2766420144), 
+    "target" : NumberLong(825437825076166658)
+}
+{ 
+    "_id" : ObjectId("5afe1a919954de0dd1230649"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2766420144), 
+    "target" : NumberInt(1044530574)
+}
+{ 
+    "_id" : ObjectId("5afe1a919954de0dd123064c"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2766420144), 
+    "target" : NumberInt(350456560)
+}
+{ 
+    "_id" : ObjectId("5afe1a919954de0dd123064f"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2766420144), 
+    "target" : NumberInt(1273538010)
+}
+{ 
+    "_id" : ObjectId("5afe1a919954de0dd1230652"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2766420144), 
+    "target" : NumberInt(57673246)
+}
+{ 
+    "_id" : ObjectId("5afe1e119954de0dd1230655"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(54862610), 
+    "target" : NumberInt(761374560)
+}
+{ 
+    "_id" : ObjectId("5afe1e129954de0dd1230658"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2729715901), 
+    "target" : NumberInt(1291082533)
+}
+{ 
+    "_id" : ObjectId("5afe1e129954de0dd123065b"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2729715901), 
+    "target" : NumberInt(1495487300)
+}
+{ 
+    "_id" : ObjectId("5afe1e129954de0dd123065e"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2729715901), 
+    "target" : NumberLong(2879874317)
+}
+{ 
+    "_id" : ObjectId("5afe1e129954de0dd1230661"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2729715901), 
+    "target" : NumberLong(2902711438)
+}
+{ 
+    "_id" : ObjectId("5afe1e159954de0dd1230664"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(96146503), 
+    "target" : NumberInt(1496036348)
+}
+{ 
+    "_id" : ObjectId("5afe1e169954de0dd1230667"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(52141329), 
+    "target" : NumberInt(302074092)
+}
+{ 
+    "_id" : ObjectId("5afe1e189954de0dd123066a"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(20867089), 
+    "target" : NumberInt(40457727)
+}
+{ 
+    "_id" : ObjectId("5afe21989954de0dd123066d"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(25183960), 
+    "target" : NumberInt(30423804)
+}
+{ 
+    "_id" : ObjectId("5afe21989954de0dd1230670"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(25183960), 
+    "target" : NumberInt(90583366)
+}
+{ 
+    "_id" : ObjectId("5afe21989954de0dd1230673"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(25183960), 
+    "target" : NumberInt(20522439)
+}
+{ 
+    "_id" : ObjectId("5afe21989954de0dd1230676"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(25183960), 
+    "target" : NumberInt(312238279)
+}
+{ 
+    "_id" : ObjectId("5afe21989954de0dd1230679"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(25183960), 
+    "target" : NumberInt(209182031)
+}
+{ 
+    "_id" : ObjectId("5afe21989954de0dd123067c"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(25183960), 
+    "target" : NumberInt(419340083)
+}
+{ 
+    "_id" : ObjectId("5afe21989954de0dd123067f"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(25183960), 
+    "target" : NumberInt(67913619)
+}
+{ 
+    "_id" : ObjectId("5afe21989954de0dd1230682"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(25183960), 
+    "target" : NumberLong(2337156534)
+}
+{ 
+    "_id" : ObjectId("5afe21989954de0dd1230685"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(25183960), 
+    "target" : NumberInt(18374007)
+}
+{ 
+    "_id" : ObjectId("5afe21989954de0dd1230688"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(25183960), 
+    "target" : NumberInt(396842716)
+}
+{ 
+    "_id" : ObjectId("5afe21989954de0dd123068b"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(25183960), 
+    "target" : NumberInt(47686845)
+}
+{ 
+    "_id" : ObjectId("5afe21989954de0dd123068e"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(25183960), 
+    "target" : NumberInt(396866143)
+}
+{ 
+    "_id" : ObjectId("5afe21999954de0dd1230691"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(760203277338312704), 
+    "target" : NumberInt(380945274)
+}
+{ 
+    "_id" : ObjectId("5afe21999954de0dd1230694"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(760203277338312704), 
+    "target" : NumberLong(3217086237)
+}
+{ 
+    "_id" : ObjectId("5afe219a9954de0dd1230697"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1228665763), 
+    "target" : NumberLong(4267110532)
+}
+{ 
+    "_id" : ObjectId("5afe219b9954de0dd123069a"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(82600516), 
+    "target" : NumberInt(74982850)
+}
+{ 
+    "_id" : ObjectId("5afe219b9954de0dd123069d"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(82600516), 
+    "target" : NumberInt(598282499)
+}
+{ 
+    "_id" : ObjectId("5afe219b9954de0dd12306a0"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(82600516), 
+    "target" : NumberInt(397308617)
+}
+{ 
+    "_id" : ObjectId("5afe219b9954de0dd12306a3"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(82600516), 
+    "target" : NumberInt(436052019)
+}
+{ 
+    "_id" : ObjectId("5afe219b9954de0dd12306a6"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(82600516), 
+    "target" : NumberInt(298962518)
+}
+{ 
+    "_id" : ObjectId("5afe219b9954de0dd12306a9"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(82600516), 
+    "target" : NumberInt(566493051)
+}
+{ 
+    "_id" : ObjectId("5afe219e9954de0dd12306ac"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1392358964), 
+    "target" : NumberInt(1649150720)
+}
+{ 
+    "_id" : ObjectId("5afe219e9954de0dd12306af"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1392358964), 
+    "target" : NumberLong(2958253913)
+}
+{ 
+    "_id" : ObjectId("5afe219e9954de0dd12306b2"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1392358964), 
+    "target" : NumberLong(922450522954706944)
+}
+{ 
+    "_id" : ObjectId("5afe251f9954de0dd12306b5"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1665795008), 
+    "target" : NumberLong(842361999531089921)
+}
+{ 
+    "_id" : ObjectId("5afe251f9954de0dd12306b8"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1665795008), 
+    "target" : NumberLong(2415950753)
+}
+{ 
+    "_id" : ObjectId("5afe251f9954de0dd12306bb"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1665795008), 
+    "target" : NumberLong(2974586854)
+}
+{ 
+    "_id" : ObjectId("5afe251f9954de0dd12306be"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1665795008), 
+    "target" : NumberInt(1522992300)
+}
+{ 
+    "_id" : ObjectId("5afe251f9954de0dd12306c1"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1665795008), 
+    "target" : NumberInt(605958863)
+}
+{ 
+    "_id" : ObjectId("5afe251f9954de0dd12306c4"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1665795008), 
+    "target" : NumberLong(2749997175)
+}
+{ 
+    "_id" : ObjectId("5afe251f9954de0dd12306c7"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1665795008), 
+    "target" : NumberLong(2196353371)
+}
+{ 
+    "_id" : ObjectId("5afe25209954de0dd12306ca"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(909311288781754368), 
+    "target" : NumberLong(937598514690969600)
+}
+{ 
+    "_id" : ObjectId("5afe25209954de0dd12306cd"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(909311288781754368), 
+    "target" : NumberInt(1669650314)
+}
+{ 
+    "_id" : ObjectId("5afe25209954de0dd12306d0"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(909311288781754368), 
+    "target" : NumberInt(1531976718)
+}
+{ 
+    "_id" : ObjectId("5afe25209954de0dd12306d3"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(909311288781754368), 
+    "target" : NumberInt(1972762770)
+}
+{ 
+    "_id" : ObjectId("5afe25239954de0dd12306d6"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3059146444), 
+    "target" : NumberLong(885644511141130240)
+}
+{ 
+    "_id" : ObjectId("5afe25239954de0dd12306d9"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3059146444), 
+    "target" : NumberLong(848761799897997312)
+}
+{ 
+    "_id" : ObjectId("5afe25239954de0dd12306dc"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3059146444), 
+    "target" : NumberLong(764904641557651458)
+}
+{ 
+    "_id" : ObjectId("5afe25239954de0dd12306df"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3059146444), 
+    "target" : NumberLong(861348101705129987)
+}
+{ 
+    "_id" : ObjectId("5afe25239954de0dd12306e2"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3059146444), 
+    "target" : NumberLong(920017591623733249)
+}
+{ 
+    "_id" : ObjectId("5afe25239954de0dd12306e5"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3059146444), 
+    "target" : NumberLong(835618757338935296)
+}
+{ 
+    "_id" : ObjectId("5afe25239954de0dd12306e8"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3059146444), 
+    "target" : NumberLong(824003281794043904)
+}
+{ 
+    "_id" : ObjectId("5afe25239954de0dd12306eb"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3059146444), 
+    "target" : NumberLong(744941683020824577)
+}
+{ 
+    "_id" : ObjectId("5afe25239954de0dd12306ee"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3059146444), 
+    "target" : NumberLong(889891350904270849)
+}
+{ 
+    "_id" : ObjectId("5afe25239954de0dd12306f1"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3059146444), 
+    "target" : NumberLong(795233255255638016)
+}
+{ 
+    "_id" : ObjectId("5afe25239954de0dd12306f4"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3059146444), 
+    "target" : NumberLong(2494116204)
+}
+{ 
+    "_id" : ObjectId("5afe25239954de0dd12306f7"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3059146444), 
+    "target" : NumberLong(2216229389)
+}
+{ 
+    "_id" : ObjectId("5afe25239954de0dd12306fa"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3059146444), 
+    "target" : NumberInt(354187504)
+}
+{ 
+    "_id" : ObjectId("5afe25239954de0dd12306fd"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3059146444), 
+    "target" : NumberInt(1370442547)
+}
+{ 
+    "_id" : ObjectId("5afe25239954de0dd1230700"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3059146444), 
+    "target" : NumberInt(38640250)
+}
+{ 
+    "_id" : ObjectId("5afe25239954de0dd1230703"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3059146444), 
+    "target" : NumberLong(2439892575)
+}
+{ 
+    "_id" : ObjectId("5afe25239954de0dd1230706"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1456948238), 
+    "target" : NumberInt(36019296)
+}
+{ 
+    "_id" : ObjectId("5afe25239954de0dd1230709"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1456948238), 
+    "target" : NumberInt(1446969608)
+}
+{ 
+    "_id" : ObjectId("5afe25239954de0dd123070c"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1456948238), 
+    "target" : NumberInt(107399624)
+}
+{ 
+    "_id" : ObjectId("5afe25239954de0dd123070f"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1456948238), 
+    "target" : NumberInt(1007788814)
+}
+{ 
+    "_id" : ObjectId("5afe25239954de0dd1230712"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1456948238), 
+    "target" : NumberInt(84322864)
+}
+{ 
+    "_id" : ObjectId("5afe25239954de0dd1230715"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1456948238), 
+    "target" : NumberInt(106688470)
+}
+{ 
+    "_id" : ObjectId("5afe25249954de0dd1230718"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1625665615), 
+    "target" : NumberLong(731464857300705280)
+}
+{ 
+    "_id" : ObjectId("5afe25249954de0dd123071b"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1625665615), 
+    "target" : NumberLong(3063739924)
+}
+{ 
+    "_id" : ObjectId("5afe25259954de0dd123071e"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(99558801), 
+    "target" : NumberInt(592137003)
+}
+{ 
+    "_id" : ObjectId("5afe25259954de0dd1230721"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(99558801), 
+    "target" : NumberInt(163451589)
+}
+{ 
+    "_id" : ObjectId("5afe28a69954de0dd1230724"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(227660756), 
+    "target" : NumberInt(494389545)
+}
+{ 
+    "_id" : ObjectId("5afe28a69954de0dd1230727"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(227660756), 
+    "target" : NumberInt(188480467)
+}
+{ 
+    "_id" : ObjectId("5afe28a69954de0dd123072a"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(227660756), 
+    "target" : NumberInt(524901166)
+}
+{ 
+    "_id" : ObjectId("5afe28a79954de0dd123072d"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2423475092), 
+    "target" : NumberInt(1091956736)
+}
+{ 
+    "_id" : ObjectId("5afe28a79954de0dd1230730"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2423475092), 
+    "target" : NumberInt(1497525601)
+}
+{ 
+    "_id" : ObjectId("5afe28a79954de0dd1230733"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2423475092), 
+    "target" : NumberInt(147593445)
+}
+{ 
+    "_id" : ObjectId("5afe28a79954de0dd1230736"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2423475092), 
+    "target" : NumberInt(418208779)
+}
+{ 
+    "_id" : ObjectId("5afe28a79954de0dd1230739"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2423475092), 
+    "target" : NumberLong(3394234125)
+}
+{ 
+    "_id" : ObjectId("5afe28a79954de0dd123073c"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2423475092), 
+    "target" : NumberInt(275146612)
+}
+{ 
+    "_id" : ObjectId("5afe28a79954de0dd123073f"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2423475092), 
+    "target" : NumberInt(78098262)
+}
+{ 
+    "_id" : ObjectId("5afe28a79954de0dd1230742"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2423475092), 
+    "target" : NumberInt(73410558)
+}
+{ 
+    "_id" : ObjectId("5afe28a79954de0dd1230745"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2423475092), 
+    "target" : NumberInt(1471647902)
+}
+{ 
+    "_id" : ObjectId("5afe28a79954de0dd1230748"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2423475092), 
+    "target" : NumberInt(194596125)
+}
+{ 
+    "_id" : ObjectId("5afe28a79954de0dd123074b"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2423475092), 
+    "target" : NumberInt(260860062)
+}
+{ 
+    "_id" : ObjectId("5afe28a99954de0dd123074e"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(559856765), 
+    "target" : NumberLong(2519391017)
+}
+{ 
+    "_id" : ObjectId("5afe28aa9954de0dd1230751"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2353165908), 
+    "target" : NumberLong(971505555348090880)
+}
+{ 
+    "_id" : ObjectId("5afe28aa9954de0dd1230754"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2353165908), 
+    "target" : NumberLong(820845220090834945)
+}
+{ 
+    "_id" : ObjectId("5afe28aa9954de0dd1230757"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2353165908), 
+    "target" : NumberInt(180131554)
+}
+{ 
+    "_id" : ObjectId("5afe28aa9954de0dd123075a"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2353165908), 
+    "target" : NumberLong(976968146656645120)
+}
+{ 
+    "_id" : ObjectId("5afe28aa9954de0dd123075d"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2353165908), 
+    "target" : NumberLong(914514178538459136)
+}
+{ 
+    "_id" : ObjectId("5afe28aa9954de0dd1230760"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2353165908), 
+    "target" : NumberInt(56064154)
+}
+{ 
+    "_id" : ObjectId("5afe28aa9954de0dd1230763"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2353165908), 
+    "target" : NumberLong(2191354864)
+}
+{ 
+    "_id" : ObjectId("5afe28aa9954de0dd1230766"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2353165908), 
+    "target" : NumberInt(524621402)
+}
+{ 
+    "_id" : ObjectId("5afe28ab9954de0dd1230769"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(98862380), 
+    "target" : NumberLong(2510723487)
+}
+{ 
+    "_id" : ObjectId("5afe28ab9954de0dd123076c"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(32407246), 
+    "target" : NumberInt(236853604)
+}
+{ 
+    "_id" : ObjectId("5afe28ab9954de0dd123076f"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(32407246), 
+    "target" : NumberInt(307872722)
+}
+{ 
+    "_id" : ObjectId("5afe28ab9954de0dd1230772"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(32407246), 
+    "target" : NumberInt(839542482)
+}
+{ 
+    "_id" : ObjectId("5afe28ac9954de0dd1230775"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(32407246), 
+    "target" : NumberInt(1512359832)
+}
+{ 
+    "_id" : ObjectId("5afe28ac9954de0dd1230778"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(32407246), 
+    "target" : NumberInt(705075896)
+}
+{ 
+    "_id" : ObjectId("5afe28ac9954de0dd123077b"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(184776110), 
+    "target" : NumberLong(986624991293820928)
+}
+{ 
+    "_id" : ObjectId("5afe2c2c9954de0dd123077e"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(228161976), 
+    "target" : NumberInt(993664513)
+}
+{ 
+    "_id" : ObjectId("5afe2c2c9954de0dd1230781"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(228161976), 
+    "target" : NumberLong(906500313632440321)
+}
+{ 
+    "_id" : ObjectId("5afe2c2c9954de0dd1230784"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(228161976), 
+    "target" : NumberInt(820272739)
+}
+{ 
+    "_id" : ObjectId("5afe2c2c9954de0dd1230787"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(228161976), 
+    "target" : NumberLong(2979445444)
+}
+{ 
+    "_id" : ObjectId("5afe2c2c9954de0dd123078a"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(228161976), 
+    "target" : NumberLong(2328823909)
+}
+{ 
+    "_id" : ObjectId("5afe2c2c9954de0dd123078d"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(228161976), 
+    "target" : NumberInt(106443366)
+}
+{ 
+    "_id" : ObjectId("5afe2c2c9954de0dd1230790"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(228161976), 
+    "target" : NumberInt(105589101)
+}
+{ 
+    "_id" : ObjectId("5afe2c2c9954de0dd1230793"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(228161976), 
+    "target" : NumberInt(50555151)
+}
+{ 
+    "_id" : ObjectId("5afe2c2c9954de0dd1230796"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(228161976), 
+    "target" : NumberLong(2409698425)
+}
+{ 
+    "_id" : ObjectId("5afe2c2c9954de0dd1230799"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2267839723), 
+    "target" : NumberInt(860570090)
+}
+{ 
+    "_id" : ObjectId("5afe2c2d9954de0dd123079c"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2267839723), 
+    "target" : NumberLong(892069798770769923)
+}
+{ 
+    "_id" : ObjectId("5afe2c2d9954de0dd123079f"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2267839723), 
+    "target" : NumberLong(4211952118)
+}
+{ 
+    "_id" : ObjectId("5afe2c2e9954de0dd12307a2"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3335244815), 
+    "target" : NumberLong(962058714273296384)
+}
+{ 
+    "_id" : ObjectId("5afe2c2e9954de0dd12307a5"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3335244815), 
+    "target" : NumberInt(1446185731)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307a8"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberLong(984395658496036864)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307ab"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberLong(970176480650190849)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307ae"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberLong(716704629006999553)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307b1"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberLong(988110032066801665)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307b4"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberLong(902953074821607425)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307b7"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberLong(829491670848794627)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307ba"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberLong(871470490585624580)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307bd"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberLong(914219314429022210)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307c0"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberInt(1414940936)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307c3"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberLong(898947810950774784)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307c6"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberLong(909524457051578373)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307c9"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberInt(474901005)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307cc"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberInt(427573632)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307cf"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberInt(491679013)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307d2"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberInt(1477614008)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307d5"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberInt(597202619)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307d8"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberLong(2938453947)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307db"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberLong(2167209805)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307de"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberInt(943419343)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307e1"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberInt(57607896)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307e4"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberInt(53729496)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307e7"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberLong(3392373083)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307ea"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberInt(185342815)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307ed"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberInt(98905058)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307f0"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberLong(3648113892)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307f3"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberInt(73348971)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307f6"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberLong(4686465523)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307f9"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberInt(99736949)
+}
+{ 
+    "_id" : ObjectId("5afe2c2f9954de0dd12307fc"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(55016436), 
+    "target" : NumberInt(1522007544)
+}
+{ 
+    "_id" : ObjectId("5afe2c309954de0dd12307ff"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2256351865), 
+    "target" : NumberLong(2801655208)
+}
+{ 
+    "_id" : ObjectId("5afe2c309954de0dd1230802"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2256351865), 
+    "target" : NumberInt(1447399273)
+}
+{ 
+    "_id" : ObjectId("5afe2c309954de0dd1230805"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2256351865), 
+    "target" : NumberInt(168248018)
+}
+{ 
+    "_id" : ObjectId("5afe2c309954de0dd1230808"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2256351865), 
+    "target" : NumberInt(66381203)
+}
+{ 
+    "_id" : ObjectId("5afe2c319954de0dd123080b"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(340358699), 
+    "target" : NumberLong(925376533337985024)
+}
+{ 
+    "_id" : ObjectId("5afe2c319954de0dd123080e"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(340358699), 
+    "target" : NumberInt(187178106)
+}
+{ 
+    "_id" : ObjectId("5afe2c329954de0dd1230811"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2715966023), 
+    "target" : NumberLong(921796889426751488)
+}
+{ 
+    "_id" : ObjectId("5afe2c329954de0dd1230814"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2715966023), 
+    "target" : NumberLong(932629607001575425)
+}
+{ 
+    "_id" : ObjectId("5afe2c329954de0dd1230817"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2715966023), 
+    "target" : NumberLong(780521650852884480)
+}
+{ 
+    "_id" : ObjectId("5afe2c329954de0dd123081a"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2715966023), 
+    "target" : NumberInt(348995328)
+}
+{ 
+    "_id" : ObjectId("5afe2c329954de0dd123081d"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2715966023), 
+    "target" : NumberLong(886261391673393153)
+}
+{ 
+    "_id" : ObjectId("5afe2c339954de0dd1230820"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(802884632224079873), 
+    "target" : NumberLong(3403161539)
+}
+{ 
+    "_id" : ObjectId("5afe2c339954de0dd1230823"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(802884632224079873), 
+    "target" : NumberInt(212592358)
+}
+{ 
+    "_id" : ObjectId("5afe2fb49954de0dd1230826"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(805190927979581441), 
+    "target" : NumberInt(522152250)
+}
+{ 
+    "_id" : ObjectId("5afe2fb59954de0dd1230829"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(208414728), 
+    "target" : NumberLong(782612711779606528)
+}
+{ 
+    "_id" : ObjectId("5afe2fb59954de0dd123082c"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(208414728), 
+    "target" : NumberLong(793800116750708736)
+}
+{ 
+    "_id" : ObjectId("5afe2fb59954de0dd123082f"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(208414728), 
+    "target" : NumberLong(711880932186300416)
+}
+{ 
+    "_id" : ObjectId("5afe2fb59954de0dd1230832"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(208414728), 
+    "target" : NumberLong(972210122457079808)
+}
+{ 
+    "_id" : ObjectId("5afe2fb59954de0dd1230835"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(208414728), 
+    "target" : NumberInt(69648000)
+}
+{ 
+    "_id" : ObjectId("5afe2fb59954de0dd1230838"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(208414728), 
+    "target" : NumberLong(858366408778014725)
+}
+{ 
+    "_id" : ObjectId("5afe2fb59954de0dd123083b"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(208414728), 
+    "target" : NumberLong(2261823511)
+}
+{ 
+    "_id" : ObjectId("5afe2fb59954de0dd123083e"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(208414728), 
+    "target" : NumberInt(154828823)
+}
+{ 
+    "_id" : ObjectId("5afe2fb59954de0dd1230841"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(208414728), 
+    "target" : NumberInt(107981209)
+}
+{ 
+    "_id" : ObjectId("5afe2fb59954de0dd1230844"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(208414728), 
+    "target" : NumberInt(168190618)
+}
+{ 
+    "_id" : ObjectId("5afe2fb59954de0dd1230847"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(208414728), 
+    "target" : NumberLong(3923340315)
+}
+{ 
+    "_id" : ObjectId("5afe2fb59954de0dd123084a"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(208414728), 
+    "target" : NumberInt(18015772)
+}
+{ 
+    "_id" : ObjectId("5afe2fb59954de0dd123084d"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(208414728), 
+    "target" : NumberInt(480663971)
+}
+{ 
+    "_id" : ObjectId("5afe2fb59954de0dd1230850"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(208414728), 
+    "target" : NumberInt(22310705)
+}
+{ 
+    "_id" : ObjectId("5afe2fb59954de0dd1230853"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(208414728), 
+    "target" : NumberLong(2887892283)
+}
+{ 
+    "_id" : ObjectId("5afe2fb59954de0dd1230856"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(208414728), 
+    "target" : NumberLong(2455963081)
+}
+{ 
+    "_id" : ObjectId("5afe2fb59954de0dd1230859"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(208414728), 
+    "target" : NumberInt(226590026)
+}
+{ 
+    "_id" : ObjectId("5afe2fb59954de0dd123085c"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(208414728), 
+    "target" : NumberInt(58205418)
+}
+{ 
+    "_id" : ObjectId("5afe2fb59954de0dd123085f"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(208414728), 
+    "target" : NumberLong(2486146799)
+}
+{ 
+    "_id" : ObjectId("5afe2fb59954de0dd1230862"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(208414728), 
+    "target" : NumberInt(1308253814)
+}
+{ 
+    "_id" : ObjectId("5afe2fb59954de0dd1230865"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(208414728), 
+    "target" : NumberInt(269935991)
+}
+{ 
+    "_id" : ObjectId("5afe2fb59954de0dd1230868"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(208414728), 
+    "target" : NumberInt(220142842)
+}
+{ 
+    "_id" : ObjectId("5afe2fb69954de0dd123086b"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2949242889), 
+    "target" : NumberInt(19931236)
+}
+{ 
+    "_id" : ObjectId("5afe2fb79954de0dd123086e"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(109389840), 
+    "target" : NumberInt(1162948296)
+}
+{ 
+    "_id" : ObjectId("5afe2fb79954de0dd1230871"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(109389840), 
+    "target" : NumberInt(170996414)
+}
+{ 
+    "_id" : ObjectId("5afe2fb79954de0dd1230874"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(554284571), 
+    "target" : NumberInt(69895856)
+}
+{ 
+    "_id" : ObjectId("5afe2fba9954de0dd1230877"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(226583351), 
+    "target" : NumberInt(1520922085)
+}
+{ 
+    "_id" : ObjectId("5afe2fba9954de0dd123087a"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(226583351), 
+    "target" : NumberInt(58770992)
+}
+{ 
+    "_id" : ObjectId("5afe2fba9954de0dd123087d"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(226583351), 
+    "target" : NumberInt(456943568)
+}
+{ 
+    "_id" : ObjectId("5afe2fba9954de0dd1230880"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(226583351), 
+    "target" : NumberInt(96155835)
+}
+{ 
+    "_id" : ObjectId("5afe2fba9954de0dd1230883"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(226583351), 
+    "target" : NumberInt(104036094)
+}
+{ 
+    "_id" : ObjectId("5afe333a9954de0dd1230886"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(283310912), 
+    "target" : NumberInt(70015746)
+}
+{ 
+    "_id" : ObjectId("5afe333a9954de0dd1230889"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(283310912), 
+    "target" : NumberInt(36730205)
+}
+{ 
+    "_id" : ObjectId("5afe333b9954de0dd123088c"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(288567638), 
+    "target" : NumberInt(155700745)
+}
+{ 
+    "_id" : ObjectId("5afe333b9954de0dd123088f"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(288567638), 
+    "target" : NumberInt(392840659)
+}
+{ 
+    "_id" : ObjectId("5afe333c9954de0dd1230892"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(145201879), 
+    "target" : NumberLong(901020370391752704)
+}
+{ 
+    "_id" : ObjectId("5afe333c9954de0dd1230895"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(145201879), 
+    "target" : NumberLong(965622952111812608)
+}
+{ 
+    "_id" : ObjectId("5afe333c9954de0dd1230898"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(145201879), 
+    "target" : NumberLong(882518359417475073)
+}
+{ 
+    "_id" : ObjectId("5afe333c9954de0dd123089b"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(145201879), 
+    "target" : NumberLong(3337479843)
+}
+{ 
+    "_id" : ObjectId("5afe333c9954de0dd123089e"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(145201879), 
+    "target" : NumberLong(800373566772428800)
+}
+{ 
+    "_id" : ObjectId("5afe333c9954de0dd12308a1"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(145201879), 
+    "target" : NumberInt(72677322)
+}
+{ 
+    "_id" : ObjectId("5afe333c9954de0dd12308a4"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(145201879), 
+    "target" : NumberInt(439178863)
+}
+{ 
+    "_id" : ObjectId("5afe333c9954de0dd12308a7"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(145201879), 
+    "target" : NumberLong(4735431448)
+}
+{ 
+    "_id" : ObjectId("5afe333d9954de0dd12308aa"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1372942686), 
+    "target" : NumberLong(2875926089)
+}
+{ 
+    "_id" : ObjectId("5afe333f9954de0dd12308ad"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(67032556), 
+    "target" : NumberLong(872490134352035840)
+}
+{ 
+    "_id" : ObjectId("5afe333f9954de0dd12308b0"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(67032556), 
+    "target" : NumberLong(813833631097651200)
+}
+{ 
+    "_id" : ObjectId("5afe333f9954de0dd12308b3"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(67032556), 
+    "target" : NumberInt(149112612)
+}
+{ 
+    "_id" : ObjectId("5afe333f9954de0dd12308b6"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(67032556), 
+    "target" : NumberInt(294296230)
+}
+{ 
+    "_id" : ObjectId("5afe333f9954de0dd12308b9"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(67032556), 
+    "target" : NumberInt(123365288)
+}
+{ 
+    "_id" : ObjectId("5afe333f9954de0dd12308bc"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(67032556), 
+    "target" : NumberInt(147959561)
+}
+{ 
+    "_id" : ObjectId("5afe333f9954de0dd12308bf"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(67032556), 
+    "target" : NumberInt(1080501042)
+}
+{ 
+    "_id" : ObjectId("5afe333f9954de0dd12308c2"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(67032556), 
+    "target" : NumberInt(166984148)
+}
+{ 
+    "_id" : ObjectId("5afe333f9954de0dd12308c5"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(67032556), 
+    "target" : NumberLong(3356405879)
+}
+{ 
+    "_id" : ObjectId("5afe333f9954de0dd12308c8"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(67032556), 
+    "target" : NumberInt(526818488)
+}
+{ 
+    "_id" : ObjectId("5afe33409954de0dd12308cb"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(28875506), 
+    "target" : NumberLong(755500837657538560)
+}
+{ 
+    "_id" : ObjectId("5afe33409954de0dd12308ce"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(28875506), 
+    "target" : NumberLong(801598312193413121)
+}
+{ 
+    "_id" : ObjectId("5afe33409954de0dd12308d1"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(28875506), 
+    "target" : NumberLong(979686432288620544)
+}
+{ 
+    "_id" : ObjectId("5afe33409954de0dd12308d4"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(28875506), 
+    "target" : NumberInt(997894658)
+}
+{ 
+    "_id" : ObjectId("5afe33409954de0dd12308d7"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(28875506), 
+    "target" : NumberLong(4870875423)
+}
+{ 
+    "_id" : ObjectId("5afe33409954de0dd12308da"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(28875506), 
+    "target" : NumberLong(2927819278)
+}
+{ 
+    "_id" : ObjectId("5afe33409954de0dd12308dd"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(28875506), 
+    "target" : NumberInt(1675471921)
+}
+{ 
+    "_id" : ObjectId("5afe33409954de0dd12308e0"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(28875506), 
+    "target" : NumberInt(970812182)
+}
+{ 
+    "_id" : ObjectId("5afe33409954de0dd12308e3"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(28875506), 
+    "target" : NumberInt(115221495)
+}
+{ 
+    "_id" : ObjectId("5afe33409954de0dd12308e6"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(28875506), 
+    "target" : NumberLong(2317599350)
+}
+{ 
+    "_id" : ObjectId("5afe33409954de0dd12308e9"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(28875506), 
+    "target" : NumberInt(95677723)
+}
+{ 
+    "_id" : ObjectId("5afe33409954de0dd12308ec"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(28875506), 
+    "target" : NumberInt(248829087)
+}
+{ 
+    "_id" : ObjectId("5afe33409954de0dd12308ef"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(714176508), 
+    "target" : NumberInt(33880747)
+}
+{ 
+    "_id" : ObjectId("5afe33409954de0dd12308f2"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(714176508), 
+    "target" : NumberInt(349331724)
+}
+{ 
+    "_id" : ObjectId("5afe33409954de0dd12308f5"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(714176508), 
+    "target" : NumberInt(34696053)
+}
+{ 
+    "_id" : ObjectId("5afe33409954de0dd12308f8"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(714176508), 
+    "target" : NumberLong(2227018585)
+}
+{ 
+    "_id" : ObjectId("5afe33409954de0dd12308fb"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(714176508), 
+    "target" : NumberLong(3061907290)
+}
+{ 
+    "_id" : ObjectId("5afe33419954de0dd12308fe"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(862666204938461184), 
+    "target" : NumberInt(940745210)
+}
+{ 
+    "_id" : ObjectId("5afe36c39954de0dd1230901"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(729324817694908416), 
+    "target" : NumberLong(2203227302)
+}
+{ 
+    "_id" : ObjectId("5afe36c39954de0dd1230904"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(729324817694908416), 
+    "target" : NumberLong(2183739239)
+}
+{ 
+    "_id" : ObjectId("5afe36c39954de0dd1230907"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(729324817694908416), 
+    "target" : NumberLong(2197752104)
+}
+{ 
+    "_id" : ObjectId("5afe36c39954de0dd123090a"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(729324817694908416), 
+    "target" : NumberInt(1586562768)
+}
+{ 
+    "_id" : ObjectId("5afe36c39954de0dd123090d"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(729324817694908416), 
+    "target" : NumberInt(1618795032)
+}
+{ 
+    "_id" : ObjectId("5afe36c59954de0dd1230910"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(937512134816264193), 
+    "target" : NumberInt(574083768)
+}
+{ 
+    "_id" : ObjectId("5afe36c59954de0dd1230913"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(937512134816264193), 
+    "target" : NumberInt(92460378)
+}
+{ 
+    "_id" : ObjectId("5afe36c69954de0dd1230916"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(782607508833759233), 
+    "target" : NumberLong(2198257129)
+}
+{ 
+    "_id" : ObjectId("5afe3a499954de0dd1230919"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(987178636599021568), 
+    "target" : NumberLong(990214434579677185)
+}
+{ 
+    "_id" : ObjectId("5afe3dcf9954de0dd123091c"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(762487945840340993), 
+    "target" : NumberLong(843831241686368256)
+}
+{ 
+    "_id" : ObjectId("5afe3dcf9954de0dd123091f"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(762487945840340993), 
+    "target" : NumberInt(68696930)
+}
+{ 
+    "_id" : ObjectId("5afe3dcf9954de0dd1230922"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(762487945840340993), 
+    "target" : NumberInt(536421515)
+}
+{ 
+    "_id" : ObjectId("5afe3dcf9954de0dd1230925"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(762487945840340993), 
+    "target" : NumberInt(81087755)
+}
+{ 
+    "_id" : ObjectId("5afe3dcf9954de0dd1230928"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(762487945840340993), 
+    "target" : NumberInt(239348590)
+}
+{ 
+    "_id" : ObjectId("5afe3dcf9954de0dd123092b"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(762487945840340993), 
+    "target" : NumberLong(4831349583)
+}
+{ 
+    "_id" : ObjectId("5afe3dcf9954de0dd123092e"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(762487945840340993), 
+    "target" : NumberInt(64719889)
+}
+{ 
+    "_id" : ObjectId("5afe3dcf9954de0dd1230931"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(762487945840340993), 
+    "target" : NumberInt(485802298)
+}
+{ 
+    "_id" : ObjectId("5afe3dcf9954de0dd1230934"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(762487945840340993), 
+    "target" : NumberInt(117871227)
+}
+{ 
+    "_id" : ObjectId("5afe3dcf9954de0dd1230937"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(762487945840340993), 
+    "target" : NumberInt(255135548)
+}
+{ 
+    "_id" : ObjectId("5afe3dd09954de0dd123093a"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(512976776), 
+    "target" : NumberLong(2867482202)
+}
+{ 
+    "_id" : ObjectId("5afe3dd09954de0dd123093d"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(512976776), 
+    "target" : NumberInt(485868622)
+}
+{ 
+    "_id" : ObjectId("5afe3dd09954de0dd1230940"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(150983248), 
+    "target" : NumberLong(836309826087055361)
+}
+{ 
+    "_id" : ObjectId("5afe3dd19954de0dd1230943"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2434037905), 
+    "target" : NumberLong(898805048158937088)
+}
+{ 
+    "_id" : ObjectId("5afe3dd19954de0dd1230946"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2434037905), 
+    "target" : NumberInt(184117490)
+}
+{ 
+    "_id" : ObjectId("5afe3dd29954de0dd1230949"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(27074457), 
+    "target" : NumberInt(1500408194)
+}
+{ 
+    "_id" : ObjectId("5afe3dd49954de0dd123094c"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(711564081195515904), 
+    "target" : NumberLong(3372942761)
+}
+{ 
+    "_id" : ObjectId("5afe3dd49954de0dd123094f"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(711564081195515904), 
+    "target" : NumberInt(1077517826)
+}
+{ 
+    "_id" : ObjectId("5afe3dd49954de0dd1230952"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(711564081195515904), 
+    "target" : NumberInt(1477931916)
+}
+{ 
+    "_id" : ObjectId("5afe3dd69954de0dd1230955"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(597601286), 
+    "target" : NumberInt(1474839798)
+}
+{ 
+    "_id" : ObjectId("5afe41559954de0dd1230958"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(49805184), 
+    "target" : NumberLong(807292158633971712)
+}
+{ 
+    "_id" : ObjectId("5afe41559954de0dd123095b"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(49805184), 
+    "target" : NumberInt(576955738)
+}
+{ 
+    "_id" : ObjectId("5afe41559954de0dd123095e"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(49805184), 
+    "target" : NumberInt(228939539)
+}
+{ 
+    "_id" : ObjectId("5afe41559954de0dd1230961"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(49805184), 
+    "target" : NumberInt(419665502)
+}
+{ 
+    "_id" : ObjectId("5afe41569954de0dd1230964"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(758050998862708738), 
+    "target" : NumberInt(329613910)
+}
+{ 
+    "_id" : ObjectId("5afe41579954de0dd1230967"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3353527821), 
+    "target" : NumberInt(1571409984)
+}
+{ 
+    "_id" : ObjectId("5afe415b9954de0dd123096a"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(797637018), 
+    "target" : NumberInt(253196427)
+}
+{ 
+    "_id" : ObjectId("5afe415b9954de0dd123096d"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3007987757), 
+    "target" : NumberInt(430593505)
+}
+{ 
+    "_id" : ObjectId("5afe415c9954de0dd1230970"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(4338536501), 
+    "target" : NumberLong(869824715686281216)
+}
+{ 
+    "_id" : ObjectId("5afe415c9954de0dd1230973"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(4338536501), 
+    "target" : NumberInt(74973793)
+}
+{ 
+    "_id" : ObjectId("5afe415c9954de0dd1230976"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(4338536501), 
+    "target" : NumberInt(202704994)
+}
+{ 
+    "_id" : ObjectId("5afe415c9954de0dd1230979"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(4338536501), 
+    "target" : NumberLong(887006722140852226)
+}
+{ 
+    "_id" : ObjectId("5afe415c9954de0dd123097c"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(4338536501), 
+    "target" : NumberLong(913445093981507584)
+}
+{ 
+    "_id" : ObjectId("5afe415c9954de0dd123097f"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(4338536501), 
+    "target" : NumberInt(73962752)
+}
+{ 
+    "_id" : ObjectId("5afe415c9954de0dd1230982"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(4338536501), 
+    "target" : NumberInt(83556809)
+}
+{ 
+    "_id" : ObjectId("5afe415c9954de0dd1230985"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(4338536501), 
+    "target" : NumberInt(43831373)
+}
+{ 
+    "_id" : ObjectId("5afe415c9954de0dd1230988"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(4338536501), 
+    "target" : NumberLong(2299744687)
+}
+{ 
+    "_id" : ObjectId("5afe415c9954de0dd123098b"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(4338536501), 
+    "target" : NumberLong(4887630833)
+}
+{ 
+    "_id" : ObjectId("5afe415c9954de0dd123098e"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(4338536501), 
+    "target" : NumberInt(923478516)
+}
+{ 
+    "_id" : ObjectId("5afe415c9954de0dd1230991"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(4338536501), 
+    "target" : NumberInt(476201979)
+}
+{ 
+    "_id" : ObjectId("5afe415c9954de0dd1230994"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(4338536501), 
+    "target" : NumberInt(219265596)
+}
+{ 
+    "_id" : ObjectId("5afe415d9954de0dd1230997"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1584073525), 
+    "target" : NumberLong(876460446450167808)
+}
+{ 
+    "_id" : ObjectId("5afe415d9954de0dd123099a"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1584073525), 
+    "target" : NumberInt(268791722)
+}
+{ 
+    "_id" : ObjectId("5afe44df9954de0dd123099d"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(45086165), 
+    "target" : NumberLong(808401313126092800)
+}
+{ 
+    "_id" : ObjectId("5afe44df9954de0dd12309a0"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(45086165), 
+    "target" : NumberInt(77961249)
+}
+{ 
+    "_id" : ObjectId("5afe44df9954de0dd12309a3"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(45086165), 
+    "target" : NumberLong(993932251577675776)
+}
+{ 
+    "_id" : ObjectId("5afe44df9954de0dd12309a6"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(45086165), 
+    "target" : NumberInt(91580611)
+}
+{ 
+    "_id" : ObjectId("5afe44df9954de0dd12309a9"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(45086165), 
+    "target" : NumberLong(2270275143)
+}
+{ 
+    "_id" : ObjectId("5afe44df9954de0dd12309ac"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(45086165), 
+    "target" : NumberInt(777585553)
+}
+{ 
+    "_id" : ObjectId("5afe44df9954de0dd12309af"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(45086165), 
+    "target" : NumberLong(2330854545)
+}
+{ 
+    "_id" : ObjectId("5afe44df9954de0dd12309b2"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(45086165), 
+    "target" : NumberInt(560274065)
+}
+{ 
+    "_id" : ObjectId("5afe44df9954de0dd12309b5"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(45086165), 
+    "target" : NumberInt(147672567)
+}
+{ 
+    "_id" : ObjectId("5afe44df9954de0dd12309b8"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(45086165), 
+    "target" : NumberInt(910102908)
+}
+{ 
+    "_id" : ObjectId("5afe44e09954de0dd12309bb"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(594523480), 
+    "target" : NumberInt(25074288)
+}
+{ 
+    "_id" : ObjectId("5afe44e09954de0dd12309be"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(594523480), 
+    "target" : NumberLong(808444451446210560)
+}
+{ 
+    "_id" : ObjectId("5afe44e09954de0dd12309c1"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(594523480), 
+    "target" : NumberInt(84485138)
+}
+{ 
+    "_id" : ObjectId("5afe44e09954de0dd12309c4"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(594523480), 
+    "target" : NumberInt(87446008)
+}
+{ 
+    "_id" : ObjectId("5afe44e19954de0dd12309c7"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2854214872), 
+    "target" : NumberInt(500888289)
+}
+{ 
+    "_id" : ObjectId("5afe44e19954de0dd12309ca"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2854214872), 
+    "target" : NumberLong(4526940555)
+}
+{ 
+    "_id" : ObjectId("5afe44e19954de0dd12309cd"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2854214872), 
+    "target" : NumberInt(352988335)
+}
+{ 
+    "_id" : ObjectId("5afe44e19954de0dd12309d0"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2854214872), 
+    "target" : NumberInt(211485232)
+}
+{ 
+    "_id" : ObjectId("5afe44e19954de0dd12309d3"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2854214872), 
+    "target" : NumberInt(110400252)
+}
+{ 
+    "_id" : ObjectId("5afe44e19954de0dd12309d6"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2854214872), 
+    "target" : NumberInt(500602717)
+}
+{ 
+    "_id" : ObjectId("5afe44e19954de0dd12309d9"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2854214872), 
+    "target" : NumberInt(336742623)
+}
+{ 
+    "_id" : ObjectId("5afe44e19954de0dd12309dc"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(20066522), 
+    "target" : NumberInt(570188451)
+}
+{ 
+    "_id" : ObjectId("5afe44e29954de0dd12309df"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2582660835), 
+    "target" : NumberLong(975685091547545600)
+}
+{ 
+    "_id" : ObjectId("5afe44e29954de0dd12309e2"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2582660835), 
+    "target" : NumberLong(784666329181749248)
+}
+{ 
+    "_id" : ObjectId("5afe44e29954de0dd12309e5"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2582660835), 
+    "target" : NumberInt(402329068)
+}
+{ 
+    "_id" : ObjectId("5afe44e29954de0dd12309e8"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2582660835), 
+    "target" : NumberLong(2525995347)
+}
+{ 
+    "_id" : ObjectId("5afe44e29954de0dd12309eb"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2582660835), 
+    "target" : NumberInt(399636663)
+}
+{ 
+    "_id" : ObjectId("5afe44e39954de0dd12309ee"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1578321768), 
+    "target" : NumberInt(400141983)
+}
+{ 
+    "_id" : ObjectId("5afe44e39954de0dd12309f1"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1578321768), 
+    "target" : NumberInt(63640738)
+}
+{ 
+    "_id" : ObjectId("5afe44e39954de0dd12309f4"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1578321768), 
+    "target" : NumberLong(2924293808)
+}
+{ 
+    "_id" : ObjectId("5afe44e39954de0dd12309f7"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1578321768), 
+    "target" : NumberLong(3349924223)
+}
+{ 
+    "_id" : ObjectId("5afe48679954de0dd12309fa"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(260334532), 
+    "target" : NumberLong(874589636919783424)
+}
+{ 
+    "_id" : ObjectId("5afe48679954de0dd12309fd"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(260334532), 
+    "target" : NumberLong(3034816834)
+}
+{ 
+    "_id" : ObjectId("5afe48679954de0dd1230a00"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(260334532), 
+    "target" : NumberInt(99350919)
+}
+{ 
+    "_id" : ObjectId("5afe48679954de0dd1230a03"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(260334532), 
+    "target" : NumberInt(340966060)
+}
+{ 
+    "_id" : ObjectId("5afe48679954de0dd1230a06"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(260334532), 
+    "target" : NumberInt(1712315821)
+}
+{ 
+    "_id" : ObjectId("5afe48679954de0dd1230a09"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(260334532), 
+    "target" : NumberInt(15885016)
+}
+{ 
+    "_id" : ObjectId("5afe48679954de0dd1230a0c"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(260334532), 
+    "target" : NumberInt(503021916)
+}
+{ 
+    "_id" : ObjectId("5afe48689954de0dd1230a0f"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(162809736), 
+    "target" : NumberInt(149840533)
+}
+{ 
+    "_id" : ObjectId("5afe4beb9954de0dd1230a12"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(331844452), 
+    "target" : NumberInt(316094617)
+}
+{ 
+    "_id" : ObjectId("5afe4f749954de0dd1230a15"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(982453510829637632), 
+    "target" : NumberLong(994189989511655424)
+}
+{ 
+    "_id" : ObjectId("5afe4f769954de0dd1230a18"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2760584572), 
+    "target" : NumberLong(795914721492869121)
+}
+{ 
+    "_id" : ObjectId("5afe4f789954de0dd1230a1b"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(388184430), 
+    "target" : NumberInt(339290993)
+}
+{ 
+    "_id" : ObjectId("5afe4f789954de0dd1230a1e"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(388184430), 
+    "target" : NumberInt(948101226)
+}
+{ 
+    "_id" : ObjectId("5afe4f789954de0dd1230a21"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(961592124302086144), 
+    "target" : NumberLong(899622960272736256)
+}
+{ 
+    "_id" : ObjectId("5afe52fb9954de0dd1230a24"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(843547375281037318), 
+    "target" : NumberLong(953592201774354433)
+}
+{ 
+    "_id" : ObjectId("5afe52fd9954de0dd1230a27"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(920350650445303808), 
+    "target" : NumberLong(947923445710540801)
+}
+{ 
+    "_id" : ObjectId("5afe52fd9954de0dd1230a2a"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(920350650445303808), 
+    "target" : NumberLong(929062947703357443)
+}
+{ 
+    "_id" : ObjectId("5afe52fe9954de0dd1230a2d"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(1522967834), 
+    "target" : NumberInt(1575511422)
+}
+{ 
+    "_id" : ObjectId("5afe53009954de0dd1230a30"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(65209056), 
+    "target" : NumberInt(317026694)
+}
+{ 
+    "_id" : ObjectId("5afe567f9954de0dd1230a33"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(239412816), 
+    "target" : NumberLong(957536606013009920)
+}
+{ 
+    "_id" : ObjectId("5afe56809954de0dd1230a36"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(310456740), 
+    "target" : NumberInt(199191061)
+}
+{ 
+    "_id" : ObjectId("5afe56809954de0dd1230a39"), 
+    "hop" : "4_hop", 
+    "source" : NumberInt(201195941), 
+    "target" : NumberInt(122970005)
+}
+{ 
+    "_id" : ObjectId("5afe56829954de0dd1230a3c"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(186036216), 
+    "target" : NumberInt(917368333)
+}
+{ 
+    "_id" : ObjectId("5afe56869954de0dd1230a3f"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(969328769856167938), 
+    "target" : NumberInt(94102953)
+}
+{ 
+    "_id" : ObjectId("5afe5a079954de0dd1230a42"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(986619105783549963), 
+    "target" : NumberLong(4186482148)
+}
+{ 
+    "_id" : ObjectId("5afe5a089954de0dd1230a45"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(17758270), 
+    "target" : NumberInt(613420465)
+}
+{ 
+    "_id" : ObjectId("5afe5a0c9954de0dd1230a48"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(773043906), 
+    "target" : NumberInt(288164578)
+}
+{ 
+    "_id" : ObjectId("5afe5a0c9954de0dd1230a4b"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(773043906), 
+    "target" : NumberInt(1537264364)
+}
+{ 
+    "_id" : ObjectId("5afe5a0c9954de0dd1230a4e"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(773043906), 
+    "target" : NumberInt(550390397)
+}
+{ 
+    "_id" : ObjectId("5afe5a0c9954de0dd1230a51"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(773043906), 
+    "target" : NumberLong(2926599479)
+}
+{ 
+    "_id" : ObjectId("5afe5a0d9954de0dd1230a54"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(491626547), 
+    "target" : NumberInt(113045456)
+}
+{ 
+    "_id" : ObjectId("5afe61159954de0dd1230a57"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(979819622710104064), 
+    "target" : NumberInt(823974474)
+}
+{ 
+    "_id" : ObjectId("5afe61199954de0dd1230a5a"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(1497994718), 
+    "target" : NumberLong(2217370999)
+}
+{ 
+    "_id" : ObjectId("5afe611a9954de0dd1230a5d"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(147730252), 
+    "target" : NumberInt(22964801)
+}
+{ 
+    "_id" : ObjectId("5afe611b9954de0dd1230a60"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(381995285), 
+    "target" : NumberInt(499202740)
+}
+{ 
+    "_id" : ObjectId("5afe649d9954de0dd1230a63"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(959004258371883008), 
+    "target" : NumberInt(74897024)
+}
+{ 
+    "_id" : ObjectId("5afe649d9954de0dd1230a66"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(988690626324652034), 
+    "target" : NumberInt(85671994)
+}
+{ 
+    "_id" : ObjectId("5afe649e9954de0dd1230a69"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(220728454), 
+    "target" : NumberLong(4033096846)
+}
+{ 
+    "_id" : ObjectId("5afe649e9954de0dd1230a6c"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(220728454), 
+    "target" : NumberInt(214567126)
+}
+{ 
+    "_id" : ObjectId("5afe64a19954de0dd1230a6f"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(241561894), 
+    "target" : NumberLong(973261054699503617)
+}
+{ 
+    "_id" : ObjectId("5afe64a19954de0dd1230a72"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(241561894), 
+    "target" : NumberLong(903981237890674689)
+}
+{ 
+    "_id" : ObjectId("5afe64a29954de0dd1230a75"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(1044530574), 
+    "target" : NumberLong(2271298911)
+}
+{ 
+    "_id" : ObjectId("5afe68299954de0dd1230a78"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(20522439), 
+    "target" : NumberInt(318928224)
+}
+{ 
+    "_id" : ObjectId("5afe68299954de0dd1230a7b"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(20522439), 
+    "target" : NumberLong(817071317677641729)
+}
+{ 
+    "_id" : ObjectId("5afe68299954de0dd1230a7e"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(20522439), 
+    "target" : NumberLong(976827100924727298)
+}
+{ 
+    "_id" : ObjectId("5afe68299954de0dd1230a81"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(20522439), 
+    "target" : NumberLong(890666256386445312)
+}
+{ 
+    "_id" : ObjectId("5afe68299954de0dd1230a84"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(20522439), 
+    "target" : NumberLong(2958696839)
+}
+{ 
+    "_id" : ObjectId("5afe68299954de0dd1230a87"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(20522439), 
+    "target" : NumberLong(2582063083)
+}
+{ 
+    "_id" : ObjectId("5afe68299954de0dd1230a8a"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(20522439), 
+    "target" : NumberInt(341004303)
+}
+{ 
+    "_id" : ObjectId("5afe68299954de0dd1230a8d"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(20522439), 
+    "target" : NumberInt(980442900)
+}
+{ 
+    "_id" : ObjectId("5afe68299954de0dd1230a90"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(20522439), 
+    "target" : NumberInt(753290778)
+}
+{ 
+    "_id" : ObjectId("5afe68299954de0dd1230a93"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(312238279), 
+    "target" : NumberLong(825049809685975041)
+}
+{ 
+    "_id" : ObjectId("5afe68299954de0dd1230a96"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(312238279), 
+    "target" : NumberLong(2331492714)
+}
+{ 
+    "_id" : ObjectId("5afe68299954de0dd1230a99"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(312238279), 
+    "target" : NumberInt(48997494)
+}
+{ 
+    "_id" : ObjectId("5afe68299954de0dd1230a9c"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(312238279), 
+    "target" : NumberInt(86791031)
+}
+{ 
+    "_id" : ObjectId("5afe6baa9954de0dd1230a9f"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(67913619), 
+    "target" : NumberInt(117143193)
+}
+{ 
+    "_id" : ObjectId("5afe6bad9954de0dd1230aa2"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(380945274), 
+    "target" : NumberLong(887942974495240192)
+}
+{ 
+    "_id" : ObjectId("5afe6bad9954de0dd1230aa5"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(380945274), 
+    "target" : NumberLong(826735681586212864)
+}
+{ 
+    "_id" : ObjectId("5afe6bad9954de0dd1230aa8"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(380945274), 
+    "target" : NumberLong(754828648608329730)
+}
+{ 
+    "_id" : ObjectId("5afe6bad9954de0dd1230aab"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(380945274), 
+    "target" : NumberLong(858163481161355264)
+}
+{ 
+    "_id" : ObjectId("5afe6bae9954de0dd1230aae"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(380945274), 
+    "target" : NumberInt(273648929)
+}
+{ 
+    "_id" : ObjectId("5afe6bae9954de0dd1230ab1"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(380945274), 
+    "target" : NumberLong(782034364322291712)
+}
+{ 
+    "_id" : ObjectId("5afe6bae9954de0dd1230ab4"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(380945274), 
+    "target" : NumberLong(806885047735226368)
+}
+{ 
+    "_id" : ObjectId("5afe6bae9954de0dd1230ab7"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(380945274), 
+    "target" : NumberLong(805033477959745537)
+}
+{ 
+    "_id" : ObjectId("5afe6bae9954de0dd1230aba"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(380945274), 
+    "target" : NumberInt(944214344)
+}
+{ 
+    "_id" : ObjectId("5afe6bae9954de0dd1230abd"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(380945274), 
+    "target" : NumberInt(1413999270)
+}
+{ 
+    "_id" : ObjectId("5afe6bae9954de0dd1230ac0"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(380945274), 
+    "target" : NumberInt(42709431)
+}
+{ 
+    "_id" : ObjectId("5afe6bae9954de0dd1230ac3"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(380945274), 
+    "target" : NumberLong(2850575098)
+}
+{ 
+    "_id" : ObjectId("5afe6bae9954de0dd1230ac6"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(3217086237), 
+    "target" : NumberInt(1040676752)
+}
+{ 
+    "_id" : ObjectId("5afe6bae9954de0dd1230ac9"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(3217086237), 
+    "target" : NumberInt(48192634)
+}
+{ 
+    "_id" : ObjectId("5afe6baf9954de0dd1230acc"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(4267110532), 
+    "target" : NumberInt(242351018)
+}
+{ 
+    "_id" : ObjectId("5afe6baf9954de0dd1230acf"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(4267110532), 
+    "target" : NumberInt(515705722)
+}
+{ 
+    "_id" : ObjectId("5afe6baf9954de0dd1230ad2"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(4267110532), 
+    "target" : NumberInt(457864278)
+}
+{ 
+    "_id" : ObjectId("5afe6baf9954de0dd1230ad5"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(74982850), 
+    "target" : NumberInt(95762546)
+}
+{ 
+    "_id" : ObjectId("5afe6bb09954de0dd1230ad8"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(397308617), 
+    "target" : NumberInt(270527585)
+}
+{ 
+    "_id" : ObjectId("5afe6bb09954de0dd1230adb"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(397308617), 
+    "target" : NumberInt(93992712)
+}
+{ 
+    "_id" : ObjectId("5afe6bb09954de0dd1230ade"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(397308617), 
+    "target" : NumberInt(60918604)
+}
+{ 
+    "_id" : ObjectId("5afe6bb09954de0dd1230ae1"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(397308617), 
+    "target" : NumberInt(95167889)
+}
+{ 
+    "_id" : ObjectId("5afe6bb09954de0dd1230ae4"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(397308617), 
+    "target" : NumberInt(94756823)
+}
+{ 
+    "_id" : ObjectId("5afe6bb19954de0dd1230ae7"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(436052019), 
+    "target" : NumberInt(164996262)
+}
+{ 
+    "_id" : ObjectId("5afe6f339954de0dd1230aea"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(922450522954706944), 
+    "target" : NumberLong(725282734730522624)
+}
+{ 
+    "_id" : ObjectId("5afe6f339954de0dd1230aed"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(922450522954706944), 
+    "target" : NumberLong(885854558295121921)
+}
+{ 
+    "_id" : ObjectId("5afe6f339954de0dd1230af0"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(922450522954706944), 
+    "target" : NumberLong(2427132546)
+}
+{ 
+    "_id" : ObjectId("5afe6f339954de0dd1230af3"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(922450522954706944), 
+    "target" : NumberLong(971752798579806212)
+}
+{ 
+    "_id" : ObjectId("5afe6f339954de0dd1230af6"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(922450522954706944), 
+    "target" : NumberInt(451451206)
+}
+{ 
+    "_id" : ObjectId("5afe6f339954de0dd1230af9"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(922450522954706944), 
+    "target" : NumberLong(4150811399)
+}
+{ 
+    "_id" : ObjectId("5afe6f339954de0dd1230afc"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(922450522954706944), 
+    "target" : NumberInt(92374667)
+}
+{ 
+    "_id" : ObjectId("5afe6f339954de0dd1230aff"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(922450522954706944), 
+    "target" : NumberLong(3720159856)
+}
+{ 
+    "_id" : ObjectId("5afe6f339954de0dd1230b02"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(922450522954706944), 
+    "target" : NumberInt(154465172)
+}
+{ 
+    "_id" : ObjectId("5afe6f339954de0dd1230b05"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(922450522954706944), 
+    "target" : NumberInt(326090869)
+}
+{ 
+    "_id" : ObjectId("5afe6f339954de0dd1230b08"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(922450522954706944), 
+    "target" : NumberInt(117093174)
+}
+{ 
+    "_id" : ObjectId("5afe6f339954de0dd1230b0b"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(922450522954706944), 
+    "target" : NumberInt(637147670)
+}
+{ 
+    "_id" : ObjectId("5afe6f379954de0dd1230b0e"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(1669650314), 
+    "target" : NumberInt(357582175)
+}
+{ 
+    "_id" : ObjectId("5afe72bb9954de0dd1230b11"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(835618757338935296), 
+    "target" : NumberLong(868582407322185730)
+}
+{ 
+    "_id" : ObjectId("5afe72bc9954de0dd1230b14"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(744941683020824577), 
+    "target" : NumberLong(762651130824368128)
+}
+{ 
+    "_id" : ObjectId("5afe76409954de0dd1230b17"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(36019296), 
+    "target" : NumberLong(712623687862603776)
+}
+{ 
+    "_id" : ObjectId("5afe76409954de0dd1230b1a"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(36019296), 
+    "target" : NumberLong(2830251489)
+}
+{ 
+    "_id" : ObjectId("5afe76409954de0dd1230b1d"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(36019296), 
+    "target" : NumberInt(55816070)
+}
+{ 
+    "_id" : ObjectId("5afe76409954de0dd1230b20"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(36019296), 
+    "target" : NumberInt(760253130)
+}
+{ 
+    "_id" : ObjectId("5afe76409954de0dd1230b23"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(36019296), 
+    "target" : NumberLong(2762074733)
+}
+{ 
+    "_id" : ObjectId("5afe76409954de0dd1230b26"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(36019296), 
+    "target" : NumberInt(1471733263)
+}
+{ 
+    "_id" : ObjectId("5afe76409954de0dd1230b29"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(36019296), 
+    "target" : NumberInt(77714289)
+}
+{ 
+    "_id" : ObjectId("5afe76409954de0dd1230b2c"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(36019296), 
+    "target" : NumberInt(1483778329)
+}
+{ 
+    "_id" : ObjectId("5afe76409954de0dd1230b2f"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(36019296), 
+    "target" : NumberInt(120083642)
+}
+{ 
+    "_id" : ObjectId("5afe76429954de0dd1230b32"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(107399624), 
+    "target" : NumberLong(802610032550563840)
+}
+{ 
+    "_id" : ObjectId("5afe76429954de0dd1230b35"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(107399624), 
+    "target" : NumberLong(714494874226192385)
+}
+{ 
+    "_id" : ObjectId("5afe76429954de0dd1230b38"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(107399624), 
+    "target" : NumberLong(750965202162683904)
+}
+{ 
+    "_id" : ObjectId("5afe76429954de0dd1230b3b"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(107399624), 
+    "target" : NumberInt(1897573225)
+}
+{ 
+    "_id" : ObjectId("5afe76429954de0dd1230b3e"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(107399624), 
+    "target" : NumberInt(304282709)
+}
+{ 
+    "_id" : ObjectId("5afe76429954de0dd1230b41"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(107399624), 
+    "target" : NumberInt(27581526)
+}
+{ 
+    "_id" : ObjectId("5afe76429954de0dd1230b44"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(1007788814), 
+    "target" : NumberInt(339199252)
+}
+{ 
+    "_id" : ObjectId("5afe76449954de0dd1230b47"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(106688470), 
+    "target" : NumberLong(897600482792943616)
+}
+{ 
+    "_id" : ObjectId("5afe76449954de0dd1230b4a"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(106688470), 
+    "target" : NumberLong(861211015597498368)
+}
+{ 
+    "_id" : ObjectId("5afe76449954de0dd1230b4d"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(106688470), 
+    "target" : NumberLong(789544952099401728)
+}
+{ 
+    "_id" : ObjectId("5afe76449954de0dd1230b50"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(106688470), 
+    "target" : NumberLong(900853691766509571)
+}
+{ 
+    "_id" : ObjectId("5afe76449954de0dd1230b53"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(106688470), 
+    "target" : NumberInt(435969606)
+}
+{ 
+    "_id" : ObjectId("5afe76449954de0dd1230b56"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(106688470), 
+    "target" : NumberInt(1964486281)
+}
+{ 
+    "_id" : ObjectId("5afe76449954de0dd1230b59"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(106688470), 
+    "target" : NumberInt(239003498)
+}
+{ 
+    "_id" : ObjectId("5afe76449954de0dd1230b5c"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(106688470), 
+    "target" : NumberInt(259339769)
+}
+{ 
+    "_id" : ObjectId("5afe76449954de0dd1230b5f"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(106688470), 
+    "target" : NumberInt(337722651)
+}
+{ 
+    "_id" : ObjectId("5afe76449954de0dd1230b62"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(106688470), 
+    "target" : NumberInt(374443676)
+}
+{ 
+    "_id" : ObjectId("5afe76449954de0dd1230b65"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(106688470), 
+    "target" : NumberInt(333608127)
+}
+{ 
+    "_id" : ObjectId("5afe76459954de0dd1230b68"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(731464857300705280), 
+    "target" : NumberLong(787205884028055552)
+}
+{ 
+    "_id" : ObjectId("5afe79c59954de0dd1230b6b"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(494389545), 
+    "target" : NumberLong(883286395938373632)
+}
+{ 
+    "_id" : ObjectId("5afe79c59954de0dd1230b6e"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(494389545), 
+    "target" : NumberInt(439316729)
+}
+{ 
+    "_id" : ObjectId("5afe79c89954de0dd1230b71"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(418208779), 
+    "target" : NumberInt(303638118)
+}
+{ 
+    "_id" : ObjectId("5afe79cc9954de0dd1230b74"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(260860062), 
+    "target" : NumberInt(95481116)
+}
+{ 
+    "_id" : ObjectId("5afe7d4d9954de0dd1230b77"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(180131554), 
+    "target" : NumberLong(2223500214)
+}
+{ 
+    "_id" : ObjectId("5afe7d4e9954de0dd1230b7a"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(914514178538459136), 
+    "target" : NumberLong(879034153156608000)
+}
+{ 
+    "_id" : ObjectId("5afe7d4e9954de0dd1230b7d"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(914514178538459136), 
+    "target" : NumberLong(979936420327432193)
+}
+{ 
+    "_id" : ObjectId("5afe7d4e9954de0dd1230b80"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(914514178538459136), 
+    "target" : NumberLong(773764794671333377)
+}
+{ 
+    "_id" : ObjectId("5afe7d509954de0dd1230b83"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(524621402), 
+    "target" : NumberInt(964045500)
+}
+{ 
+    "_id" : ObjectId("5afe7d519954de0dd1230b86"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(307872722), 
+    "target" : NumberInt(116695482)
+}
+{ 
+    "_id" : ObjectId("5afe80d59954de0dd1230b89"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(2979445444), 
+    "target" : NumberInt(499184778)
+}
+{ 
+    "_id" : ObjectId("5afe845e9954de0dd1230b8c"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(898947810950774784), 
+    "target" : NumberInt(541977465)
+}
+{ 
+    "_id" : ObjectId("5afe845f9954de0dd1230b8f"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(427573632), 
+    "target" : NumberLong(934424149312851968)
+}
+{ 
+    "_id" : ObjectId("5afe845f9954de0dd1230b92"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(427573632), 
+    "target" : NumberLong(3022196213)
+}
+{ 
+    "_id" : ObjectId("5afe845f9954de0dd1230b95"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(427573632), 
+    "target" : NumberLong(814919078884286470)
+}
+{ 
+    "_id" : ObjectId("5afe84609954de0dd1230b98"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(491679013), 
+    "target" : NumberInt(239152505)
+}
+{ 
+    "_id" : ObjectId("5afe84609954de0dd1230b9b"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(491679013), 
+    "target" : NumberLong(2402539845)
+}
+{ 
+    "_id" : ObjectId("5afe87e69954de0dd1230b9e"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(99736949), 
+    "target" : NumberInt(244062615)
+}
+{ 
+    "_id" : ObjectId("5afe8b699954de0dd1230ba1"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(66381203), 
+    "target" : NumberInt(1533812347)
+}
+{ 
+    "_id" : ObjectId("5afe8b699954de0dd1230ba4"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(66381203), 
+    "target" : NumberInt(61154212)
+}
+{ 
+    "_id" : ObjectId("5afe8b699954de0dd1230ba7"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(66381203), 
+    "target" : NumberInt(155576605)
+}
+{ 
+    "_id" : ObjectId("5afe8b6e9954de0dd1230baa"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(522152250), 
+    "target" : NumberInt(72052281)
+}
+{ 
+    "_id" : ObjectId("5afe8b6f9954de0dd1230bad"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(711880932186300416), 
+    "target" : NumberInt(331620553)
+}
+{ 
+    "_id" : ObjectId("5afe8ef29954de0dd1230bb0"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(107981209), 
+    "target" : NumberInt(14671776)
+}
+{ 
+    "_id" : ObjectId("5afe8ef29954de0dd1230bb3"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(107981209), 
+    "target" : NumberInt(79369375)
+}
+{ 
+    "_id" : ObjectId("5afe8ef29954de0dd1230bb6"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(107981209), 
+    "target" : NumberInt(633201313)
+}
+{ 
+    "_id" : ObjectId("5afe8ef29954de0dd1230bb9"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(107981209), 
+    "target" : NumberLong(896618808244350980)
+}
+{ 
+    "_id" : ObjectId("5afe8ef29954de0dd1230bbc"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(107981209), 
+    "target" : NumberInt(72119497)
+}
+{ 
+    "_id" : ObjectId("5afe8ef29954de0dd1230bbf"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(107981209), 
+    "target" : NumberInt(65426160)
+}
+{ 
+    "_id" : ObjectId("5afe8ef29954de0dd1230bc2"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(107981209), 
+    "target" : NumberInt(257889151)
+}
+{ 
+    "_id" : ObjectId("5afe8ef29954de0dd1230bc5"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(107981209), 
+    "target" : NumberInt(829502456)
+}
+{ 
+    "_id" : ObjectId("5afe8ef29954de0dd1230bc8"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(107981209), 
+    "target" : NumberLong(2606062975)
+}
+{ 
+    "_id" : ObjectId("5afe8ef79954de0dd1230bcb"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(226590026), 
+    "target" : NumberInt(124098803)
+}
+{ 
+    "_id" : ObjectId("5afe8ef79954de0dd1230bce"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(226590026), 
+    "target" : NumberInt(262275363)
+}
+{ 
+    "_id" : ObjectId("5afe8ef79954de0dd1230bd1"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(226590026), 
+    "target" : NumberInt(853253166)
+}
+{ 
+    "_id" : ObjectId("5afe8ef79954de0dd1230bd4"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(226590026), 
+    "target" : NumberInt(250302639)
+}
+{ 
+    "_id" : ObjectId("5afe92789954de0dd1230bd7"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(2486146799), 
+    "target" : NumberInt(232180092)
+}
+{ 
+    "_id" : ObjectId("5afe92799954de0dd1230bda"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(1308253814), 
+    "target" : NumberInt(531581305)
+}
+{ 
+    "_id" : ObjectId("5afe92799954de0dd1230bdd"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(1308253814), 
+    "target" : NumberInt(21153102)
+}
+{ 
+    "_id" : ObjectId("5afe927a9954de0dd1230be0"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(19931236), 
+    "target" : NumberInt(79516362)
+}
+{ 
+    "_id" : ObjectId("5afe927a9954de0dd1230be3"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(19931236), 
+    "target" : NumberInt(66483793)
+}
+{ 
+    "_id" : ObjectId("5afe927a9954de0dd1230be6"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(19931236), 
+    "target" : NumberInt(1110637874)
+}
+{ 
+    "_id" : ObjectId("5afe927a9954de0dd1230be9"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(19931236), 
+    "target" : NumberInt(1000164918)
+}
+{ 
+    "_id" : ObjectId("5afe927a9954de0dd1230bec"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(19931236), 
+    "target" : NumberInt(215308186)
+}
+{ 
+    "_id" : ObjectId("5afe927d9954de0dd1230bef"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(69895856), 
+    "target" : NumberLong(3988750558)
+}
+{ 
+    "_id" : ObjectId("5afe927d9954de0dd1230bf2"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(69895856), 
+    "target" : NumberInt(223651606)
+}
+{ 
+    "_id" : ObjectId("5afe927d9954de0dd1230bf5"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(69895856), 
+    "target" : NumberInt(887341423)
+}
+{ 
+    "_id" : ObjectId("5afe927e9954de0dd1230bf8"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(456943568), 
+    "target" : NumberInt(161399963)
+}
+{ 
+    "_id" : ObjectId("5afe95ff9954de0dd1230bfb"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(104036094), 
+    "target" : NumberLong(755810513796358144)
+}
+{ 
+    "_id" : ObjectId("5afe95ff9954de0dd1230bfe"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(104036094), 
+    "target" : NumberInt(303462241)
+}
+{ 
+    "_id" : ObjectId("5afe95ff9954de0dd1230c01"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(104036094), 
+    "target" : NumberInt(190960386)
+}
+{ 
+    "_id" : ObjectId("5afe95ff9954de0dd1230c04"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(104036094), 
+    "target" : NumberInt(9858892)
+}
+{ 
+    "_id" : ObjectId("5afe95ff9954de0dd1230c07"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(104036094), 
+    "target" : NumberInt(1073430925)
+}
+{ 
+    "_id" : ObjectId("5afe95ff9954de0dd1230c0a"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(104036094), 
+    "target" : NumberInt(48387440)
+}
+{ 
+    "_id" : ObjectId("5afe95ff9954de0dd1230c0d"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(104036094), 
+    "target" : NumberInt(1430514962)
+}
+{ 
+    "_id" : ObjectId("5afe95ff9954de0dd1230c10"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(104036094), 
+    "target" : NumberInt(141685810)
+}
+{ 
+    "_id" : ObjectId("5afe95ff9954de0dd1230c13"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(104036094), 
+    "target" : NumberInt(213315668)
+}
+{ 
+    "_id" : ObjectId("5afe95ff9954de0dd1230c16"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(104036094), 
+    "target" : NumberLong(3059500468)
+}
+{ 
+    "_id" : ObjectId("5afe95ff9954de0dd1230c19"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(104036094), 
+    "target" : NumberInt(430415545)
+}
+{ 
+    "_id" : ObjectId("5afe96009954de0dd1230c1c"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(70015746), 
+    "target" : NumberInt(210198770)
+}
+{ 
+    "_id" : ObjectId("5afe96019954de0dd1230c1f"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(155700745), 
+    "target" : NumberLong(2609265156)
+}
+{ 
+    "_id" : ObjectId("5afe96029954de0dd1230c22"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(901020370391752704), 
+    "target" : NumberLong(3302369349)
+}
+{ 
+    "_id" : ObjectId("5afe96039954de0dd1230c25"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(3337479843), 
+    "target" : NumberInt(70064961)
+}
+{ 
+    "_id" : ObjectId("5afe96069954de0dd1230c28"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(2875926089), 
+    "target" : NumberLong(2822003252)
+}
+{ 
+    "_id" : ObjectId("5afe99869954de0dd1230c2b"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(813833631097651200), 
+    "target" : NumberLong(838141583480455168)
+}
+{ 
+    "_id" : ObjectId("5afe99869954de0dd1230c2e"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(813833631097651200), 
+    "target" : NumberLong(808383299580231680)
+}
+{ 
+    "_id" : ObjectId("5afe99869954de0dd1230c31"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(813833631097651200), 
+    "target" : NumberLong(987804767941484544)
+}
+{ 
+    "_id" : ObjectId("5afe99869954de0dd1230c34"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(813833631097651200), 
+    "target" : NumberLong(2171048323)
+}
+{ 
+    "_id" : ObjectId("5afe99869954de0dd1230c37"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(813833631097651200), 
+    "target" : NumberLong(859781984087928833)
+}
+{ 
+    "_id" : ObjectId("5afe99869954de0dd1230c3a"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(813833631097651200), 
+    "target" : NumberInt(186215206)
+}
+{ 
+    "_id" : ObjectId("5afe99869954de0dd1230c3d"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(813833631097651200), 
+    "target" : NumberInt(91628137)
+}
+{ 
+    "_id" : ObjectId("5afe99869954de0dd1230c40"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(813833631097651200), 
+    "target" : NumberLong(2167036430)
+}
+{ 
+    "_id" : ObjectId("5afe99889954de0dd1230c43"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(123365288), 
+    "target" : NumberLong(759199659944468480)
+}
+{ 
+    "_id" : ObjectId("5afe99899954de0dd1230c46"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(147959561), 
+    "target" : NumberLong(936922052023402497)
+}
+{ 
+    "_id" : ObjectId("5afe998b9954de0dd1230c49"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(3356405879), 
+    "target" : NumberLong(952252287879204864)
+}
+{ 
+    "_id" : ObjectId("5afe998b9954de0dd1230c4c"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(3356405879), 
+    "target" : NumberInt(435358693)
+}
+{ 
+    "_id" : ObjectId("5afe998b9954de0dd1230c4f"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(3356405879), 
+    "target" : NumberInt(426528560)
+}
+{ 
+    "_id" : ObjectId("5afe998b9954de0dd1230c52"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(3356405879), 
+    "target" : NumberInt(100014459)
+}
+{ 
+    "_id" : ObjectId("5afe998b9954de0dd1230c55"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(3356405879), 
+    "target" : NumberInt(206861846)
+}
+{ 
+    "_id" : ObjectId("5afe998b9954de0dd1230c58"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(3356405879), 
+    "target" : NumberInt(60017051)
+}
+{ 
+    "_id" : ObjectId("5afe9d0f9954de0dd1230c5b"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(2927819278), 
+    "target" : NumberLong(805103819365433344)
+}
+{ 
+    "_id" : ObjectId("5afe9d0f9954de0dd1230c5e"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(2927819278), 
+    "target" : NumberLong(966287638754766848)
+}
+{ 
+    "_id" : ObjectId("5afe9d0f9954de0dd1230c61"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(2927819278), 
+    "target" : NumberLong(791114451508400128)
+}
+{ 
+    "_id" : ObjectId("5afe9d0f9954de0dd1230c64"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(2927819278), 
+    "target" : NumberLong(984513560737959937)
+}
+{ 
+    "_id" : ObjectId("5afe9d0f9954de0dd1230c67"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(2927819278), 
+    "target" : NumberLong(2189842912)
+}
+{ 
+    "_id" : ObjectId("5afe9d0f9954de0dd1230c6a"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(2927819278), 
+    "target" : NumberLong(993597717753548801)
+}
+{ 
+    "_id" : ObjectId("5afe9d0f9954de0dd1230c6d"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(2927819278), 
+    "target" : NumberLong(953963968690876416)
+}
+{ 
+    "_id" : ObjectId("5afe9d0f9954de0dd1230c70"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(2927819278), 
+    "target" : NumberLong(966396225963548672)
+}
+{ 
+    "_id" : ObjectId("5afe9d0f9954de0dd1230c73"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(2927819278), 
+    "target" : NumberLong(966402898702880768)
+}
+{ 
+    "_id" : ObjectId("5afe9d0f9954de0dd1230c76"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(2927819278), 
+    "target" : NumberLong(974335803848568833)
+}
+{ 
+    "_id" : ObjectId("5afe9d0f9954de0dd1230c79"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(2927819278), 
+    "target" : NumberInt(485557555)
+}
+{ 
+    "_id" : ObjectId("5afe9d109954de0dd1230c7c"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(1675471921), 
+    "target" : NumberLong(842342062900969472)
+}
+{ 
+    "_id" : ObjectId("5afe9d109954de0dd1230c7f"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(1675471921), 
+    "target" : NumberLong(950249475540488192)
+}
+{ 
+    "_id" : ObjectId("5afe9d109954de0dd1230c82"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(1675471921), 
+    "target" : NumberLong(982607986811121664)
+}
+{ 
+    "_id" : ObjectId("5afe9d109954de0dd1230c85"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(1675471921), 
+    "target" : NumberLong(963780050008072193)
+}
+{ 
+    "_id" : ObjectId("5afe9d109954de0dd1230c88"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(1675471921), 
+    "target" : NumberLong(935811411883720704)
+}
+{ 
+    "_id" : ObjectId("5afe9d109954de0dd1230c8b"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(1675471921), 
+    "target" : NumberLong(4742020881)
+}
+{ 
+    "_id" : ObjectId("5afe9d129954de0dd1230c8e"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(2317599350), 
+    "target" : NumberLong(957281939148308481)
+}
+{ 
+    "_id" : ObjectId("5afe9d129954de0dd1230c91"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(2317599350), 
+    "target" : NumberInt(1304147659)
+}
+{ 
+    "_id" : ObjectId("5afe9d129954de0dd1230c94"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(2317599350), 
+    "target" : NumberLong(2250838736)
+}
+{ 
+    "_id" : ObjectId("5afe9d129954de0dd1230c97"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(2317599350), 
+    "target" : NumberInt(993528403)
+}
+{ 
+    "_id" : ObjectId("5afe9d129954de0dd1230c9a"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(2317599350), 
+    "target" : NumberLong(2378832727)
+}
+{ 
+    "_id" : ObjectId("5afe9d129954de0dd1230c9d"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(2317599350), 
+    "target" : NumberInt(1362153499)
+}
+{ 
+    "_id" : ObjectId("5afe9d129954de0dd1230ca0"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(2317599350), 
+    "target" : NumberInt(722637757)
+}
+{ 
+    "_id" : ObjectId("5afe9d129954de0dd1230ca3"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(95677723), 
+    "target" : NumberInt(63126265)
+}
+{ 
+    "_id" : ObjectId("5afe9d139954de0dd1230ca6"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(248829087), 
+    "target" : NumberLong(980757546490200064)
+}
+{ 
+    "_id" : ObjectId("5afe9d139954de0dd1230ca9"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(248829087), 
+    "target" : NumberLong(917048331821608960)
+}
+{ 
+    "_id" : ObjectId("5afe9d149954de0dd1230cac"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(248829087), 
+    "target" : NumberLong(926119282995494912)
+}
+{ 
+    "_id" : ObjectId("5afe9d149954de0dd1230caf"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(248829087), 
+    "target" : NumberLong(993003651496103937)
+}
+{ 
+    "_id" : ObjectId("5afe9d149954de0dd1230cb2"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(248829087), 
+    "target" : NumberLong(975421785587019781)
+}
+{ 
+    "_id" : ObjectId("5afe9d149954de0dd1230cb5"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(248829087), 
+    "target" : NumberLong(986656653083848712)
+}
+{ 
+    "_id" : ObjectId("5afe9d149954de0dd1230cb8"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(248829087), 
+    "target" : NumberLong(2798447786)
+}
+{ 
+    "_id" : ObjectId("5afe9d149954de0dd1230cbb"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(248829087), 
+    "target" : NumberLong(2218373995)
+}
+{ 
+    "_id" : ObjectId("5afea0989954de0dd1230cbe"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(1618795032), 
+    "target" : NumberLong(2249391032)
+}
+{ 
+    "_id" : ObjectId("5afea0999954de0dd1230cc1"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(92460378), 
+    "target" : NumberLong(959457172886380544)
+}
+{ 
+    "_id" : ObjectId("5afea0999954de0dd1230cc4"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(92460378), 
+    "target" : NumberLong(968590818641694721)
+}
+{ 
+    "_id" : ObjectId("5afea0999954de0dd1230cc7"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(92460378), 
+    "target" : NumberLong(963530733951254528)
+}
+{ 
+    "_id" : ObjectId("5afea0999954de0dd1230cca"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(92460378), 
+    "target" : NumberLong(2367911942)
+}
+{ 
+    "_id" : ObjectId("5afea0999954de0dd1230ccd"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(92460378), 
+    "target" : NumberLong(3140254834)
+}
+{ 
+    "_id" : ObjectId("5afea0999954de0dd1230cd0"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(92460378), 
+    "target" : NumberInt(1888195038)
+}
+{ 
+    "_id" : ObjectId("5afea09a9954de0dd1230cd3"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(2198257129), 
+    "target" : NumberInt(620445543)
+}
+{ 
+    "_id" : ObjectId("5afea41c9954de0dd1230cd6"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(239348590), 
+    "target" : NumberInt(206169646)
+}
+{ 
+    "_id" : ObjectId("5afea41e9954de0dd1230cd9"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(117871227), 
+    "target" : NumberInt(56312243)
+}
+{ 
+    "_id" : ObjectId("5afea41f9954de0dd1230cdc"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(2867482202), 
+    "target" : NumberInt(624055777)
+}
+{ 
+    "_id" : ObjectId("5afea4239954de0dd1230cdf"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(3372942761), 
+    "target" : NumberLong(760188507780448256)
+}
+{ 
+    "_id" : ObjectId("5afea7a49954de0dd1230ce2"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(576955738), 
+    "target" : NumberInt(1066153483)
+}
+{ 
+    "_id" : ObjectId("5afeab2b9954de0dd1230ce5"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(2299744687), 
+    "target" : NumberLong(898981205508583424)
+}
+{ 
+    "_id" : ObjectId("5afeaeb09954de0dd1230ce8"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(91580611), 
+    "target" : NumberInt(71850583)
+}
+{ 
+    "_id" : ObjectId("5afeaeb09954de0dd1230ceb"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(91580611), 
+    "target" : NumberLong(3889485143)
+}
+{ 
+    "_id" : ObjectId("5afeaeb69954de0dd1230cee"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(87446008), 
+    "target" : NumberLong(906883065842204672)
+}
+{ 
+    "_id" : ObjectId("5afeb2e99954de0dd1230cf1"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(110400252), 
+    "target" : NumberLong(2243512655)
+}
+{ 
+    "_id" : ObjectId("5afeb33e9954de0dd1230cf4"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(336742623), 
+    "target" : NumberInt(243313152)
+}
+{ 
+    "_id" : ObjectId("5afeb33f9954de0dd1230cf7"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(336742623), 
+    "target" : NumberInt(170432439)
+}
+{ 
+    "_id" : ObjectId("5afeb3459954de0dd1230cfa"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(63640738), 
+    "target" : NumberLong(902629846530093057)
+}
+{ 
+    "_id" : ObjectId("5afeb34b9954de0dd1230cfd"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(63640738), 
+    "target" : NumberInt(69305911)
+}
+{ 
+    "_id" : ObjectId("5afeb63e9954de0dd1230d00"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(1712315821), 
+    "target" : NumberInt(1513172088)
+}
+{ 
+    "_id" : ObjectId("5afeb6409954de0dd1230d03"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(503021916), 
+    "target" : NumberInt(92635955)
+}
+{ 
+    "_id" : ObjectId("5afeb6409954de0dd1230d06"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(503021916), 
+    "target" : NumberLong(3013225476)
+}
+{ 
+    "_id" : ObjectId("5afeb9c49954de0dd1230d09"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(1575511422), 
+    "target" : NumberInt(81449705)
+}
+{ 
+    "_id" : ObjectId("5afeb9c49954de0dd1230d0c"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(1575511422), 
+    "target" : NumberInt(271776066)
+}
+{ 
+    "_id" : ObjectId("5afeb9c49954de0dd1230d0f"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(1575511422), 
+    "target" : NumberInt(963160435)
+}
+{ 
+    "_id" : ObjectId("5afeb9c59954de0dd1230d12"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(1575511422), 
+    "target" : NumberInt(964481845)
+}
+{ 
+    "_id" : ObjectId("5afeb9c89954de0dd1230d15"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(122970005), 
+    "target" : NumberInt(18863411)
+}
+{ 
+    "_id" : ObjectId("5afeb9cb9954de0dd1230d18"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(288164578), 
+    "target" : NumberInt(257177421)
+}
+{ 
+    "_id" : ObjectId("5afeb9cd9954de0dd1230d1b"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(550390397), 
+    "target" : NumberInt(169581670)
+}
+{ 
+    "_id" : ObjectId("5afebd4c9954de0dd1230d1e"), 
+    "hop" : "6_hop", 
+    "source" : NumberLong(2217370999), 
+    "target" : NumberLong(807316859477495808)
+}
+{ 
+    "_id" : ObjectId("5afebd4c9954de0dd1230d21"), 
+    "hop" : "6_hop", 
+    "source" : NumberLong(2217370999), 
+    "target" : NumberLong(731825355389083649)
+}
+{ 
+    "_id" : ObjectId("5afebd4c9954de0dd1230d24"), 
+    "hop" : "6_hop", 
+    "source" : NumberLong(2217370999), 
+    "target" : NumberLong(916273381867163648)
+}
+{ 
+    "_id" : ObjectId("5afebd4c9954de0dd1230d27"), 
+    "hop" : "6_hop", 
+    "source" : NumberLong(2217370999), 
+    "target" : NumberLong(992033631425134592)
+}
+{ 
+    "_id" : ObjectId("5afebd4c9954de0dd1230d2a"), 
+    "hop" : "6_hop", 
+    "source" : NumberLong(2217370999), 
+    "target" : NumberLong(750971205218406400)
+}
+{ 
+    "_id" : ObjectId("5afebd4d9954de0dd1230d2d"), 
+    "hop" : "6_hop", 
+    "source" : NumberLong(2217370999), 
+    "target" : NumberLong(752566304746377216)
+}
+{ 
+    "_id" : ObjectId("5afebd4d9954de0dd1230d30"), 
+    "hop" : "6_hop", 
+    "source" : NumberLong(2217370999), 
+    "target" : NumberLong(2803821454)
+}
+{ 
+    "_id" : ObjectId("5afebd4d9954de0dd1230d33"), 
+    "hop" : "6_hop", 
+    "source" : NumberLong(2217370999), 
+    "target" : NumberInt(50968183)
+}
+{ 
+    "_id" : ObjectId("5afebd4d9954de0dd1230d36"), 
+    "hop" : "6_hop", 
+    "source" : NumberLong(2217370999), 
+    "target" : NumberInt(549563485)
+}
+{ 
+    "_id" : ObjectId("5afebd509954de0dd1230d39"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(214567126), 
+    "target" : NumberInt(1317332232)
+}
+{ 
+    "_id" : ObjectId("5afebd509954de0dd1230d3c"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(214567126), 
+    "target" : NumberInt(634949248)
+}
+{ 
+    "_id" : ObjectId("5afec0d59954de0dd1230d3f"), 
+    "hop" : "6_hop", 
+    "source" : NumberLong(2331492714), 
+    "target" : NumberInt(334543023)
+}
+{ 
+    "_id" : ObjectId("5afec4599954de0dd1230d42"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(273648929), 
+    "target" : NumberLong(969245147375513601)
+}
+{ 
+    "_id" : ObjectId("5afec45a9954de0dd1230d45"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(273648929), 
+    "target" : NumberLong(834889011843973121)
+}
+{ 
+    "_id" : ObjectId("5afec45a9954de0dd1230d48"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(273648929), 
+    "target" : NumberLong(875005207217938435)
+}
+{ 
+    "_id" : ObjectId("5afec45a9954de0dd1230d4b"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(273648929), 
+    "target" : NumberInt(248446275)
+}
+{ 
+    "_id" : ObjectId("5afec45a9954de0dd1230d4e"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(273648929), 
+    "target" : NumberInt(22209381)
+}
+{ 
+    "_id" : ObjectId("5afec45a9954de0dd1230d51"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(273648929), 
+    "target" : NumberInt(23186695)
+}
+{ 
+    "_id" : ObjectId("5afec45a9954de0dd1230d54"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(273648929), 
+    "target" : NumberLong(990614405246259211)
+}
+{ 
+    "_id" : ObjectId("5afec45a9954de0dd1230d57"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(273648929), 
+    "target" : NumberInt(1410052909)
+}
+{ 
+    "_id" : ObjectId("5afec45a9954de0dd1230d5a"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(273648929), 
+    "target" : NumberInt(474437809)
+}
+{ 
+    "_id" : ObjectId("5afec45a9954de0dd1230d5d"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(273648929), 
+    "target" : NumberLong(2233488978)
+}
+{ 
+    "_id" : ObjectId("5afec45a9954de0dd1230d60"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(273648929), 
+    "target" : NumberInt(998040438)
+}
+{ 
+    "_id" : ObjectId("5afec45a9954de0dd1230d63"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(273648929), 
+    "target" : NumberInt(1563473052)
+}
+{ 
+    "_id" : ObjectId("5afec45a9954de0dd1230d66"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(273648929), 
+    "target" : NumberInt(50323967)
+}
+{ 
+    "_id" : ObjectId("5afec45f9954de0dd1230d69"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(1040676752), 
+    "target" : NumberLong(945912853197864960)
+}
+{ 
+    "_id" : ObjectId("5afec7e09954de0dd1230d6c"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(457864278), 
+    "target" : NumberInt(165501376)
+}
+{ 
+    "_id" : ObjectId("5afec7e09954de0dd1230d6f"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(457864278), 
+    "target" : NumberInt(607682004)
+}
+{ 
+    "_id" : ObjectId("5afec7e19954de0dd1230d72"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(95762546), 
+    "target" : NumberInt(1515731850)
+}
+{ 
+    "_id" : ObjectId("5afec7e19954de0dd1230d75"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(95762546), 
+    "target" : NumberInt(1521884011)
+}
+{ 
+    "_id" : ObjectId("5afec7e19954de0dd1230d78"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(95762546), 
+    "target" : NumberInt(56805365)
+}
+{ 
+    "_id" : ObjectId("5afec7e19954de0dd1230d7b"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(95762546), 
+    "target" : NumberLong(4892152474)
+}
+{ 
+    "_id" : ObjectId("5afec7e29954de0dd1230d7e"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(270527585), 
+    "target" : NumberLong(3955154609)
+}
+{ 
+    "_id" : ObjectId("5afec7e29954de0dd1230d81"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(270527585), 
+    "target" : NumberInt(194358478)
+}
+{ 
+    "_id" : ObjectId("5afecb689954de0dd1230d84"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(117093174), 
+    "target" : NumberLong(836129803824738305)
+}
+{ 
+    "_id" : ObjectId("5afecb699954de0dd1230d87"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(637147670), 
+    "target" : NumberLong(3090149405)
+}
+{ 
+    "_id" : ObjectId("5afeceef9954de0dd1230d8a"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(120083642), 
+    "target" : NumberLong(991422406840455169)
+}
+{ 
+    "_id" : ObjectId("5afecef09954de0dd1230d8d"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(120083642), 
+    "target" : NumberInt(625474748)
+}
+{ 
+    "_id" : ObjectId("5afecef09954de0dd1230d90"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(120083642), 
+    "target" : NumberInt(1449735590)
+}
+{ 
+    "_id" : ObjectId("5afecef09954de0dd1230d93"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(120083642), 
+    "target" : NumberLong(2254806407)
+}
+{ 
+    "_id" : ObjectId("5afecef39954de0dd1230d96"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(27581526), 
+    "target" : NumberInt(74262274)
+}
+{ 
+    "_id" : ObjectId("5afecef39954de0dd1230d99"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(27581526), 
+    "target" : NumberInt(365601476)
+}
+{ 
+    "_id" : ObjectId("5afecef39954de0dd1230d9c"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(27581526), 
+    "target" : NumberInt(88707439)
+}
+{ 
+    "_id" : ObjectId("5afecef39954de0dd1230d9f"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(27581526), 
+    "target" : NumberInt(1406013714)
+}
+{ 
+    "_id" : ObjectId("5afecef39954de0dd1230da2"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(27581526), 
+    "target" : NumberInt(59392630)
+}
+{ 
+    "_id" : ObjectId("5afecef39954de0dd1230da5"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(27581526), 
+    "target" : NumberInt(198842456)
+}
+{ 
+    "_id" : ObjectId("5afecef39954de0dd1230da8"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(27581526), 
+    "target" : NumberInt(34256731)
+}
+{ 
+    "_id" : ObjectId("5afecef39954de0dd1230dab"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(27581526), 
+    "target" : NumberInt(84738238)
+}
+{ 
+    "_id" : ObjectId("5afecef49954de0dd1230dae"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(339199252), 
+    "target" : NumberLong(755918156925927424)
+}
+{ 
+    "_id" : ObjectId("5afecef49954de0dd1230db1"), 
+    "hop" : "6_hop", 
+    "source" : NumberLong(897600482792943616), 
+    "target" : NumberLong(4858274093)
+}
+{ 
+    "_id" : ObjectId("5afed2759954de0dd1230db4"), 
+    "hop" : "6_hop", 
+    "source" : NumberLong(900853691766509571), 
+    "target" : NumberLong(2494319312)
+}
+{ 
+    "_id" : ObjectId("5afed2759954de0dd1230db7"), 
+    "hop" : "6_hop", 
+    "source" : NumberLong(900853691766509571), 
+    "target" : NumberLong(2628548392)
+}
+{ 
+    "_id" : ObjectId("5afed2769954de0dd1230dba"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(435969606), 
+    "target" : NumberLong(912765079585685504)
+}
+{ 
+    "_id" : ObjectId("5afed2769954de0dd1230dbd"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(435969606), 
+    "target" : NumberLong(895377849695252481)
+}
+{ 
+    "_id" : ObjectId("5afed2769954de0dd1230dc0"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(435969606), 
+    "target" : NumberLong(970485162139058176)
+}
+{ 
+    "_id" : ObjectId("5afed2769954de0dd1230dc3"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(435969606), 
+    "target" : NumberLong(774342638476595203)
+}
+{ 
+    "_id" : ObjectId("5afed2769954de0dd1230dc6"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(435969606), 
+    "target" : NumberLong(899554732104196096)
+}
+{ 
+    "_id" : ObjectId("5afed2769954de0dd1230dc9"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(435969606), 
+    "target" : NumberLong(968202407124635649)
+}
+{ 
+    "_id" : ObjectId("5afed2769954de0dd1230dcc"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(435969606), 
+    "target" : NumberInt(176407395)
+}
+{ 
+    "_id" : ObjectId("5afed2769954de0dd1230dcf"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(435969606), 
+    "target" : NumberLong(896447047078998018)
+}
+{ 
+    "_id" : ObjectId("5afed2769954de0dd1230dd2"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(435969606), 
+    "target" : NumberInt(1030940041)
+}
+{ 
+    "_id" : ObjectId("5afed2779954de0dd1230dd5"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(435969606), 
+    "target" : NumberInt(349058730)
+}
+{ 
+    "_id" : ObjectId("5afed2779954de0dd1230dd8"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(435969606), 
+    "target" : NumberLong(2154113038)
+}
+{ 
+    "_id" : ObjectId("5afed2779954de0dd1230ddb"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(435969606), 
+    "target" : NumberLong(2210155183)
+}
+{ 
+    "_id" : ObjectId("5afed2779954de0dd1230dde"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(435969606), 
+    "target" : NumberInt(1576027992)
+}
+{ 
+    "_id" : ObjectId("5afed2779954de0dd1230de1"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(435969606), 
+    "target" : NumberLong(2729004094)
+}
+{ 
+    "_id" : ObjectId("5afed2789954de0dd1230de4"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(239003498), 
+    "target" : NumberInt(18647987)
+}
+{ 
+    "_id" : ObjectId("5afed2799954de0dd1230de7"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(337722651), 
+    "target" : NumberLong(3747765737)
+}
+{ 
+    "_id" : ObjectId("5afed27a9954de0dd1230dea"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(374443676), 
+    "target" : NumberLong(771090667342790656)
+}
+{ 
+    "_id" : ObjectId("5afed27a9954de0dd1230ded"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(374443676), 
+    "target" : NumberInt(1527358988)
+}
+{ 
+    "_id" : ObjectId("5afed27a9954de0dd1230df0"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(374443676), 
+    "target" : NumberLong(2149716404)
+}
+{ 
+    "_id" : ObjectId("5afed27a9954de0dd1230df3"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(374443676), 
+    "target" : NumberInt(197802458)
+}
+{ 
+    "_id" : ObjectId("5afed27a9954de0dd1230df6"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(374443676), 
+    "target" : NumberInt(633599099)
+}
+{ 
+    "_id" : ObjectId("5afed27d9954de0dd1230df9"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(303638118), 
+    "target" : NumberInt(166244424)
+}
+{ 
+    "_id" : ObjectId("5afed6019954de0dd1230dfc"), 
+    "hop" : "6_hop", 
+    "source" : NumberLong(3022196213), 
+    "target" : NumberLong(934461450210430976)
+}
+{ 
+    "_id" : ObjectId("5afed6019954de0dd1230dff"), 
+    "hop" : "6_hop", 
+    "source" : NumberLong(3022196213), 
+    "target" : NumberLong(938340356269240321)
+}
+{ 
+    "_id" : ObjectId("5afed6019954de0dd1230e02"), 
+    "hop" : "6_hop", 
+    "source" : NumberLong(3022196213), 
+    "target" : NumberLong(931920464607358977)
+}
+{ 
+    "_id" : ObjectId("5afed6019954de0dd1230e05"), 
+    "hop" : "6_hop", 
+    "source" : NumberLong(3022196213), 
+    "target" : NumberLong(957404778279161859)
+}
+{ 
+    "_id" : ObjectId("5afed6019954de0dd1230e08"), 
+    "hop" : "6_hop", 
+    "source" : NumberLong(3022196213), 
+    "target" : NumberLong(4344556349)
+}
+{ 
+    "_id" : ObjectId("5afed6029954de0dd1230e0b"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(239152505), 
+    "target" : NumberInt(352210017)
+}
+{ 
+    "_id" : ObjectId("5afed9839954de0dd1230e0e"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(244062615), 
+    "target" : NumberInt(134448039)
+}
+{ 
+    "_id" : ObjectId("5afed9839954de0dd1230e11"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(244062615), 
+    "target" : NumberInt(145641389)
+}
+{ 
+    "_id" : ObjectId("5afed9839954de0dd1230e14"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(244062615), 
+    "target" : NumberInt(385337743)
+}
+{ 
+    "_id" : ObjectId("5afed9859954de0dd1230e17"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(155576605), 
+    "target" : NumberInt(63237897)
+}
+{ 
+    "_id" : ObjectId("5afed9869954de0dd1230e1a"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(72052281), 
+    "target" : NumberInt(81588435)
+}
+{ 
+    "_id" : ObjectId("5afed9869954de0dd1230e1d"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(72052281), 
+    "target" : NumberInt(361355525)
+}
+{ 
+    "_id" : ObjectId("5afed9869954de0dd1230e20"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(72052281), 
+    "target" : NumberInt(154044342)
+}
+{ 
+    "_id" : ObjectId("5afed9869954de0dd1230e23"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(72052281), 
+    "target" : NumberInt(184593479)
+}
+{ 
+    "_id" : ObjectId("5afed9869954de0dd1230e26"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(331620553), 
+    "target" : NumberLong(4266984995)
+}
+{ 
+    "_id" : ObjectId("5afedd0e9954de0dd1230e29"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(21153102), 
+    "target" : NumberInt(129584001)
+}
+{ 
+    "_id" : ObjectId("5afedd0e9954de0dd1230e2c"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(79516362), 
+    "target" : NumberInt(33652897)
+}
+{ 
+    "_id" : ObjectId("5afedd0f9954de0dd1230e2f"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(66483793), 
+    "target" : NumberLong(2476746233)
+}
+{ 
+    "_id" : ObjectId("5afee0929954de0dd1230e32"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(161399963), 
+    "target" : NumberLong(719149975549177856)
+}
+{ 
+    "_id" : ObjectId("5afee0939954de0dd1230e35"), 
+    "hop" : "6_hop", 
+    "source" : NumberLong(755810513796358144), 
+    "target" : NumberInt(611934311)
+}
+{ 
+    "_id" : ObjectId("5afee0959954de0dd1230e38"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(9858892), 
+    "target" : NumberInt(24938945)
+}
+{ 
+    "_id" : ObjectId("5afee0959954de0dd1230e3b"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(9858892), 
+    "target" : NumberInt(837401934)
+}
+{ 
+    "_id" : ObjectId("5afee4199954de0dd1230e3e"), 
+    "hop" : "6_hop", 
+    "source" : NumberLong(3302369349), 
+    "target" : NumberLong(951435934997925889)
+}
+{ 
+    "_id" : ObjectId("5afee41a9954de0dd1230e41"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(70064961), 
+    "target" : NumberInt(491154225)
+}
+{ 
+    "_id" : ObjectId("5afee41d9954de0dd1230e44"), 
+    "hop" : "6_hop", 
+    "source" : NumberLong(859781984087928833), 
+    "target" : NumberInt(226615299)
+}
+{ 
+    "_id" : ObjectId("5afee41e9954de0dd1230e47"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(91628137), 
+    "target" : NumberLong(4907616562)
+}
+{ 
+    "_id" : ObjectId("5afee41e9954de0dd1230e4a"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(91628137), 
+    "target" : NumberInt(445468326)
+}
+{ 
+    "_id" : ObjectId("5afeeb2d9954de0dd1230e4d"), 
+    "hop" : "6_hop", 
+    "source" : NumberLong(2378832727), 
+    "target" : NumberLong(2296870332)
+}
+{ 
+    "_id" : ObjectId("5afeeeba9954de0dd1230e50"), 
+    "hop" : "6_hop", 
+    "source" : NumberLong(2249391032), 
+    "target" : NumberInt(36373207)
+}
+{ 
+    "_id" : ObjectId("5afef2409954de0dd1230e53"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(69305911), 
+    "target" : NumberInt(97082513)
+}
+{ 
+    "_id" : ObjectId("5afef2409954de0dd1230e56"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(69305911), 
+    "target" : NumberLong(974515632715661313)
+}
+{ 
+    "_id" : ObjectId("5afef2409954de0dd1230e59"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(1513172088), 
+    "target" : NumberInt(34311739)
+}
+{ 
+    "_id" : ObjectId("5afef2409954de0dd1230e5c"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(1513172088), 
+    "target" : NumberInt(315270748)
+}
+{ 
+    "_id" : ObjectId("5afef5c69954de0dd1230e5f"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(81449705), 
+    "target" : NumberLong(2209533102)
+}
+{ 
+    "_id" : ObjectId("5afef5ce9954de0dd1230e62"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(271776066), 
+    "target" : NumberInt(168497875)
+}
+{ 
+    "_id" : ObjectId("5afef5d09954de0dd1230e65"), 
+    "hop" : "6_hop", 
+    "source" : NumberInt(18863411), 
+    "target" : NumberLong(2168243373)
+}
+{ 
+    "_id" : ObjectId("5afef5d49954de0dd1230e68"), 
+    "hop" : "7_hop", 
+    "source" : NumberLong(750971205218406400), 
+    "target" : NumberLong(2190379216)
+}
+{ 
+    "_id" : ObjectId("5afef9499954de0dd1230e6b"), 
+    "hop" : "7_hop", 
+    "source" : NumberLong(2803821454), 
+    "target" : NumberLong(772732523457683456)
+}
+{ 
+    "_id" : ObjectId("5afef94b9954de0dd1230e6e"), 
+    "hop" : "7_hop", 
+    "source" : NumberInt(634949248), 
+    "target" : NumberInt(182408916)
+}
+{ 
+    "_id" : ObjectId("5afef94f9954de0dd1230e71"), 
+    "hop" : "7_hop", 
+    "source" : NumberInt(23186695), 
+    "target" : NumberLong(855488832329965568)
+}
+{ 
+    "_id" : ObjectId("5afefcd19954de0dd1230e74"), 
+    "hop" : "7_hop", 
+    "source" : NumberLong(2233488978), 
+    "target" : NumberInt(1238447220)
+}
+{ 
+    "_id" : ObjectId("5afefcd39954de0dd1230e77"), 
+    "hop" : "7_hop", 
+    "source" : NumberLong(945912853197864960), 
+    "target" : NumberLong(972382168898068480)
+}
+{ 
+    "_id" : ObjectId("5afefcd49954de0dd1230e7a"), 
+    "hop" : "7_hop", 
+    "source" : NumberInt(607682004), 
+    "target" : NumberLong(2488859869)
+}
+{ 
+    "_id" : ObjectId("5afefcd69954de0dd1230e7d"), 
+    "hop" : "7_hop", 
+    "source" : NumberInt(56805365), 
+    "target" : NumberInt(329058281)
+}
+{ 
+    "_id" : ObjectId("5afefcd99954de0dd1230e80"), 
+    "hop" : "7_hop", 
+    "source" : NumberLong(3090149405), 
+    "target" : NumberInt(181296733)
+}
+{ 
+    "_id" : ObjectId("5aff00579954de0dd1230e83"), 
+    "hop" : "7_hop", 
+    "source" : NumberLong(991422406840455169), 
+    "target" : NumberInt(412327668)
+}
+{ 
+    "_id" : ObjectId("5aff00599954de0dd1230e86"), 
+    "hop" : "7_hop", 
+    "source" : NumberLong(2254806407), 
+    "target" : NumberLong(2973809176)
+}
+{ 
+    "_id" : ObjectId("5aff00599954de0dd1230e89"), 
+    "hop" : "7_hop", 
+    "source" : NumberInt(74262274), 
+    "target" : NumberLong(862388612612202496)
+}
+{ 
+    "_id" : ObjectId("5aff005a9954de0dd1230e8c"), 
+    "hop" : "7_hop", 
+    "source" : NumberInt(74262274), 
+    "target" : NumberLong(2201847876)
+}
+{ 
+    "_id" : ObjectId("5aff005a9954de0dd1230e8f"), 
+    "hop" : "7_hop", 
+    "source" : NumberInt(365601476), 
+    "target" : NumberInt(17089924)
+}
+{ 
+    "_id" : ObjectId("5aff005c9954de0dd1230e92"), 
+    "hop" : "7_hop", 
+    "source" : NumberInt(198842456), 
+    "target" : NumberLong(4562866174)
+}
+{ 
+    "_id" : ObjectId("5aff005e9954de0dd1230e95"), 
+    "hop" : "7_hop", 
+    "source" : NumberInt(34256731), 
+    "target" : NumberInt(69646880)
+}
+{ 
+    "_id" : ObjectId("5aff005e9954de0dd1230e98"), 
+    "hop" : "7_hop", 
+    "source" : NumberInt(34256731), 
+    "target" : NumberInt(75833357)
+}
+{ 
+    "_id" : ObjectId("5aff005f9954de0dd1230e9b"), 
+    "hop" : "7_hop", 
+    "source" : NumberLong(4858274093), 
+    "target" : NumberInt(119014973)
+}
+{ 
+    "_id" : ObjectId("5aff03df9954de0dd1230e9e"), 
+    "hop" : "7_hop", 
+    "source" : NumberLong(2628548392), 
+    "target" : NumberLong(2192481356)
+}
+{ 
+    "_id" : ObjectId("5aff03df9954de0dd1230ea1"), 
+    "hop" : "7_hop", 
+    "source" : NumberLong(2628548392), 
+    "target" : NumberInt(501837461)
+}
+{ 
+    "_id" : ObjectId("5aff03e39954de0dd1230ea4"), 
+    "hop" : "7_hop", 
+    "source" : NumberInt(176407395), 
+    "target" : NumberInt(410616185)
+}
+{ 
+    "_id" : ObjectId("5aff03e39954de0dd1230ea7"), 
+    "hop" : "7_hop", 
+    "source" : NumberInt(176407395), 
+    "target" : NumberLong(2665426283)
+}
+{ 
+    "_id" : ObjectId("5aff03e59954de0dd1230eaa"), 
+    "hop" : "7_hop", 
+    "source" : NumberLong(2154113038), 
+    "target" : NumberInt(431888963)
+}
+{ 
+    "_id" : ObjectId("5aff03e69954de0dd1230ead"), 
+    "hop" : "7_hop", 
+    "source" : NumberLong(2210155183), 
+    "target" : NumberInt(546004321)
+}
+{ 
+    "_id" : ObjectId("5aff03e69954de0dd1230eb0"), 
+    "hop" : "7_hop", 
+    "source" : NumberLong(2210155183), 
+    "target" : NumberInt(347727589)
+}
+{ 
+    "_id" : ObjectId("5aff03e79954de0dd1230eb3"), 
+    "hop" : "7_hop", 
+    "source" : NumberInt(1576027992), 
+    "target" : NumberLong(985593218166337536)
+}
+{ 
+    "_id" : ObjectId("5aff03e79954de0dd1230eb6"), 
+    "hop" : "7_hop", 
+    "source" : NumberInt(1576027992), 
+    "target" : NumberLong(764601142282248192)
+}
+{ 
+    "_id" : ObjectId("5aff0aee9954de0dd1230eb9"), 
+    "hop" : "7_hop", 
+    "source" : NumberInt(145641389), 
+    "target" : NumberInt(220385283)
+}
+{ 
+    "_id" : ObjectId("5aff0aee9954de0dd1230ebc"), 
+    "hop" : "7_hop", 
+    "source" : NumberInt(145641389), 
+    "target" : NumberLong(3312831147)
+}
+{ 
+    "_id" : ObjectId("5aff0aef9954de0dd1230ebf"), 
+    "hop" : "7_hop", 
+    "source" : NumberInt(145641389), 
+    "target" : NumberInt(113015941)
+}
+{ 
+    "_id" : ObjectId("5aff0aef9954de0dd1230ec2"), 
+    "hop" : "7_hop", 
+    "source" : NumberInt(145641389), 
+    "target" : NumberInt(144235839)
+}
+{ 
+    "_id" : ObjectId("5aff0af39954de0dd1230ec5"), 
+    "hop" : "7_hop", 
+    "source" : NumberInt(129584001), 
+    "target" : NumberInt(1166098705)
+}
+{ 
+    "_id" : ObjectId("5aff0af59954de0dd1230ec8"), 
+    "hop" : "7_hop", 
+    "source" : NumberInt(611934311), 
+    "target" : NumberInt(186120498)
+}
+{ 
+    "_id" : ObjectId("5aff0e799954de0dd1230ecb"), 
+    "hop" : "7_hop", 
+    "source" : NumberInt(445468326), 
+    "target" : NumberLong(4705496460)
+}
+{ 
+    "_id" : ObjectId("5aff0e7b9954de0dd1230ece"), 
+    "hop" : "7_hop", 
+    "source" : NumberLong(2296870332), 
+    "target" : NumberLong(967338013222232064)
+}
+{ 
+    "_id" : ObjectId("5aff0e7b9954de0dd1230ed1"), 
+    "hop" : "7_hop", 
+    "source" : NumberLong(2296870332), 
+    "target" : NumberLong(3246998438)
+}
+{ 
+    "_id" : ObjectId("5aff0e7b9954de0dd1230ed4"), 
+    "hop" : "7_hop", 
+    "source" : NumberLong(2296870332), 
+    "target" : NumberInt(1929718794)
+}
+{ 
+    "_id" : ObjectId("5aff0e7c9954de0dd1230ed7"), 
+    "hop" : "7_hop", 
+    "source" : NumberLong(2296870332), 
+    "target" : NumberLong(2328854769)
+}
+{ 
+    "_id" : ObjectId("5aff0e7c9954de0dd1230eda"), 
+    "hop" : "7_hop", 
+    "source" : NumberLong(2296870332), 
+    "target" : NumberLong(2943523797)
+}
+{ 
+    "_id" : ObjectId("5aff0e7d9954de0dd1230edd"), 
+    "hop" : "7_hop", 
+    "source" : NumberInt(97082513), 
+    "target" : NumberInt(117156720)
+}
+{ 
+    "_id" : ObjectId("5aff0e7f9954de0dd1230ee0"), 
+    "hop" : "7_hop", 
+    "source" : NumberInt(315270748), 
+    "target" : NumberLong(872513961559826432)
+}
+{ 
+    "_id" : ObjectId("5aff12009954de0dd1230ee3"), 
+    "hop" : "8_hop", 
+    "source" : NumberLong(855488832329965568), 
+    "target" : NumberInt(600043184)
+}
+{ 
+    "_id" : ObjectId("5aff12019954de0dd1230ee6"), 
+    "hop" : "8_hop", 
+    "source" : NumberLong(855488832329965568), 
+    "target" : NumberInt(154350597)
+}
+{ 
+    "_id" : ObjectId("5aff12039954de0dd1230ee9"), 
+    "hop" : "8_hop", 
+    "source" : NumberInt(329058281), 
+    "target" : NumberInt(124231767)
+}
+{ 
+    "_id" : ObjectId("5aff12049954de0dd1230eec"), 
+    "hop" : "8_hop", 
+    "source" : NumberInt(181296733), 
+    "target" : NumberLong(2967589485)
+}
+{ 
+    "_id" : ObjectId("5aff12059954de0dd1230eef"), 
+    "hop" : "8_hop", 
+    "source" : NumberLong(2973809176), 
+    "target" : NumberInt(307434032)
+}
+{ 
+    "_id" : ObjectId("5aff12069954de0dd1230ef2"), 
+    "hop" : "8_hop", 
+    "source" : NumberLong(862388612612202496), 
+    "target" : NumberLong(731213728717373440)
+}
+{ 
+    "_id" : ObjectId("5aff12069954de0dd1230ef5"), 
+    "hop" : "8_hop", 
+    "source" : NumberLong(862388612612202496), 
+    "target" : NumberInt(142042186)
+}
+{ 
+    "_id" : ObjectId("5aff12069954de0dd1230ef8"), 
+    "hop" : "8_hop", 
+    "source" : NumberLong(862388612612202496), 
+    "target" : NumberInt(821606730)
+}
+{ 
+    "_id" : ObjectId("5aff12079954de0dd1230efb"), 
+    "hop" : "8_hop", 
+    "source" : NumberLong(862388612612202496), 
+    "target" : NumberInt(149241516)
+}
+{ 
+    "_id" : ObjectId("5aff12079954de0dd1230efe"), 
+    "hop" : "8_hop", 
+    "source" : NumberLong(862388612612202496), 
+    "target" : NumberInt(851422447)
+}
+{ 
+    "_id" : ObjectId("5aff12079954de0dd1230f01"), 
+    "hop" : "8_hop", 
+    "source" : NumberLong(862388612612202496), 
+    "target" : NumberInt(183188381)
+}
+{ 
+    "_id" : ObjectId("5aff158d9954de0dd1230f04"), 
+    "hop" : "8_hop", 
+    "source" : NumberInt(119014973), 
+    "target" : NumberLong(911940818923130880)
+}
+{ 
+    "_id" : ObjectId("5aff15909954de0dd1230f07"), 
+    "hop" : "8_hop", 
+    "source" : NumberInt(410616185), 
+    "target" : NumberLong(944150150649405441)
+}
+{ 
+    "_id" : ObjectId("5aff15919954de0dd1230f0a"), 
+    "hop" : "8_hop", 
+    "source" : NumberInt(431888963), 
+    "target" : NumberLong(2459871452)
+}
+{ 
+    "_id" : ObjectId("5aff15929954de0dd1230f0d"), 
+    "hop" : "8_hop", 
+    "source" : NumberInt(431888963), 
+    "target" : NumberInt(1114461246)
+}
+{ 
+    "_id" : ObjectId("5aff190d9954de0dd1230f10"), 
+    "hop" : "8_hop", 
+    "source" : NumberInt(113015941), 
+    "target" : NumberInt(94467637)
+}
+{ 
+    "_id" : ObjectId("5aff190f9954de0dd1230f13"), 
+    "hop" : "8_hop", 
+    "source" : NumberInt(144235839), 
+    "target" : NumberInt(223445045)
+}
+{ 
+    "_id" : ObjectId("5aff19169954de0dd1230f16"), 
+    "hop" : "9_hop", 
+    "source" : NumberInt(600043184), 
+    "target" : NumberInt(21993294)
+}
+{ 
+    "_id" : ObjectId("5aff19189954de0dd1230f19"), 
+    "hop" : "9_hop", 
+    "source" : NumberInt(154350597), 
+    "target" : NumberInt(625762744)
+}
+{ 
+    "_id" : ObjectId("5aff19189954de0dd1230f1c"), 
+    "hop" : "9_hop", 
+    "source" : NumberInt(154350597), 
+    "target" : NumberInt(550312259)
+}
+{ 
+    "_id" : ObjectId("5aff19189954de0dd1230f1f"), 
+    "hop" : "9_hop", 
+    "source" : NumberInt(154350597), 
+    "target" : NumberLong(3759602909)
+}
+{ 
+    "_id" : ObjectId("5aff1c959954de0dd1230f22"), 
+    "hop" : "9_hop", 
+    "source" : NumberLong(2967589485), 
+    "target" : NumberLong(907191928336392192)
+}
+{ 
+    "_id" : ObjectId("5aff1c969954de0dd1230f25"), 
+    "hop" : "9_hop", 
+    "source" : NumberLong(731213728717373440), 
+    "target" : NumberLong(970426662679728129)
+}
+{ 
+    "_id" : ObjectId("5aff1c999954de0dd1230f28"), 
+    "hop" : "9_hop", 
+    "source" : NumberInt(183188381), 
+    "target" : NumberInt(33145632)
+}
+{ 
+    "_id" : ObjectId("5aff1c999954de0dd1230f2b"), 
+    "hop" : "9_hop", 
+    "source" : NumberInt(183188381), 
+    "target" : NumberInt(286554369)
+}
+{ 
+    "_id" : ObjectId("5aff1c999954de0dd1230f2e"), 
+    "hop" : "9_hop", 
+    "source" : NumberInt(183188381), 
+    "target" : NumberLong(807895495028961283)
+}
+{ 
+    "_id" : ObjectId("5aff1c9a9954de0dd1230f31"), 
+    "hop" : "9_hop", 
+    "source" : NumberInt(183188381), 
+    "target" : NumberLong(3068710948)
+}
+{ 
+    "_id" : ObjectId("5aff1c9a9954de0dd1230f34"), 
+    "hop" : "9_hop", 
+    "source" : NumberInt(183188381), 
+    "target" : NumberInt(174441386)
+}
+{ 
+    "_id" : ObjectId("5aff1c9a9954de0dd1230f37"), 
+    "hop" : "9_hop", 
+    "source" : NumberInt(183188381), 
+    "target" : NumberLong(2899209395)
+}
+{ 
+    "_id" : ObjectId("5aff201c9954de0dd1230f3a"), 
+    "hop" : "10_hop", 
+    "source" : NumberInt(21993294), 
+    "target" : NumberLong(2852652593)
+}
+{ 
+    "_id" : ObjectId("5aff201c9954de0dd1230f3d"), 
+    "hop" : "10_hop", 
+    "source" : NumberInt(21993294), 
+    "target" : NumberLong(3410530498)
+}
+{ 
+    "_id" : ObjectId("5aff201d9954de0dd1230f40"), 
+    "hop" : "10_hop", 
+    "source" : NumberInt(625762744), 
+    "target" : NumberInt(126405637)
+}
+{ 
+    "_id" : ObjectId("5aff20239954de0dd1230f43"), 
+    "hop" : "11_hop", 
+    "source" : NumberLong(2852652593), 
+    "target" : NumberLong(3950081506)
+}
+{ 
+    "_id" : ObjectId("5aff20249954de0dd1230f46"), 
+    "hop" : "11_hop", 
+    "source" : NumberLong(2852652593), 
+    "target" : NumberInt(1427285550)
+}
+{ 
+    "_id" : ObjectId("5aff23a39954de0dd1230f49"), 
+    "hop" : "11_hop", 
+    "source" : NumberInt(126405637), 
+    "target" : NumberInt(1957125536)
+}
+{ 
+    "_id" : ObjectId("5aff23a39954de0dd1230f4c"), 
+    "hop" : "11_hop", 
+    "source" : NumberInt(126405637), 
+    "target" : NumberInt(14175961)
+}
+{ 
+    "_id" : ObjectId("5aff23a49954de0dd1230f4f"), 
+    "hop" : "12_hop", 
+    "source" : NumberInt(1427285550), 
+    "target" : NumberInt(14376011)
+}
+{ 
+    "_id" : ObjectId("5aff23a59954de0dd1230f52"), 
+    "hop" : "12_hop", 
+    "source" : NumberInt(1427285550), 
+    "target" : NumberLong(3109906829)
+}
+{ 
+    "_id" : ObjectId("5aff23a69954de0dd1230f55"), 
+    "hop" : "12_hop", 
+    "source" : NumberInt(1957125536), 
+    "target" : NumberInt(252667299)
+}

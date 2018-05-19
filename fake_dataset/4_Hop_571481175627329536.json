@@ -1,0 +1,30 @@
+{ 
+    "_id" : ObjectId("5aff74b79954de126e0fd432"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3009866021), 
+    "target" : NumberInt(1405181352)
+}
+{ 
+    "_id" : ObjectId("5aff74b89954de126e0fd435"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3009866021), 
+    "target" : NumberLong(2968744641)
+}
+{ 
+    "_id" : ObjectId("5aff74b89954de126e0fd438"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3009866021), 
+    "target" : NumberLong(3024200970)
+}
+{ 
+    "_id" : ObjectId("5aff74b89954de126e0fd43b"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(3009866021), 
+    "target" : NumberLong(3006527051)
+}
+{ 
+    "_id" : ObjectId("5aff74b89954de126e0fd43e"), 
+    "hop" : "4_hop", 
+    "source" : NumberLong(2206972365), 
+    "target" : NumberInt(114270868)
+}

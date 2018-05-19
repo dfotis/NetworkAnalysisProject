@@ -1,0 +1,66 @@
+{ 
+    "_id" : ObjectId("5afe5ab79954de0ebb9afce5"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(49317402), 
+    "target" : NumberLong(2497225081)
+}
+{ 
+    "_id" : ObjectId("5afe5e429954de0ebb9afce8"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(1287018594), 
+    "target" : NumberInt(266909396)
+}
+{ 
+    "_id" : ObjectId("5afe61c89954de0ebb9afceb"), 
+    "hop" : "5_hop", 
+    "source" : NumberLong(705425662304247808), 
+    "target" : NumberLong(758846415535611904)
+}
+{ 
+    "_id" : ObjectId("5afe65489954de0ebb9afcee"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(341588819), 
+    "target" : NumberLong(965386029287927808)
+}
+{ 
+    "_id" : ObjectId("5afe65489954de0ebb9afcf1"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(341588819), 
+    "target" : NumberLong(793933354798182400)
+}
+{ 
+    "_id" : ObjectId("5afe65489954de0ebb9afcf4"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(341588819), 
+    "target" : NumberLong(867093908421005312)
+}
+{ 
+    "_id" : ObjectId("5afe65489954de0ebb9afcf7"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(341588819), 
+    "target" : NumberLong(769386397610369025)
+}
+{ 
+    "_id" : ObjectId("5afe65489954de0ebb9afcfa"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(341588819), 
+    "target" : NumberLong(987107885946728451)
+}
+{ 
+    "_id" : ObjectId("5afe65489954de0ebb9afcfd"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(341588819), 
+    "target" : NumberLong(4872703431)
+}
+{ 
+    "_id" : ObjectId("5afe65489954de0ebb9afd00"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(341588819), 
+    "target" : NumberInt(834766856)
+}
+{ 
+    "_id" : ObjectId("5afe65489954de0ebb9afd03"), 
+    "hop" : "5_hop", 
+    "source" : NumberInt(341588819), 
+    "target" : NumberInt(16197772)
+}

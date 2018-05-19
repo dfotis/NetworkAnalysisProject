@@ -1,0 +1,643 @@
+{ 
+    "_id" : ObjectId("5aff61f29954de125d6f5dea"), 
+    "id" : NumberLong(3054183445), 
+    "id_str" : "3054183445", 
+    "name" : "Dominick Tony", 
+    "screen_name" : "YounggohardDJT", 
+    "location" : "", 
+    "profile_location" : null, 
+    "description" : "I'm trapped in Howard Sterns basement! Send help!", 
+    "url" : null, 
+    "entities" : {
+        "description" : {
+            "urls" : [
+
+            ]
+        }
+    }, 
+    "protected" : false, 
+    "followers_count" : NumberInt(217), 
+    "friends_count" : NumberInt(612), 
+    "listed_count" : NumberInt(1), 
+    "created_at" : "Mon Mar 02 00:50:13 +0000 2015", 
+    "favourites_count" : NumberInt(737), 
+    "utc_offset" : null, 
+    "time_zone" : null, 
+    "geo_enabled" : false, 
+    "verified" : false, 
+    "statuses_count" : NumberInt(256), 
+    "lang" : "en", 
+    "status" : {
+        "created_at" : "Mon Jun 01 01:02:52 +0000 2015", 
+        "id" : NumberLong(605177660084469760), 
+        "id_str" : "605177660084469760", 
+        "text" : "RT @SoCuteKittens: Curious little guy! http://t.co/qmFajgGvZ3", 
+        "truncated" : false, 
+        "entities" : {
+            "hashtags" : [
+
+            ], 
+            "symbols" : [
+
+            ], 
+            "user_mentions" : [
+                {
+                    "screen_name" : "SoCuteKittens", 
+                    "name" : "Cute Kittens", 
+                    "id" : NumberLong(3290281720), 
+                    "id_str" : "3290281720", 
+                    "indices" : [
+                        NumberInt(3), 
+                        NumberInt(17)
+                    ]
+                }
+            ], 
+            "urls" : [
+
+            ], 
+            "media" : [
+                {
+                    "id" : NumberLong(604974622505889792), 
+                    "id_str" : "604974622505889792", 
+                    "indices" : [
+                        NumberInt(39), 
+                        NumberInt(61)
+                    ], 
+                    "media_url" : "http://pbs.twimg.com/media/CGVNNsCW8AANVfI.jpg", 
+                    "media_url_https" : "https://pbs.twimg.com/media/CGVNNsCW8AANVfI.jpg", 
+                    "url" : "http://t.co/qmFajgGvZ3", 
+                    "display_url" : "pic.twitter.com/qmFajgGvZ3", 
+                    "expanded_url" : "https://twitter.com/SoCuteKittens/status/604974622560395264/photo/1", 
+                    "type" : "photo", 
+                    "sizes" : {
+                        "thumb" : {
+                            "w" : NumberInt(150), 
+                            "h" : NumberInt(150), 
+                            "resize" : "crop"
+                        }, 
+                        "large" : {
+                            "w" : NumberInt(600), 
+                            "h" : NumberInt(450), 
+                            "resize" : "fit"
+                        }, 
+                        "medium" : {
+                            "w" : NumberInt(600), 
+                            "h" : NumberInt(450), 
+                            "resize" : "fit"
+                        }, 
+                        "small" : {
+                            "w" : NumberInt(600), 
+                            "h" : NumberInt(450), 
+                            "resize" : "fit"
+                        }
+                    }, 
+                    "source_status_id" : NumberLong(604974622560395264), 
+                    "source_status_id_str" : "604974622560395264", 
+                    "source_user_id" : NumberLong(3290281720), 
+                    "source_user_id_str" : "3290281720"
+                }
+            ]
+        }, 
+        "extended_entities" : {
+            "media" : [
+                {
+                    "id" : NumberLong(604974622505889792), 
+                    "id_str" : "604974622505889792", 
+                    "indices" : [
+                        NumberInt(39), 
+                        NumberInt(61)
+                    ], 
+                    "media_url" : "http://pbs.twimg.com/media/CGVNNsCW8AANVfI.jpg", 
+                    "media_url_https" : "https://pbs.twimg.com/media/CGVNNsCW8AANVfI.jpg", 
+                    "url" : "http://t.co/qmFajgGvZ3", 
+                    "display_url" : "pic.twitter.com/qmFajgGvZ3", 
+                    "expanded_url" : "https://twitter.com/SoCuteKittens/status/604974622560395264/photo/1", 
+                    "type" : "photo", 
+                    "sizes" : {
+                        "thumb" : {
+                            "w" : NumberInt(150), 
+                            "h" : NumberInt(150), 
+                            "resize" : "crop"
+                        }, 
+                        "large" : {
+                            "w" : NumberInt(600), 
+                            "h" : NumberInt(450), 
+                            "resize" : "fit"
+                        }, 
+                        "medium" : {
+                            "w" : NumberInt(600), 
+                            "h" : NumberInt(450), 
+                            "resize" : "fit"
+                        }, 
+                        "small" : {
+                            "w" : NumberInt(600), 
+                            "h" : NumberInt(450), 
+                            "resize" : "fit"
+                        }
+                    }, 
+                    "source_status_id" : NumberLong(604974622560395264), 
+                    "source_status_id_str" : "604974622560395264", 
+                    "source_user_id" : NumberLong(3290281720), 
+                    "source_user_id_str" : "3290281720"
+                }
+            ]
+        }, 
+        "source" : "<a href=\"http://www.gamestruct.com\" rel=\"nofollow\">StatusUpPro</a>", 
+        "in_reply_to_status_id" : null, 
+        "in_reply_to_status_id_str" : null, 
+        "in_reply_to_user_id" : null, 
+        "in_reply_to_user_id_str" : null, 
+        "in_reply_to_screen_name" : null, 
+        "geo" : null, 
+        "coordinates" : null, 
+        "place" : null, 
+        "contributors" : null, 
+        "retweeted_status" : {
+            "created_at" : "Sun May 31 11:36:04 +0000 2015", 
+            "id" : NumberLong(604974622560395264), 
+            "id_str" : "604974622560395264", 
+            "text" : "Curious little guy! http://t.co/qmFajgGvZ3", 
+            "truncated" : false, 
+            "entities" : {
+                "hashtags" : [
+
+                ], 
+                "symbols" : [
+
+                ], 
+                "user_mentions" : [
+
+                ], 
+                "urls" : [
+
+                ], 
+                "media" : [
+                    {
+                        "id" : NumberLong(604974622505889792), 
+                        "id_str" : "604974622505889792", 
+                        "indices" : [
+                            NumberInt(20), 
+                            NumberInt(42)
+                        ], 
+                        "media_url" : "http://pbs.twimg.com/media/CGVNNsCW8AANVfI.jpg", 
+                        "media_url_https" : "https://pbs.twimg.com/media/CGVNNsCW8AANVfI.jpg", 
+                        "url" : "http://t.co/qmFajgGvZ3", 
+                        "display_url" : "pic.twitter.com/qmFajgGvZ3", 
+                        "expanded_url" : "https://twitter.com/SoCuteKittens/status/604974622560395264/photo/1", 
+                        "type" : "photo", 
+                        "sizes" : {
+                            "thumb" : {
+                                "w" : NumberInt(150), 
+                                "h" : NumberInt(150), 
+                                "resize" : "crop"
+                            }, 
+                            "large" : {
+                                "w" : NumberInt(600), 
+                                "h" : NumberInt(450), 
+                                "resize" : "fit"
+                            }, 
+                            "medium" : {
+                                "w" : NumberInt(600), 
+                                "h" : NumberInt(450), 
+                                "resize" : "fit"
+                            }, 
+                            "small" : {
+                                "w" : NumberInt(600), 
+                                "h" : NumberInt(450), 
+                                "resize" : "fit"
+                            }
+                        }
+                    }
+                ]
+            }, 
+            "extended_entities" : {
+                "media" : [
+                    {
+                        "id" : NumberLong(604974622505889792), 
+                        "id_str" : "604974622505889792", 
+                        "indices" : [
+                            NumberInt(20), 
+                            NumberInt(42)
+                        ], 
+                        "media_url" : "http://pbs.twimg.com/media/CGVNNsCW8AANVfI.jpg", 
+                        "media_url_https" : "https://pbs.twimg.com/media/CGVNNsCW8AANVfI.jpg", 
+                        "url" : "http://t.co/qmFajgGvZ3", 
+                        "display_url" : "pic.twitter.com/qmFajgGvZ3", 
+                        "expanded_url" : "https://twitter.com/SoCuteKittens/status/604974622560395264/photo/1", 
+                        "type" : "photo", 
+                        "sizes" : {
+                            "thumb" : {
+                                "w" : NumberInt(150), 
+                                "h" : NumberInt(150), 
+                                "resize" : "crop"
+                            }, 
+                            "large" : {
+                                "w" : NumberInt(600), 
+                                "h" : NumberInt(450), 
+                                "resize" : "fit"
+                            }, 
+                            "medium" : {
+                                "w" : NumberInt(600), 
+                                "h" : NumberInt(450), 
+                                "resize" : "fit"
+                            }, 
+                            "small" : {
+                                "w" : NumberInt(600), 
+                                "h" : NumberInt(450), 
+                                "resize" : "fit"
+                            }
+                        }
+                    }
+                ]
+            }, 
+            "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+            "in_reply_to_status_id" : null, 
+            "in_reply_to_status_id_str" : null, 
+            "in_reply_to_user_id" : null, 
+            "in_reply_to_user_id_str" : null, 
+            "in_reply_to_screen_name" : null, 
+            "geo" : null, 
+            "coordinates" : null, 
+            "place" : null, 
+            "contributors" : null, 
+            "is_quote_status" : false, 
+            "retweet_count" : NumberInt(105), 
+            "favorite_count" : NumberInt(196), 
+            "favorited" : false, 
+            "retweeted" : false, 
+            "possibly_sensitive" : false, 
+            "lang" : "en"
+        }, 
+        "is_quote_status" : false, 
+        "retweet_count" : NumberInt(105), 
+        "favorite_count" : NumberInt(0), 
+        "favorited" : false, 
+        "retweeted" : false, 
+        "possibly_sensitive" : false, 
+        "lang" : "en"
+    }, 
+    "contributors_enabled" : false, 
+    "is_translator" : false, 
+    "is_translation_enabled" : false, 
+    "profile_background_color" : "C0DEED", 
+    "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_tile" : false, 
+    "profile_image_url" : "http://pbs.twimg.com/profile_images/572204564524498944/nlzbuoi7_normal.jpeg", 
+    "profile_image_url_https" : "https://pbs.twimg.com/profile_images/572204564524498944/nlzbuoi7_normal.jpeg", 
+    "profile_banner_url" : "https://pbs.twimg.com/profile_banners/3054183445/1425286197", 
+    "profile_link_color" : "1DA1F2", 
+    "profile_sidebar_border_color" : "C0DEED", 
+    "profile_sidebar_fill_color" : "DDEEF6", 
+    "profile_text_color" : "333333", 
+    "profile_use_background_image" : true, 
+    "has_extended_profile" : false, 
+    "default_profile" : true, 
+    "default_profile_image" : false, 
+    "following" : false, 
+    "follow_request_sent" : false, 
+    "notifications" : false, 
+    "translator_type" : "none"
+}
+{ 
+    "_id" : ObjectId("5aff65c39954de125d6f5dec"), 
+    "id" : NumberInt(74349387), 
+    "id_str" : "74349387", 
+    "name" : "david young", 
+    "screen_name" : "rockstar11111", 
+    "location" : "Arkansas", 
+    "profile_location" : null, 
+    "description" : "Sometimes I just want to give it all up and become a handsome billionaire.", 
+    "url" : "http://t.co/n0ZlLmOv", 
+    "entities" : {
+        "url" : {
+            "urls" : [
+                {
+                    "url" : "http://t.co/n0ZlLmOv", 
+                    "expanded_url" : "http://BBB.org", 
+                    "display_url" : "BBB.org", 
+                    "indices" : [
+                        NumberInt(0), 
+                        NumberInt(20)
+                    ]
+                }
+            ]
+        }, 
+        "description" : {
+            "urls" : [
+
+            ]
+        }
+    }, 
+    "protected" : false, 
+    "followers_count" : NumberInt(2), 
+    "friends_count" : NumberInt(238), 
+    "listed_count" : NumberInt(3), 
+    "created_at" : "Tue Sep 15 03:07:57 +0000 2009", 
+    "favourites_count" : NumberInt(341), 
+    "utc_offset" : null, 
+    "time_zone" : null, 
+    "geo_enabled" : false, 
+    "verified" : false, 
+    "statuses_count" : NumberInt(1122), 
+    "lang" : "en", 
+    "status" : {
+        "created_at" : "Sun Apr 05 04:54:09 +0000 2015", 
+        "id" : NumberLong(584579755841875969), 
+        "id_str" : "584579755841875969", 
+        "text" : "RT @Quiethits: Business pays $72 plus per customer on #Yelp, vs. $1 on Google. Are some business owners stupid?  http://t.co/G3gNHkHCP2", 
+        "truncated" : false, 
+        "entities" : {
+            "hashtags" : [
+                {
+                    "text" : "Yelp", 
+                    "indices" : [
+                        NumberInt(54), 
+                        NumberInt(59)
+                    ]
+                }
+            ], 
+            "symbols" : [
+
+            ], 
+            "user_mentions" : [
+                {
+                    "screen_name" : "Quiethits", 
+                    "name" : "Traffic Generator", 
+                    "id" : NumberInt(86868839), 
+                    "id_str" : "86868839", 
+                    "indices" : [
+                        NumberInt(3), 
+                        NumberInt(13)
+                    ]
+                }
+            ], 
+            "urls" : [
+                {
+                    "url" : "http://t.co/G3gNHkHCP2", 
+                    "expanded_url" : "http://bit.ly/GH7jQb", 
+                    "display_url" : "bit.ly/GH7jQb", 
+                    "indices" : [
+                        NumberInt(113), 
+                        NumberInt(135)
+                    ]
+                }
+            ]
+        }, 
+        "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "in_reply_to_status_id" : null, 
+        "in_reply_to_status_id_str" : null, 
+        "in_reply_to_user_id" : null, 
+        "in_reply_to_user_id_str" : null, 
+        "in_reply_to_screen_name" : null, 
+        "geo" : null, 
+        "coordinates" : null, 
+        "place" : null, 
+        "contributors" : null, 
+        "retweeted_status" : {
+            "created_at" : "Sat Apr 04 15:47:23 +0000 2015", 
+            "id" : NumberLong(584381759367684096), 
+            "id_str" : "584381759367684096", 
+            "text" : "Business pays $72 plus per customer on #Yelp, vs. $1 on Google. Are some business owners stupid?  http://t.co/G3gNHkHCP2", 
+            "truncated" : false, 
+            "entities" : {
+                "hashtags" : [
+                    {
+                        "text" : "Yelp", 
+                        "indices" : [
+                            NumberInt(39), 
+                            NumberInt(44)
+                        ]
+                    }
+                ], 
+                "symbols" : [
+
+                ], 
+                "user_mentions" : [
+
+                ], 
+                "urls" : [
+                    {
+                        "url" : "http://t.co/G3gNHkHCP2", 
+                        "expanded_url" : "http://bit.ly/GH7jQb", 
+                        "display_url" : "bit.ly/GH7jQb", 
+                        "indices" : [
+                            NumberInt(98), 
+                            NumberInt(120)
+                        ]
+                    }
+                ]
+            }, 
+            "source" : "<a href=\"http://tweetadder.com\" rel=\"nofollow\">TweetAdder v4</a>", 
+            "in_reply_to_status_id" : null, 
+            "in_reply_to_status_id_str" : null, 
+            "in_reply_to_user_id" : null, 
+            "in_reply_to_user_id_str" : null, 
+            "in_reply_to_screen_name" : null, 
+            "geo" : null, 
+            "coordinates" : null, 
+            "place" : null, 
+            "contributors" : null, 
+            "is_quote_status" : false, 
+            "retweet_count" : NumberInt(1396), 
+            "favorite_count" : NumberInt(450), 
+            "favorited" : false, 
+            "retweeted" : false, 
+            "possibly_sensitive" : false, 
+            "lang" : "en"
+        }, 
+        "is_quote_status" : false, 
+        "retweet_count" : NumberInt(1396), 
+        "favorite_count" : NumberInt(0), 
+        "favorited" : false, 
+        "retweeted" : false, 
+        "possibly_sensitive" : false, 
+        "lang" : "en"
+    }, 
+    "contributors_enabled" : false, 
+    "is_translator" : false, 
+    "is_translation_enabled" : false, 
+    "profile_background_color" : "C0DEED", 
+    "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png", 
+    "profile_background_tile" : false, 
+    "profile_image_url" : "http://pbs.twimg.com/profile_images/3123479102/31d1815c52ff1ffd23f329a9c60cf03a_normal.jpeg", 
+    "profile_image_url_https" : "https://pbs.twimg.com/profile_images/3123479102/31d1815c52ff1ffd23f329a9c60cf03a_normal.jpeg", 
+    "profile_link_color" : "1DA1F2", 
+    "profile_sidebar_border_color" : "C0DEED", 
+    "profile_sidebar_fill_color" : "DDEEF6", 
+    "profile_text_color" : "333333", 
+    "profile_use_background_image" : true, 
+    "has_extended_profile" : false, 
+    "default_profile" : true, 
+    "default_profile_image" : false, 
+    "following" : false, 
+    "follow_request_sent" : false, 
+    "notifications" : false, 
+    "translator_type" : "none"
+}
+{ 
+    "_id" : ObjectId("5aff73a29954de125d6f5dee"), 
+    "id" : NumberInt(408675384), 
+    "id_str" : "408675384", 
+    "name" : "hadil sammouri", 
+    "screen_name" : "HadilSammouri", 
+    "location" : "lebanon", 
+    "profile_location" : null, 
+    "description" : "works at SAB Méditerranée", 
+    "url" : null, 
+    "entities" : {
+        "description" : {
+            "urls" : [
+
+            ]
+        }
+    }, 
+    "protected" : false, 
+    "followers_count" : NumberInt(37), 
+    "friends_count" : NumberInt(1773), 
+    "listed_count" : NumberInt(6), 
+    "created_at" : "Wed Nov 09 18:55:53 +0000 2011", 
+    "favourites_count" : NumberInt(95), 
+    "utc_offset" : NumberInt(-7200), 
+    "time_zone" : "Greenland", 
+    "geo_enabled" : true, 
+    "verified" : false, 
+    "statuses_count" : NumberInt(1206), 
+    "lang" : "en", 
+    "status" : {
+        "created_at" : "Sun Apr 05 04:50:01 +0000 2015", 
+        "id" : NumberLong(584578715826401280), 
+        "id_str" : "584578715826401280", 
+        "text" : "RT @Quiethits: Business pays $72 plus per customer on #Yelp, vs. $1 on Google. Are some business owners stupid?  http://t.co/G3gNHkHCP2", 
+        "truncated" : false, 
+        "entities" : {
+            "hashtags" : [
+                {
+                    "text" : "Yelp", 
+                    "indices" : [
+                        NumberInt(54), 
+                        NumberInt(59)
+                    ]
+                }
+            ], 
+            "symbols" : [
+
+            ], 
+            "user_mentions" : [
+                {
+                    "screen_name" : "Quiethits", 
+                    "name" : "Traffic Generator", 
+                    "id" : NumberInt(86868839), 
+                    "id_str" : "86868839", 
+                    "indices" : [
+                        NumberInt(3), 
+                        NumberInt(13)
+                    ]
+                }
+            ], 
+            "urls" : [
+                {
+                    "url" : "http://t.co/G3gNHkHCP2", 
+                    "expanded_url" : "http://bit.ly/GH7jQb", 
+                    "display_url" : "bit.ly/GH7jQb", 
+                    "indices" : [
+                        NumberInt(113), 
+                        NumberInt(135)
+                    ]
+                }
+            ]
+        }, 
+        "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "in_reply_to_status_id" : null, 
+        "in_reply_to_status_id_str" : null, 
+        "in_reply_to_user_id" : null, 
+        "in_reply_to_user_id_str" : null, 
+        "in_reply_to_screen_name" : null, 
+        "geo" : null, 
+        "coordinates" : null, 
+        "place" : null, 
+        "contributors" : null, 
+        "retweeted_status" : {
+            "created_at" : "Sat Apr 04 15:47:23 +0000 2015", 
+            "id" : NumberLong(584381759367684096), 
+            "id_str" : "584381759367684096", 
+            "text" : "Business pays $72 plus per customer on #Yelp, vs. $1 on Google. Are some business owners stupid?  http://t.co/G3gNHkHCP2", 
+            "truncated" : false, 
+            "entities" : {
+                "hashtags" : [
+                    {
+                        "text" : "Yelp", 
+                        "indices" : [
+                            NumberInt(39), 
+                            NumberInt(44)
+                        ]
+                    }
+                ], 
+                "symbols" : [
+
+                ], 
+                "user_mentions" : [
+
+                ], 
+                "urls" : [
+                    {
+                        "url" : "http://t.co/G3gNHkHCP2", 
+                        "expanded_url" : "http://bit.ly/GH7jQb", 
+                        "display_url" : "bit.ly/GH7jQb", 
+                        "indices" : [
+                            NumberInt(98), 
+                            NumberInt(120)
+                        ]
+                    }
+                ]
+            }, 
+            "source" : "<a href=\"http://tweetadder.com\" rel=\"nofollow\">TweetAdder v4</a>", 
+            "in_reply_to_status_id" : null, 
+            "in_reply_to_status_id_str" : null, 
+            "in_reply_to_user_id" : null, 
+            "in_reply_to_user_id_str" : null, 
+            "in_reply_to_screen_name" : null, 
+            "geo" : null, 
+            "coordinates" : null, 
+            "place" : null, 
+            "contributors" : null, 
+            "is_quote_status" : false, 
+            "retweet_count" : NumberInt(1396), 
+            "favorite_count" : NumberInt(450), 
+            "favorited" : false, 
+            "retweeted" : false, 
+            "possibly_sensitive" : false, 
+            "lang" : "en"
+        }, 
+        "is_quote_status" : false, 
+        "retweet_count" : NumberInt(1396), 
+        "favorite_count" : NumberInt(0), 
+        "favorited" : false, 
+        "retweeted" : false, 
+        "possibly_sensitive" : false, 
+        "lang" : "en"
+    }, 
+    "contributors_enabled" : false, 
+    "is_translator" : false, 
+    "is_translation_enabled" : false, 
+    "profile_background_color" : "BADFCD", 
+    "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme12/bg.gif", 
+    "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme12/bg.gif", 
+    "profile_background_tile" : false, 
+    "profile_image_url" : "http://pbs.twimg.com/profile_images/378800000783174195/21d56550cd0381d8acd7266c70f92477_normal.jpeg", 
+    "profile_image_url_https" : "https://pbs.twimg.com/profile_images/378800000783174195/21d56550cd0381d8acd7266c70f92477_normal.jpeg", 
+    "profile_banner_url" : "https://pbs.twimg.com/profile_banners/408675384/1385286020", 
+    "profile_link_color" : "FF0000", 
+    "profile_sidebar_border_color" : "F2E195", 
+    "profile_sidebar_fill_color" : "FFF7CC", 
+    "profile_text_color" : "0C3E53", 
+    "profile_use_background_image" : true, 
+    "has_extended_profile" : false, 
+    "default_profile" : false, 
+    "default_profile_image" : false, 
+    "following" : false, 
+    "follow_request_sent" : false, 
+    "notifications" : false, 
+    "translator_type" : "none"
+}

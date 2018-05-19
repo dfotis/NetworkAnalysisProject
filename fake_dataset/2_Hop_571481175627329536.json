@@ -1,0 +1,6 @@
+{ 
+    "_id" : ObjectId("5aff74b59954de126e0fd41d"), 
+    "hop" : "2_hop", 
+    "source" : NumberLong(2869949028), 
+    "target" : NumberLong(3050561118)
+}
